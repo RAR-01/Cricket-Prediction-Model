@@ -10,8 +10,7 @@ def parse_matches():
 
     matches = []
 
-    for file in os.listdir(RAW_DATA_PATH):
-
+    for file in sorted(os.listdir(RAW_DATA_PATH)):   # sorted() for consistent ordering
         if not file.endswith(".yaml"):
             continue
 
@@ -21,13 +20,15 @@ def parse_matches():
             data = yaml.safe_load(f)
 
         info = data.get("info", {})
-
         teams = info.get("teams", [])
 
         if len(teams) != 2:
             continue
 
-        team1, team2 = teams
+        # FIX: always assign team1/team2 alphabetically so the
+        # model sees a consistent frame — team1 is always the
+        # lexicographically smaller name across every match.
+        team1, team2 = sorted(teams)
 
         venue = info.get("venue")
         city = info.get("city")
@@ -42,7 +43,12 @@ def parse_matches():
         outcome = info.get("outcome", {})
         winner = outcome.get("winner")
 
+        # Skip matches with no result (rain, abandoned, tied super-over, etc.)
         if winner is None:
+            continue
+
+        # Skip if winner is neither of the two teams (data error guard)
+        if winner not in (team1, team2):
             continue
 
         matches.append({
@@ -53,20 +59,19 @@ def parse_matches():
             "city": city,
             "toss_winner": toss_winner,
             "toss_decision": toss_decision,
-            "winner": winner
+            "winner": winner,
         })
 
     df = pd.DataFrame(matches)
-
     df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values("date")
+    df = df.sort_values("date").reset_index(drop=True)
 
     os.makedirs("data/processed", exist_ok=True)
-
     df.to_csv(OUTPUT_PATH, index=False)
 
-    print("Dataset created:", OUTPUT_PATH)
-    print("Total matches:", len(df))
+    print(f"Dataset created: {OUTPUT_PATH}")
+    print(f"Total matches  : {len(df)}")
+    return df
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1147 @@
+date,team1,team2,winner,t1_bat_total_runs,t1_bat_wickets_lost,t1_bat_pp_rr,t1_bat_death_rr,t1_bat_boundaries,t1_bat_dot_pct,t1_bowl_runs_conceded,t1_bowl_wickets_taken,t1_bowl_pp_wkts,t1_bowl_death_econ,t1_bowl_dot_pct,t2_bat_total_runs,t2_bat_wickets_lost,t2_bat_pp_rr,t2_bat_death_rr,t2_bat_boundaries,t2_bat_dot_pct,t2_bowl_runs_conceded,t2_bowl_wickets_taken,t2_bowl_pp_wkts,t2_bowl_death_econ,t2_bowl_dot_pct
+2008-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,222,3,10.167,13.6,29,0.3,82,10,4,6.0,0.549,82,10,4.333,6.0,6,0.549,222,3,1,13.6,0.3
+2008-04-19,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,240,5,8.833,15.8,36,0.283,207,4,1,8.4,0.192,207,4,10.5,8.4,27,0.192,240,5,1,15.8,0.283
+2008-04-19,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,132,1,9.167,24.0,19,0.341,129,8,2,6.6,0.45,129,8,6.667,6.6,17,0.45,132,1,1,24.0,0.341
+2008-04-20,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,110,10,6.5,9.0,12,0.554,112,5,3,7.75,0.535,112,5,4.333,7.75,9,0.535,110,10,2,9.0,0.554
+2008-04-20,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,165,7,7.833,12.0,23,0.375,166,5,1,10.286,0.305,166,5,6.667,10.286,21,0.305,165,7,3,12.0,0.375
+2008-04-21,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,166,8,9.0,10.2,25,0.454,168,4,3,8.211,0.431,168,4,8.833,8.211,24,0.431,166,8,1,10.2,0.454
+2008-04-22,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,142,8,4.167,13.8,18,0.467,143,1,1,0.0,0.333,143,1,8.0,0.0,21,0.333,142,8,2,13.8,0.467
+2008-04-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,208,5,8.833,13.0,30,0.308,202,7,2,13.6,0.317,202,7,8.667,13.6,27,0.317,208,5,2,13.0,0.308
+2008-04-24,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,214,5,9.667,13.2,33,0.308,217,7,1,12.0,0.286,217,7,12.167,12.0,32,0.286,214,5,2,13.2,0.308
+2008-04-25,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,182,10,10.0,8.8,23,0.333,116,9,2,3.0,0.575,116,9,6.5,3.0,16,0.575,182,10,1,8.8,0.333
+2008-04-26,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,152,1,7.5,15.5,17,0.333,147,9,3,8.6,0.408,147,9,10.167,8.6,18,0.408,152,1,0,15.5,0.333
+2008-04-26,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,138,3,7.5,7.846,24,0.427,135,8,2,8.0,0.533,135,8,9.5,8.0,19,0.533,138,3,2,7.846,0.427
+2008-04-27,Deccan Chargers,Mumbai Indians,Deccan Chargers,155,0,10.0,0.0,24,0.288,154,7,3,11.0,0.408,154,7,4.5,11.0,19,0.408,155,0,0,0.0,0.288
+2008-04-27,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,158,8,7.5,10.2,20,0.325,162,6,2,8.667,0.393,162,6,9.167,8.667,22,0.393,158,8,3,10.2,0.325
+2008-04-28,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,178,5,6.0,15.2,25,0.358,165,10,1,7.071,0.297,165,10,7.5,7.071,19,0.297,178,5,1,15.2,0.358
+2008-04-29,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,137,8,6.667,10.0,18,0.442,138,3,3,7.636,0.464,138,3,6.333,7.636,19,0.464,137,8,3,10.0,0.442
+2008-04-30,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,191,5,9.667,8.0,26,0.258,181,5,3,9.4,0.267,181,5,9.167,9.4,23,0.267,191,5,1,8.0,0.258
+2008-05-01,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,164,8,8.333,10.6,22,0.333,167,3,1,9.913,0.283,167,3,6.833,9.913,23,0.283,164,8,1,10.6,0.333
+2008-05-01,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,151,10,8.5,5.52,14,0.313,196,7,1,10.8,0.308,196,7,7.5,10.8,27,0.308,151,10,3,5.52,0.313
+2008-05-02,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,169,6,7.833,8.6,22,0.367,172,2,0,7.5,0.316,172,2,10.667,7.5,21,0.316,169,6,1,8.6,0.367
+2008-05-03,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,153,6,5.5,8.2,20,0.333,156,8,1,8.4,0.283,156,8,7.667,8.4,19,0.283,153,6,2,8.2,0.333
+2008-05-03,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,178,6,8.167,11.8,26,0.35,169,6,4,13.6,0.383,169,6,5.167,13.6,18,0.383,178,6,1,11.8,0.35
+2008-05-04,Delhi Daredevils,Mumbai Indians,Mumbai Indians,133,10,6.167,4.957,14,0.381,162,8,2,10.0,0.417,162,8,8.333,10.0,22,0.417,133,10,2,4.957,0.381
+2008-05-04,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,109,10,6.333,4.5,13,0.535,110,2,0,0.0,0.453,110,2,7.333,0.0,12,0.453,109,10,4,4.5,0.535
+2008-05-05,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,127,4,8.667,5.4,15,0.464,126,10,3,6.692,0.5,126,10,4.333,6.692,17,0.5,127,4,1,5.4,0.464
+2008-05-06,Chennai Super Kings,Deccan Chargers,Deccan Chargers,144,7,5.667,11.6,17,0.442,148,3,1,11.0,0.463,148,3,8.333,11.0,22,0.463,144,7,3,11.6,0.442
+2008-05-07,Mumbai Indians,Rajasthan Royals,Mumbai Indians,104,3,5.667,12.0,10,0.484,103,10,2,0.75,0.439,103,10,8.0,0.75,11,0.439,104,3,0,12.0,0.484
+2008-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,129,7,6.833,14.0,17,0.417,124,4,2,13.0,0.375,124,4,5.833,13.0,17,0.375,129,7,2,14.0,0.417
+2008-05-08,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,188,6,10.333,9.2,25,0.275,187,5,2,10.8,0.217,187,5,8.333,10.8,25,0.217,188,6,0,9.2,0.275
+2008-05-09,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,140,8,8.333,7.4,18,0.392,141,2,0,12.0,0.344,141,2,8.333,12.0,18,0.344,140,8,0,7.4,0.392
+2008-05-10,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,181,4,8.833,7.4,21,0.333,163,9,2,9.6,0.383,163,9,5.833,9.6,18,0.383,181,4,2,7.4,0.333
+2008-05-11,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,181,7,9.167,11.2,24,0.4,204,4,1,17.2,0.35,204,4,7.167,17.2,31,0.35,181,7,3,11.2,0.4
+2008-05-11,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,156,7,7.833,12.0,15,0.342,159,7,2,9.36,0.412,159,7,3.5,9.36,19,0.412,156,7,1,12.0,0.342
+2008-05-12,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,144,1,7.0,4.5,19,0.34,143,8,3,8.2,0.35,143,8,8.333,8.2,15,0.35,144,1,0,4.5,0.34
+2008-05-13,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,110,10,6.167,4.588,13,0.43,133,6,1,7.6,0.358,133,6,5.833,7.6,13,0.358,110,10,4,4.588,0.43
+2008-05-14,Chennai Super Kings,Mumbai Indians,Mumbai Indians,156,6,4.667,13.4,24,0.467,158,1,0,0.0,0.446,158,1,13.0,0.0,24,0.446,156,6,2,13.4,0.467
+2008-05-15,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,182,9,11.833,10.8,24,0.325,194,4,1,11.2,0.258,194,4,8.0,11.2,24,0.258,182,9,1,10.8,0.325
+2008-05-16,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,67,10,4.5,0.0,8,0.641,68,2,2,0.0,0.424,68,2,12.364,0.0,11,0.424,67,10,3,0.0,0.641
+2008-05-17,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,197,1,8.5,10.8,24,0.283,132,9,3,9.8,0.492,132,9,3.833,9.8,16,0.492,197,1,0,10.8,0.283
+2008-05-17,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,118,4,11.333,0.0,16,0.364,94,3,3,0.0,0.229,94,3,12.167,0.0,12,0.229,118,4,0,0.0,0.364
+2008-05-18,Deccan Chargers,Mumbai Indians,Mumbai Indians,153,7,5.333,9.4,19,0.392,178,7,1,12.8,0.358,178,7,9.5,12.8,23,0.358,153,7,3,9.4,0.392
+2008-05-18,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,55,0,7.167,0.0,8,0.438,149,5,2,9.6,0.375,149,5,5.833,9.6,18,0.375,55,0,0,0.0,0.438
+2008-05-19,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,158,5,11.833,9.3,22,0.336,154,7,1,10.4,0.442,154,7,6.833,10.4,20,0.442,158,5,0,9.3,0.336
+2008-05-20,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,147,8,5.333,9.0,19,0.425,150,4,3,14.667,0.384,150,4,7.0,14.667,22,0.384,147,8,1,9.0,0.425
+2008-05-21,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,189,4,7.167,11.0,26,0.35,188,10,1,8.8,0.342,188,10,11.333,8.8,23,0.342,189,4,1,11.0,0.35
+2008-05-21,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,112,8,7.333,4.0,12,0.558,126,8,2,10.0,0.425,126,8,3.833,10.0,15,0.425,112,8,0,4.0,0.558
+2008-05-23,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,175,4,7.0,12.8,23,0.367,178,4,0,9.556,0.274,178,4,12.333,9.556,21,0.274,175,4,0,12.8,0.367
+2008-05-24,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,179,5,9.333,10.138,26,0.328,176,8,0,10.6,0.375,176,8,10.0,10.6,25,0.375,179,5,2,10.138,0.328
+2008-05-24,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,201,7,10.833,8.8,28,0.292,211,5,0,8.8,0.25,211,5,11.167,8.8,29,0.25,201,7,1,8.8,0.292
+2008-05-25,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,165,10,6.833,8.4,22,0.425,171,5,1,16.25,0.333,171,5,7.167,16.25,26,0.333,165,10,0,8.4,0.425
+2008-05-25,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,174,6,7.833,8.2,22,0.35,175,7,2,15.214,0.424,175,7,8.5,15.214,26,0.424,174,6,1,8.2,0.35
+2008-05-26,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,145,7,4.833,9.6,15,0.383,146,5,2,11.2,0.35,146,5,6.0,11.2,13,0.35,145,7,0,9.6,0.383
+2008-05-27,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,148,3,7.333,7.846,19,0.397,147,8,2,10.8,0.358,147,8,4.333,10.8,16,0.358,148,3,1,7.846,0.397
+2008-05-28,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,221,3,8.5,15.4,34,0.342,180,7,2,8.0,0.358,180,7,6.333,8.0,26,0.358,221,3,0,15.4,0.342
+2008-05-28,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,126,1,6.5,9.0,16,0.448,122,9,2,10.0,0.454,122,9,6.0,10.0,13,0.454,126,1,0,9.0,0.448
+2008-05-30,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,87,10,4.667,4.286,10,0.505,192,9,0,10.0,0.383,192,9,9.667,10.0,29,0.383,87,10,3,4.286,0.505
+2008-05-31,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,116,1,5.833,0.0,17,0.416,112,8,4,8.8,0.517,112,8,5.833,8.8,13,0.517,116,1,1,0.0,0.416
+2008-06-01,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,163,5,7.0,9.2,16,0.308,164,7,1,10.4,0.358,164,7,6.833,10.4,17,0.358,163,5,1,9.2,0.308
+2009-04-18,Chennai Super Kings,Mumbai Indians,Mumbai Indians,146,7,6.667,7.6,16,0.383,165,7,1,12.0,0.292,165,7,6.667,12.0,22,0.292,146,7,2,7.6,0.383
+2009-04-18,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,58,10,2.333,0.0,3,0.648,133,8,3,9.2,0.458,133,8,4.833,9.2,17,0.458,58,10,2,0.0,0.648
+2009-04-19,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,58,0,12.0,0.0,9,0.31,104,7,1,0.0,0.389,104,7,11.167,0.0,12,0.389,58,0,0,0.0,0.31
+2009-04-19,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,104,2,6.167,0.0,15,0.456,101,10,3,7.929,0.559,101,10,3.5,7.929,11,0.559,104,2,2,0.0,0.456
+2009-04-20,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,179,5,11.333,8.8,21,0.283,87,10,2,6.0,0.522,87,10,7.667,6.0,10,0.522,179,5,0,8.8,0.283
+2009-04-21,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,158,6,7.667,8.2,19,0.383,79,1,1,0.0,0.464,79,1,10.0,0.0,9,0.464,158,6,1,8.2,0.383
+2009-04-22,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,184,6,10.333,9.0,21,0.325,160,8,2,10.2,0.4,160,8,5.167,10.2,21,0.4,184,6,1,9.0,0.325
+2009-04-23,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,180,9,10.167,6.4,19,0.258,189,5,2,13.2,0.292,189,5,9.833,13.2,24,0.292,180,9,1,6.4,0.258
+2009-04-24,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,173,3,7.333,16.0,17,0.202,168,9,3,10.0,0.383,168,9,8.167,10.0,21,0.383,173,3,0,16.0,0.202
+2009-04-25,Deccan Chargers,Mumbai Indians,Deccan Chargers,168,9,9.167,6.2,19,0.325,156,7,1,9.6,0.35,156,7,8.333,9.6,17,0.35,168,9,0,6.2,0.325
+2009-04-26,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,150,4,7.167,11.769,14,0.302,149,7,2,9.8,0.375,149,7,7.5,9.8,13,0.375,150,4,2,11.769,0.302
+2009-04-26,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,139,6,6.333,8.2,15,0.417,112,7,4,6.0,0.433,112,7,5.333,6.0,9,0.433,139,6,2,8.2,0.417
+2009-04-27,Chennai Super Kings,Deccan Chargers,Deccan Chargers,165,6,10.333,10.4,22,0.375,169,4,1,8.889,0.316,169,4,11.5,8.889,20,0.316,165,6,1,10.4,0.375
+2009-04-27,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,95,9,7.833,0.0,10,0.435,187,6,0,7.2,0.35,187,6,10.167,7.2,21,0.35,95,9,2,0.0,0.435
+2009-04-28,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,143,7,7.0,8.4,17,0.367,147,5,2,14.571,0.42,147,5,5.5,14.571,18,0.42,143,7,3,8.4,0.367
+2009-04-29,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,119,8,4.333,6.6,6,0.35,116,7,3,7.0,0.45,116,7,3.833,7.0,8,0.45,119,8,2,6.6,0.35
+2009-04-29,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,139,6,7.5,9.0,14,0.358,143,5,0,9.31,0.361,143,5,7.667,9.31,15,0.361,139,6,2,9.0,0.358
+2009-04-30,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,164,5,6.667,12.0,21,0.375,126,9,2,6.222,0.402,126,9,6.333,6.222,13,0.402,164,5,2,12.0,0.375
+2009-04-30,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,148,9,6.167,6.0,16,0.375,150,4,2,13.364,0.402,150,4,6.833,13.364,19,0.402,148,9,2,6.0,0.375
+2009-05-01,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,137,7,5.833,8.4,15,0.467,145,9,2,9.0,0.433,145,9,6.333,9.0,18,0.433,137,7,0,8.4,0.467
+2009-05-01,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,139,6,4.333,8.2,13,0.358,148,6,2,12.0,0.35,148,6,6.667,12.0,14,0.35,139,6,2,8.2,0.358
+2009-05-02,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,141,5,6.5,7.8,16,0.425,142,7,3,9.429,0.415,142,7,5.0,9.429,17,0.415,141,5,2,7.8,0.425
+2009-05-02,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,163,10,8.833,6.6,20,0.367,145,8,2,5.0,0.433,145,8,8.167,5.0,19,0.433,163,10,2,6.6,0.367
+2009-05-03,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,149,4,4.167,12.6,16,0.392,150,1,1,8.842,0.394,150,1,8.5,8.842,18,0.394,149,4,3,12.6,0.392
+2009-05-03,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,154,4,8.5,7.6,17,0.342,153,3,1,12.2,0.383,153,3,4.667,12.2,19,0.383,154,4,2,7.6,0.342
+2009-05-04,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,178,3,8.833,9.6,21,0.292,100,10,3,0.0,0.489,100,10,8.667,0.0,12,0.489,178,3,0,9.6,0.292
+2009-05-05,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,133,8,4.833,7.4,15,0.492,211,4,0,15.0,0.333,211,4,9.5,15.0,33,0.333,133,8,4,7.4,0.492
+2009-05-05,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,157,1,9.5,10.75,19,0.36,154,3,0,10.2,0.367,154,3,9.0,10.2,18,0.367,157,1,0,10.75,0.36
+2009-05-06,Deccan Chargers,Mumbai Indians,Deccan Chargers,145,6,6.167,9.2,14,0.367,126,8,2,5.2,0.425,126,8,6.833,5.2,14,0.425,145,6,2,9.2,0.367
+2009-05-07,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,107,3,5.167,0.0,13,0.456,105,10,3,5.8,0.492,105,10,4.833,5.8,9,0.492,107,3,1,0.0,0.456
+2009-05-07,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,185,3,9.5,13.333,28,0.343,174,3,1,8.667,0.241,174,3,8.833,8.667,20,0.241,185,3,1,13.333,0.343
+2009-05-08,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,118,3,6.0,11.478,13,0.425,116,10,3,8.4,0.467,116,10,5.0,8.4,10,0.467,118,3,0,11.478,0.425
+2009-05-09,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,168,5,8.667,13.6,18,0.392,169,7,2,10.345,0.261,169,7,7.5,10.345,17,0.261,168,5,1,13.6,0.392
+2009-05-09,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,141,3,6.167,13.2,18,0.455,140,7,1,8.2,0.408,140,7,5.667,8.2,16,0.408,141,3,2,13.2,0.455
+2009-05-10,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,157,2,7.667,10.6,14,0.333,141,7,2,8.2,0.383,141,7,6.5,8.2,12,0.383,157,2,1,10.6,0.333
+2009-05-10,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,125,3,7.833,11.538,14,0.388,123,8,3,9.2,0.475,123,8,6.167,9.2,11,0.475,125,3,0,11.538,0.388
+2009-05-11,Deccan Chargers,Rajasthan Royals,Deccan Chargers,166,7,7.0,11.6,16,0.3,113,10,2,4.0,0.436,113,10,5.0,4.0,11,0.436,166,7,2,11.6,0.3
+2009-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,173,4,6.333,14.2,22,0.333,176,4,0,13.154,0.362,176,4,7.667,13.154,22,0.362,173,4,2,14.2,0.333
+2009-05-12,Kings XI Punjab,Mumbai Indians,Mumbai Indians,119,9,8.5,5.4,13,0.533,122,2,2,6.75,0.48,122,2,7.0,6.75,16,0.48,119,9,3,5.4,0.533
+2009-05-13,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,161,10,8.333,5.786,20,0.373,173,7,1,12.8,0.375,173,7,9.333,12.8,22,0.375,161,10,2,5.786,0.373
+2009-05-14,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,129,10,8.667,5.143,15,0.407,132,8,3,8.786,0.432,132,8,5.5,8.786,15,0.432,129,10,2,5.143,0.407
+2009-05-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,143,10,4.333,9.31,12,0.37,145,7,0,4.4,0.4,145,7,7.0,4.4,19,0.4,143,10,3,9.31,0.37
+2009-05-15,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,120,9,6.333,4.6,7,0.442,123,4,3,8.88,0.548,123,4,6.167,8.88,16,0.548,120,9,2,4.6,0.442
+2009-05-16,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,151,3,5.833,11.76,14,0.391,147,5,2,10.2,0.358,147,5,8.167,10.2,15,0.358,151,3,2,11.76,0.391
+2009-05-16,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,166,4,8.333,12.2,20,0.358,160,5,1,14.2,0.375,160,5,5.167,14.2,17,0.375,166,4,0,12.2,0.358
+2009-05-17,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,133,8,7.667,9.4,16,0.517,134,7,3,8.0,0.4,134,7,6.5,8.0,13,0.4,133,8,2,9.4,0.517
+2009-05-17,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,150,3,5.833,11.0,13,0.308,136,9,2,8.6,0.433,136,9,4.0,8.6,14,0.433,150,3,2,11.0,0.308
+2009-05-18,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,188,3,9.0,13.0,22,0.292,189,3,1,11.6,0.342,189,3,9.333,11.6,25,0.342,188,3,0,13.0,0.292
+2009-05-19,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,134,7,6.167,9.0,9,0.3,135,3,1,8.25,0.36,135,3,4.5,8.25,13,0.36,134,7,3,9.0,0.3
+2009-05-20,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,102,6,4.833,8.222,11,0.53,101,9,4,4.4,0.542,101,9,7.667,4.4,10,0.542,102,6,3,8.222,0.53
+2009-05-20,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,116,9,8.333,4.0,13,0.442,92,8,1,6.6,0.5,92,8,4.833,6.6,6,0.5,116,9,1,4.0,0.442
+2009-05-21,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,166,6,10.0,8.0,23,0.343,165,8,3,11.2,0.375,165,8,5.0,11.2,20,0.375,166,6,1,8.0,0.343
+2009-05-21,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,158,6,10.667,7.8,15,0.308,170,4,1,10.8,0.375,170,4,5.5,10.8,20,0.375,158,6,0,7.8,0.308
+2009-05-22,Deccan Chargers,Delhi Daredevils,Deccan Chargers,154,4,14.0,3.0,21,0.387,153,8,2,8.8,0.383,153,8,8.167,8.8,17,0.383,154,4,1,3.0,0.387
+2009-05-23,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,146,5,8.667,7.8,15,0.333,149,4,2,10.174,0.407,149,4,9.833,10.174,20,0.407,146,5,0,7.8,0.333
+2009-05-24,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,143,6,5.167,8.4,13,0.392,137,9,1,6.8,0.442,137,9,6.0,6.8,15,0.442,143,6,2,8.4,0.392
+2010-03-12,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,150,7,10.333,5.6,15,0.375,161,4,4,13.8,0.417,161,4,6.333,13.8,19,0.417,150,7,1,5.6,0.375
+2010-03-13,Mumbai Indians,Rajasthan Royals,Mumbai Indians,212,7,11.5,10.6,29,0.275,208,7,2,13.0,0.292,208,7,6.5,13.0,29,0.292,212,7,1,10.6,0.275
+2010-03-13,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,146,5,6.5,8.483,17,0.37,142,9,3,5.8,0.433,142,9,7.333,5.8,16,0.433,146,5,2,8.483,0.37
+2010-03-14,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,136,3,10.167,4.615,17,0.431,135,7,3,9.2,0.367,135,7,4.0,9.2,15,0.367,136,3,0,4.615,0.431
+2010-03-14,Chennai Super Kings,Deccan Chargers,Deccan Chargers,159,9,5.667,10.2,17,0.367,190,4,2,12.6,0.35,190,4,9.5,12.6,26,0.35,159,9,4,10.2,0.367
+2010-03-15,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,142,4,10.0,5.077,17,0.33,141,6,3,10.0,0.45,141,6,7.833,10.0,18,0.45,142,4,2,5.077,0.33
+2010-03-16,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,203,3,8.333,14.0,27,0.3,204,2,0,14.348,0.319,204,2,10.167,14.348,28,0.319,203,3,0,14.0,0.3
+2010-03-16,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,164,3,5.167,13.6,20,0.333,109,10,3,4.385,0.491,109,10,7.5,4.385,14,0.491,164,3,1,13.6,0.333
+2010-03-17,Delhi Daredevils,Mumbai Indians,Mumbai Indians,120,9,9.333,0.667,16,0.424,218,7,1,10.6,0.25,218,7,11.167,10.6,28,0.25,120,9,1,0.667,0.424
+2010-03-18,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,92,10,5.167,2.897,7,0.538,93,0,0,0.0,0.422,93,0,9.833,0.0,15,0.422,92,10,1,2.897,0.538
+2010-03-19,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,190,5,9.333,8.88,28,0.357,185,6,1,9.2,0.283,185,6,8.667,9.2,26,0.283,190,5,1,8.88,0.357
+2010-03-19,Deccan Chargers,Kings XI Punjab,Deccan Chargers,170,8,9.333,9.0,20,0.292,164,8,3,13.2,0.417,164,8,4.5,13.2,23,0.417,170,8,2,9.0,0.292
+2010-03-20,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,151,9,7.5,9.8,18,0.4,155,3,0,9.12,0.339,155,3,9.167,9.12,20,0.339,151,9,2,9.8,0.4
+2010-03-20,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,134,5,6.333,7.0,14,0.35,168,7,2,8.8,0.283,168,7,9.333,8.8,22,0.283,134,5,1,7.0,0.35
+2010-03-21,Deccan Chargers,Delhi Daredevils,Deccan Chargers,171,6,7.833,11.2,24,0.383,161,9,1,9.0,0.317,161,9,8.0,9.0,19,0.317,171,6,2,11.2,0.383
+2010-03-22,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,155,3,6.833,10.6,17,0.317,156,3,0,9.714,0.333,156,3,9.5,9.714,22,0.333,155,3,0,10.6,0.317
+2010-03-23,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,135,7,4.833,8.0,17,0.45,171,5,1,13.4,0.383,171,5,6.333,13.4,22,0.383,135,7,1,8.0,0.45
+2010-03-24,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,152,10,12.667,6.0,17,0.33,183,5,1,10.0,0.292,183,5,8.833,10.0,24,0.292,152,10,1,6.0,0.33
+2010-03-25,Chennai Super Kings,Mumbai Indians,Mumbai Indians,180,2,8.5,10.8,21,0.25,181,5,0,12.0,0.307,181,5,10.5,12.0,22,0.307,180,2,2,10.8,0.25
+2010-03-25,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,183,4,10.667,11.0,20,0.258,166,9,0,9.0,0.258,166,9,7.667,9.0,18,0.258,183,4,2,11.0,0.258
+2010-03-26,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,148,9,9.167,8.0,14,0.333,151,2,0,18.0,0.372,151,2,9.0,18.0,20,0.372,148,9,2,8.0,0.333
+2010-03-27,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,144,6,7.0,8.4,16,0.375,183,5,2,11.4,0.333,183,5,8.333,11.4,23,0.333,144,6,2,8.4,0.375
+2010-03-28,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,160,6,9.667,8.2,17,0.3,177,8,1,9.6,0.3,177,8,9.667,9.6,22,0.3,160,6,1,8.2,0.3
+2010-03-28,Deccan Chargers,Mumbai Indians,Mumbai Indians,131,10,8.333,3.375,15,0.443,172,7,1,14.4,0.417,172,7,8.667,14.4,27,0.417,131,10,4,3.375,0.443
+2010-03-29,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,177,4,10.333,8.4,22,0.283,137,9,3,7.8,0.367,137,9,6.0,7.8,14,0.367,177,4,3,8.4,0.283
+2010-03-30,Kings XI Punjab,Mumbai Indians,Mumbai Indians,163,10,8.0,9.0,15,0.308,164,6,1,10.222,0.342,164,6,7.5,10.222,18,0.342,163,10,2,9.0,0.308
+2010-03-31,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,162,5,9.333,9.652,17,0.31,161,4,1,8.8,0.342,161,4,8.667,8.8,21,0.342,162,5,0,9.652,0.31
+2010-03-31,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,188,6,8.667,13.6,23,0.275,121,10,4,5.25,0.491,121,10,6.5,5.25,15,0.491,188,6,3,13.6,0.275
+2010-04-01,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,157,5,9.833,6.4,20,0.342,181,6,2,13.0,0.358,181,6,7.667,13.0,24,0.358,157,5,1,6.4,0.342
+2010-04-02,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,181,5,6.833,12.4,23,0.3,184,4,1,14.88,0.217,184,4,8.5,14.88,21,0.217,181,5,1,12.4,0.3
+2010-04-03,Deccan Chargers,Mumbai Indians,Mumbai Indians,115,10,6.667,5.1,9,0.391,178,5,0,12.8,0.292,178,5,8.833,12.8,21,0.292,115,10,2,5.1,0.391
+2010-04-03,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,246,5,11.0,15.2,36,0.275,223,5,0,9.6,0.3,223,5,10.333,9.6,33,0.3,246,5,1,15.2,0.275
+2010-04-04,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,184,5,9.0,11.8,25,0.375,147,9,1,7.2,0.333,147,9,6.333,7.2,15,0.333,184,5,2,11.8,0.375
+2010-04-04,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,204,2,11.5,14.4,29,0.164,200,3,0,10.2,0.3,200,3,8.833,10.2,26,0.3,204,2,1,14.4,0.164
+2010-04-05,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,157,10,8.667,8.069,20,0.412,159,10,2,6.414,0.378,159,10,8.0,6.414,18,0.378,157,10,2,8.069,0.412
+2010-04-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,165,4,7.0,8.2,16,0.292,141,9,0,9.8,0.392,141,9,7.667,9.8,14,0.392,165,4,1,8.2,0.292
+2010-04-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,167,8,7.333,6.4,20,0.292,181,3,0,11.0,0.317,181,3,8.333,11.0,23,0.317,167,8,1,6.4,0.292
+2010-04-07,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,153,6,8.667,5.4,17,0.325,157,1,0,0.0,0.333,157,1,11.667,0.0,25,0.333,153,6,1,5.4,0.325
+2010-04-08,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,186,3,5.333,14.077,25,0.293,184,6,1,15.4,0.383,184,6,7.667,15.4,23,0.383,186,3,1,14.077,0.293
+2010-04-09,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,158,4,9.333,9.692,23,0.362,154,9,2,9.0,0.275,154,9,8.5,9.0,17,0.275,158,4,1,9.692,0.362
+2010-04-10,Chennai Super Kings,Deccan Chargers,Deccan Chargers,138,8,9.167,5.6,12,0.342,139,4,2,8.88,0.435,139,4,6.167,8.88,14,0.435,138,8,1,5.6,0.342
+2010-04-10,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,160,9,10.167,7.2,21,0.433,162,3,1,19.385,0.301,162,3,8.0,19.385,20,0.301,160,9,1,7.2,0.433
+2010-04-11,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,111,10,7.5,6.429,8,0.492,112,3,0,6.545,0.402,112,3,6.5,6.545,13,0.402,111,10,3,6.429,0.492
+2010-04-11,Mumbai Indians,Rajasthan Royals,Mumbai Indians,174,5,7.833,13.6,23,0.317,137,8,3,9.6,0.383,137,8,5.667,9.6,12,0.383,174,5,3,13.6,0.317
+2010-04-12,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,151,6,5.833,8.0,16,0.383,138,10,1,7.714,0.373,138,10,6.333,7.714,12,0.373,151,6,3,8.0,0.383
+2010-04-13,Delhi Daredevils,Mumbai Indians,Mumbai Indians,144,7,11.5,7.2,13,0.25,183,4,1,15.0,0.292,183,4,7.333,15.0,21,0.292,144,7,1,7.2,0.25
+2010-04-13,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,143,1,11.167,0.0,20,0.333,139,8,4,9.2,0.467,139,8,3.667,9.2,14,0.467,143,1,1,0.0,0.333
+2010-04-14,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,130,6,5.0,8.6,15,0.467,132,5,2,12.0,0.457,132,5,9.833,12.0,22,0.457,130,6,3,8.6,0.467
+2010-04-15,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,112,9,6.5,7.355,11,0.512,113,4,3,9.0,0.438,113,4,5.5,9.0,8,0.438,112,9,3,7.355,0.512
+2010-04-16,Deccan Chargers,Kings XI Punjab,Deccan Chargers,178,5,7.5,11.28,24,0.339,174,3,1,15.2,0.4,174,3,7.167,15.2,27,0.4,178,5,1,11.28,0.339
+2010-04-17,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,191,4,5.667,10.6,24,0.333,134,9,2,7.2,0.325,134,9,5.667,7.2,13,0.325,191,4,1,10.6,0.333
+2010-04-17,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,133,2,7.0,12.857,20,0.412,132,9,0,6.2,0.4,132,9,7.667,6.2,16,0.4,133,2,2,12.857,0.412
+2010-04-18,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,195,4,8.167,13.929,29,0.305,192,3,1,12.2,0.3,192,3,8.167,12.2,27,0.3,195,4,2,13.929,0.305
+2010-04-18,Deccan Chargers,Delhi Daredevils,Deccan Chargers,145,7,6.333,5.6,18,0.392,134,7,3,9.6,0.383,134,7,6.5,9.6,14,0.383,145,7,2,5.6,0.392
+2010-04-19,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,135,1,7.333,11.2,16,0.4,133,8,2,9.4,0.367,133,8,7.0,9.4,14,0.367,135,1,0,11.2,0.4
+2010-04-21,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,184,5,9.0,15.4,21,0.333,149,9,1,6.2,0.358,149,9,7.333,6.2,15,0.358,184,5,2,15.4,0.333
+2010-04-22,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,142,7,6.5,9.2,15,0.367,104,10,2,5.308,0.552,104,10,3.833,5.308,11,0.552,142,7,3,9.2,0.367
+2010-04-24,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,82,10,4.5,1.143,10,0.613,86,1,0,0.0,0.446,86,1,5.5,0.0,11,0.446,82,10,3,1.143,0.613
+2010-04-25,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,168,5,6.667,12.0,19,0.367,146,9,1,9.0,0.4,146,9,5.5,9.0,17,0.4,168,5,0,12.0,0.367
+2011-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,153,4,7.5,9.2,18,0.292,151,7,0,8.0,0.333,151,7,8.667,8.0,17,0.333,153,4,1,9.2,0.292
+2011-04-09,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,137,8,7.333,9.4,15,0.417,141,2,1,12.522,0.398,141,2,5.167,12.522,18,0.398,137,8,2,9.4,0.417
+2011-04-09,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,161,5,10.167,7.4,18,0.325,162,4,2,12.0,0.366,162,4,8.0,12.0,19,0.366,161,5,0,7.4,0.325
+2011-04-10,Delhi Daredevils,Mumbai Indians,Mumbai Indians,95,10,6.333,3.0,11,0.519,99,2,1,7.636,0.426,99,2,5.167,7.636,9,0.426,95,10,3,3.0,0.519
+2011-04-10,Kings XI Punjab,Pune Warriors,Pune Warriors,112,8,6.171,8.8,13,0.538,113,3,1,0.0,0.456,113,3,7.333,0.0,18,0.456,112,8,5,8.8,0.538
+2011-04-11,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,154,8,5.0,10.6,18,0.333,163,4,0,9.0,0.375,163,4,7.667,9.0,23,0.375,154,8,2,10.6,0.333
+2011-04-12,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,151,6,5.0,12.4,20,0.467,152,4,1,8.857,0.396,152,4,9.5,8.857,19,0.396,151,6,2,12.4,0.467
+2011-04-12,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,143,1,6.667,7.714,20,0.36,140,4,2,9.8,0.333,140,4,4.0,9.8,15,0.333,143,1,1,7.714,0.36
+2011-04-13,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,188,4,5.167,12.4,24,0.317,193,4,1,13.2,0.226,193,4,10.833,13.2,29,0.226,188,4,2,12.4,0.317
+2011-04-13,Kochi Tuskers Kerala,Pune Warriors,Pune Warriors,148,8,6.167,7.4,17,0.442,151,6,1,9.391,0.398,151,6,7.333,9.391,17,0.398,148,8,4,7.4,0.442
+2011-04-14,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,175,5,6.833,12.2,23,0.325,142,9,3,10.0,0.408,142,9,4.667,10.0,15,0.408,175,5,1,12.2,0.325
+2011-04-15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,160,1,10.333,8.571,21,0.297,159,4,1,11.4,0.325,159,4,5.167,11.4,15,0.325,160,1,1,8.571,0.297
+2011-04-15,Kochi Tuskers Kerala,Mumbai Indians,Kochi Tuskers Kerala,184,2,8.333,12.5,27,0.333,182,2,0,11.4,0.317,182,2,7.333,11.4,23,0.317,184,2,0,12.5,0.333
+2011-04-16,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,165,8,8.0,10.4,20,0.283,166,2,0,10.125,0.377,166,2,10.333,10.125,23,0.377,165,8,1,10.4,0.283
+2011-04-16,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,183,5,7.5,11.4,25,0.267,162,7,3,10.0,0.333,162,7,5.5,10.0,18,0.333,183,5,0,11.4,0.267
+2011-04-17,Delhi Daredevils,Pune Warriors,Delhi Daredevils,190,7,11.167,14.308,25,0.336,187,5,1,11.8,0.383,187,5,10.5,11.8,24,0.383,190,7,0,14.308,0.336
+2011-04-17,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,85,2,4.333,0.0,8,0.458,81,10,2,3.0,0.446,81,10,6.0,3.0,7,0.446,85,2,1,0.0,0.458
+2011-04-18,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,131,4,7.0,11.0,18,0.382,135,3,1,0.0,0.389,135,3,8.167,0.0,19,0.389,131,4,1,11.0,0.382
+2011-04-19,Deccan Chargers,Delhi Daredevils,Deccan Chargers,168,4,7.167,7.8,23,0.308,152,7,3,9.0,0.392,152,7,6.333,9.0,17,0.392,168,4,1,7.8,0.308
+2011-04-20,Mumbai Indians,Pune Warriors,Mumbai Indians,124,3,5.333,7.0,11,0.367,118,10,4,7.714,0.49,118,10,5.5,7.714,15,0.49,124,3,1,7.0,0.367
+2011-04-20,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,132,7,7.5,6.4,16,0.433,126,9,3,8.0,0.4,126,9,6.167,8.0,10,0.4,132,7,0,6.4,0.433
+2011-04-21,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,195,7,12.833,5.2,26,0.35,147,7,2,6.8,0.367,147,7,7.5,6.8,18,0.367,195,7,1,5.2,0.35
+2011-04-22,Chennai Super Kings,Mumbai Indians,Mumbai Indians,156,9,7.333,7.4,19,0.383,164,4,2,11.4,0.408,164,4,6.667,11.4,21,0.408,156,9,2,7.4,0.383
+2011-04-22,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,171,5,8.333,11.4,19,0.325,175,1,0,7.263,0.349,175,1,9.5,7.263,27,0.349,171,5,1,11.4,0.325
+2011-04-23,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,231,4,11.667,11.6,32,0.267,202,6,1,11.0,0.383,202,6,7.667,11.0,32,0.383,231,4,0,11.6,0.267
+2011-04-24,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,109,10,5.333,4.2,8,0.417,111,2,0,0.0,0.388,111,2,6.333,0.0,15,0.388,109,10,2,4.2,0.417
+2011-04-24,Deccan Chargers,Mumbai Indians,Mumbai Indians,135,8,6.833,7.0,15,0.392,172,4,1,14.0,0.317,172,4,9.5,14.0,23,0.317,135,8,2,7.0,0.392
+2011-04-25,Chennai Super Kings,Pune Warriors,Chennai Super Kings,142,6,7.5,8.6,14,0.367,117,9,4,4.8,0.417,117,9,6.667,4.8,8,0.417,142,6,0,8.6,0.367
+2011-04-26,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,160,6,7.0,9.0,18,0.358,161,7,1,9.778,0.376,161,7,10.833,9.778,22,0.376,160,6,1,9.0,0.358
+2011-04-27,Chennai Super Kings,Pune Warriors,Chennai Super Kings,145,2,4.667,9.111,14,0.333,141,6,3,10.0,0.467,141,6,6.167,10.0,17,0.467,145,2,1,9.111,0.333
+2011-04-27,Deccan Chargers,Kochi Tuskers Kerala,Deccan Chargers,129,7,3.333,7.8,14,0.433,74,10,6,0.667,0.586,74,10,4.833,0.667,9,0.586,129,7,3,7.8,0.433
+2011-04-28,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,131,9,6.833,9.0,14,0.442,148,7,1,8.6,0.367,148,7,7.0,8.6,16,0.367,131,9,1,9.0,0.442
+2011-04-29,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,94,8,5.167,5.4,6,0.475,95,3,1,6.947,0.55,95,3,3.0,6.947,9,0.55,94,8,2,5.4,0.475
+2011-04-29,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,155,5,7.0,9.4,17,0.342,181,5,0,12.6,0.333,181,5,9.5,12.6,23,0.333,155,5,1,9.4,0.342
+2011-04-30,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,157,7,5.667,12.6,19,0.442,119,10,3,7.043,0.407,119,10,6.167,7.043,12,0.407,157,7,2,12.6,0.442
+2011-04-30,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,119,6,6.667,6.6,12,0.458,120,2,2,7.714,0.413,120,2,7.5,7.714,14,0.413,119,6,2,6.6,0.458
+2011-05-01,Pune Warriors,Rajasthan Royals,Rajasthan Royals,143,7,8.167,8.2,17,0.367,144,4,1,11.556,0.385,144,4,5.667,11.556,15,0.385,143,7,1,8.2,0.367
+2011-05-01,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,165,5,5.667,13.8,19,0.333,146,8,0,5.6,0.375,146,8,10.667,5.6,15,0.375,165,5,1,13.8,0.333
+2011-05-02,Kings XI Punjab,Mumbai Indians,Mumbai Indians,136,8,4.0,7.0,14,0.317,159,5,1,9.0,0.333,159,5,5.833,9.0,21,0.333,136,8,1,7.0,0.317
+2011-05-02,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,140,6,7.0,8.4,18,0.392,141,3,1,0.0,0.389,141,3,11.167,0.0,20,0.389,140,6,2,8.4,0.392
+2011-05-03,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,149,6,6.833,8.2,14,0.292,169,4,1,11.8,0.333,169,4,6.833,11.8,19,0.333,149,6,2,8.2,0.292
+2011-05-04,Mumbai Indians,Pune Warriors,Mumbai Indians,160,7,8.167,12.6,19,0.383,139,7,2,9.8,0.458,139,7,5.167,9.8,15,0.458,160,7,1,12.6,0.383
+2011-05-04,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,149,2,7.167,8.455,14,0.277,147,6,0,6.8,0.367,147,6,7.833,6.8,18,0.367,149,2,1,8.455,0.277
+2011-05-05,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,156,5,5.833,11.6,17,0.325,139,7,0,7.8,0.4,139,7,7.167,7.8,17,0.4,156,5,2,11.6,0.325
+2011-05-05,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,175,5,7.167,10.0,22,0.308,179,6,3,7.5,0.351,179,6,4.833,7.5,24,0.351,175,5,1,10.0,0.308
+2011-05-06,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,120,9,6.333,6.2,12,0.392,205,6,1,10.0,0.375,205,6,8.0,10.0,34,0.375,120,9,4,6.2,0.392
+2011-05-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,114,4,2.5,7.4,8,0.383,61,2,2,0.0,0.433,61,2,5.5,0.0,7,0.433,114,4,2,7.4,0.383
+2011-05-07,Delhi Daredevils,Mumbai Indians,Mumbai Indians,146,10,3.833,9.724,21,0.437,178,4,1,9.8,0.342,178,4,8.333,9.8,26,0.342,146,10,4,9.724,0.437
+2011-05-08,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,125,9,8.167,5.6,12,0.425,128,1,1,0.0,0.418,128,1,13.167,0.0,20,0.418,125,9,1,5.6,0.425
+2011-05-08,Kings XI Punjab,Pune Warriors,Pune Warriors,119,8,5.667,4.6,13,0.417,120,5,1,2.769,0.476,120,5,6.667,2.769,16,0.476,119,8,1,4.6,0.417
+2011-05-09,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,196,3,9.167,12.0,25,0.267,133,10,2,4.222,0.376,133,10,8.0,4.222,12,0.376,196,3,0,12.0,0.267
+2011-05-10,Deccan Chargers,Pune Warriors,Pune Warriors,136,8,8.333,7.2,13,0.283,137,4,0,7.5,0.509,137,4,8.667,7.5,22,0.509,136,8,0,7.2,0.283
+2011-05-10,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,163,8,6.5,7.8,18,0.367,87,10,3,0.0,0.494,87,10,5.5,0.0,12,0.494,163,8,1,7.8,0.367
+2011-05-11,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,146,6,7.167,6.8,15,0.383,151,1,0,12.5,0.343,151,1,11.0,12.5,23,0.343,146,6,0,6.8,0.383
+2011-05-12,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,176,4,7.0,14.2,23,0.325,158,6,1,10.2,0.383,158,6,8.667,10.2,17,0.383,176,4,2,14.2,0.325
+2011-05-13,Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,181,4,8.167,9.391,27,0.381,178,7,0,9.6,0.342,178,7,10.333,9.6,19,0.342,181,4,2,9.391,0.381
+2011-05-14,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,89,4,5.5,0.0,10,0.449,105,6,2,0.0,0.419,105,6,10.833,0.0,15,0.419,89,4,3,0.0,0.449
+2011-05-14,Deccan Chargers,Mumbai Indians,Deccan Chargers,135,6,5.333,10.6,13,0.342,125,8,3,9.8,0.5,125,8,4.333,9.8,12,0.5,135,6,1,10.6,0.342
+2011-05-15,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,141,8,7.0,8.8,19,0.517,170,6,1,8.8,0.433,170,6,7.167,8.8,26,0.433,141,8,0,8.8,0.517
+2011-05-15,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,98,2,14.5,0.0,16,0.409,97,10,3,2.857,0.613,97,10,5.333,2.857,13,0.613,98,2,2,0.0,0.409
+2011-05-16,Deccan Chargers,Pune Warriors,Deccan Chargers,138,4,9.5,6.923,14,0.397,136,9,2,8.8,0.5,136,9,6.5,8.8,17,0.5,138,4,0,6.923,0.397
+2011-05-17,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,232,2,5.0,11.8,32,0.325,121,10,3,12.0,0.5,121,10,5.667,12.0,16,0.5,232,2,1,11.8,0.325
+2011-05-18,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,152,5,6.833,10.2,16,0.317,141,5,1,10.2,0.333,141,5,6.667,10.2,13,0.333,152,5,2,10.2,0.317
+2011-05-19,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,119,3,7.333,3.0,14,0.44,118,7,2,7.4,0.45,118,7,4.833,7.4,11,0.45,119,3,1,3.0,0.44
+2011-05-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,133,5,4.333,7.8,14,0.367,134,0,0,0.0,0.329,134,0,8.667,0.0,21,0.329,133,5,2,7.8,0.367
+2011-05-21,Deccan Chargers,Kings XI Punjab,Deccan Chargers,198,2,9.667,10.2,23,0.217,116,10,2,4.25,0.544,116,10,7.5,4.25,16,0.544,198,2,0,10.2,0.217
+2011-05-22,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,128,8,3.833,9.8,14,0.508,129,2,1,8.333,0.444,129,2,7.333,8.333,16,0.444,128,8,4,9.8,0.508
+2011-05-22,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,175,7,7.667,10.8,23,0.292,178,5,1,13.6,0.308,178,5,9.0,13.6,23,0.308,175,7,2,10.8,0.292
+2011-05-24,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,177,4,4.167,14.357,24,0.381,175,4,1,10.6,0.333,175,4,7.333,10.6,20,0.333,177,4,2,14.357,0.381
+2011-05-25,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,147,7,4.167,9.0,18,0.375,148,6,0,6.462,0.405,148,6,10.333,6.462,21,0.405,147,7,4,9.0,0.375
+2011-05-27,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,142,8,8.667,7.8,17,0.392,185,4,0,7.0,0.3,185,4,11.333,7.0,21,0.3,142,8,2,7.8,0.392
+2011-05-28,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,205,5,9.333,8.8,20,0.25,147,8,2,8.0,0.35,147,8,7.833,8.0,15,0.35,205,5,0,8.8,0.25
+2012-04-04,Chennai Super Kings,Mumbai Indians,Mumbai Indians,112,10,7.0,3.517,7,0.387,115,3,0,8.182,0.426,115,3,8.833,8.182,14,0.426,112,10,2,3.517,0.387
+2012-04-05,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,100,2,8.0,0.0,12,0.254,97,9,4,0.0,0.375,97,9,7.667,0.0,11,0.375,100,2,0,0.0,0.254
+2012-04-06,Mumbai Indians,Pune Warriors,Pune Warriors,101,9,4.5,5.4,10,0.508,129,9,3,7.6,0.375,129,9,5.0,7.6,12,0.375,101,9,3,5.4,0.508
+2012-04-06,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,160,9,7.5,8.6,18,0.3,191,4,0,12.8,0.292,191,4,9.5,12.8,26,0.292,160,9,2,8.6,0.3
+2012-04-07,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,193,6,7.333,14.4,22,0.317,119,10,1,8.308,0.417,119,10,7.5,8.308,15,0.417,193,6,2,14.4,0.317
+2012-04-07,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,137,7,7.667,9.2,15,0.375,157,8,2,9.8,0.35,157,8,7.667,9.8,19,0.35,137,7,1,9.2,0.375
+2012-04-08,Kings XI Punjab,Pune Warriors,Pune Warriors,144,8,3.167,9.0,15,0.375,166,6,2,10.6,0.35,166,6,6.333,10.6,18,0.35,144,8,2,9.0,0.375
+2012-04-08,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,142,10,4.5,9.6,15,0.392,164,5,1,9.6,0.35,164,5,6.167,9.6,19,0.35,142,10,4,9.6,0.392
+2012-04-09,Deccan Chargers,Mumbai Indians,Mumbai Indians,138,9,7.5,8.4,14,0.4,142,5,2,11.4,0.383,142,5,4.833,11.4,16,0.383,138,9,2,8.4,0.4
+2012-04-10,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,110,8,6.833,6.0,10,0.483,111,2,2,0.0,0.312,111,2,8.333,0.0,14,0.312,110,8,2,6.0,0.483
+2012-04-10,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,165,8,10.0,7.4,21,0.358,123,9,3,8.4,0.408,123,9,3.333,8.4,11,0.408,165,8,0,7.4,0.358
+2012-04-11,Mumbai Indians,Rajasthan Royals,Mumbai Indians,197,6,9.0,12.0,26,0.275,170,10,2,7.286,0.407,170,10,7.333,7.286,22,0.407,197,6,1,12.0,0.275
+2012-04-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,208,5,8.667,15.4,26,0.275,205,8,1,11.2,0.317,205,8,9.333,11.2,26,0.317,208,5,0,15.4,0.275
+2012-04-12,Kings XI Punjab,Pune Warriors,Kings XI Punjab,116,3,6.333,10.5,15,0.453,115,10,3,4.75,0.474,115,10,4.833,4.75,12,0.474,116,3,1,10.5,0.453
+2012-04-13,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,137,5,6.0,9.692,14,0.397,131,5,0,9.2,0.433,131,5,7.5,9.2,15,0.433,137,5,1,9.692,0.397
+2012-04-14,Chennai Super Kings,Pune Warriors,Pune Warriors,155,5,7.167,8.2,17,0.3,156,3,1,11.538,0.293,156,3,9.333,11.538,17,0.293,155,5,0,8.2,0.3
+2012-04-15,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,134,9,4.333,9.4,12,0.375,132,7,2,7.6,0.333,132,7,8.0,7.6,12,0.333,134,9,2,9.4,0.375
+2012-04-15,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,195,2,7.167,16.4,29,0.325,136,10,2,6.414,0.42,136,10,9.0,6.414,15,0.42,195,2,0,16.4,0.325
+2012-04-16,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,93,3,6.833,0.0,8,0.449,92,10,2,3.0,0.56,92,10,3.833,3.0,11,0.56,93,3,1,0.0,0.449
+2012-04-17,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,196,2,9.5,15.4,25,0.292,197,5,1,13.5,0.246,197,5,10.333,13.5,28,0.246,196,2,0,15.4,0.292
+2012-04-17,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,182,6,9.667,9.6,22,0.25,186,4,2,13.8,0.317,186,4,7.0,13.8,22,0.317,182,6,0,9.6,0.25
+2012-04-18,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,124,7,7.5,7.0,10,0.325,127,2,1,13.333,0.364,127,2,8.833,13.333,15,0.364,124,7,1,7.0,0.325
+2012-04-19,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,157,8,8.333,7.4,18,0.325,162,5,3,11.28,0.391,162,5,5.667,11.28,21,0.391,157,8,1,7.4,0.325
+2012-04-19,Chennai Super Kings,Pune Warriors,Chennai Super Kings,164,5,7.0,9.8,20,0.342,151,7,2,8.8,0.342,151,7,8.833,8.8,13,0.342,164,5,0,9.8,0.342
+2012-04-20,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,163,6,6.833,11.6,16,0.275,166,5,3,11.111,0.342,166,5,6.0,11.111,20,0.342,163,6,2,11.6,0.275
+2012-04-21,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,147,3,7.5,8.6,14,0.267,146,4,1,7.8,0.458,146,4,6.833,7.8,17,0.458,147,3,0,8.6,0.267
+2012-04-21,Delhi Daredevils,Pune Warriors,Pune Warriors,172,7,8.167,8.2,21,0.308,192,3,1,13.4,0.317,192,3,8.667,13.4,26,0.317,172,7,1,8.2,0.308
+2012-04-22,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,164,4,8.0,10.0,19,0.299,163,6,0,6.8,0.317,163,6,6.5,6.8,20,0.317,164,4,0,10.0,0.299
+2012-04-22,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,126,7,6.5,5.6,11,0.342,127,5,1,7.5,0.395,127,5,7.0,7.5,13,0.395,126,7,1,5.6,0.342
+2012-04-23,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,143,7,8.0,8.0,16,0.383,189,3,1,16.4,0.333,189,3,6.167,16.4,23,0.333,143,7,0,8.0,0.383
+2012-04-24,Delhi Daredevils,Pune Warriors,Delhi Daredevils,148,2,10.167,14.0,19,0.26,146,2,2,10.2,0.333,146,2,4.667,10.2,16,0.333,148,2,1,14.0,0.26
+2012-04-25,Kings XI Punjab,Mumbai Indians,Mumbai Indians,168,3,7.333,13.6,19,0.358,171,6,0,13.448,0.286,171,6,6.667,13.448,19,0.286,168,3,1,13.6,0.358
+2012-04-26,Deccan Chargers,Pune Warriors,Deccan Chargers,177,4,8.333,11.0,19,0.25,159,7,2,11.6,0.367,159,7,7.333,11.6,18,0.367,177,4,2,11.0,0.25
+2012-04-27,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,207,5,9.0,10.8,31,0.325,170,9,3,6.2,0.333,170,9,8.167,6.2,23,0.333,207,5,0,10.8,0.325
+2012-04-28,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,149,8,8.0,10.0,16,0.375,156,8,0,7.0,0.358,156,8,7.167,7.0,18,0.358,149,8,1,10.0,0.375
+2012-04-28,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,190,4,7.667,11.2,27,0.333,143,6,3,11.2,0.45,143,6,5.833,11.2,19,0.45,190,4,0,11.2,0.333
+2012-04-29,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,152,6,7.0,9.4,18,0.358,151,3,0,8.6,0.308,151,3,6.667,8.6,18,0.308,152,6,2,9.4,0.358
+2012-04-29,Deccan Chargers,Mumbai Indians,Mumbai Indians,100,10,6.333,4.909,10,0.518,101,5,2,7.579,0.495,101,5,5.167,7.579,8,0.495,100,10,1,4.909,0.518
+2012-04-30,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,139,5,7.167,8.2,10,0.317,140,5,1,7.929,0.297,140,5,6.167,7.929,12,0.297,139,5,2,8.2,0.317
+2012-05-01,Deccan Chargers,Pune Warriors,Deccan Chargers,186,4,5.5,15.2,22,0.25,173,5,1,11.4,0.333,173,5,8.0,11.4,21,0.333,186,4,2,15.2,0.25
+2012-05-01,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,144,4,10.167,30.0,21,0.326,141,6,0,7.4,0.342,141,6,9.333,7.4,17,0.342,144,4,1,30.0,0.326
+2012-05-02,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,163,6,8.833,6.414,20,0.345,158,5,1,7.2,0.367,158,5,5.5,7.2,19,0.367,163,6,1,6.414,0.345
+2012-05-03,Mumbai Indians,Pune Warriors,Mumbai Indians,120,9,7.0,5.6,12,0.417,119,6,1,8.6,0.458,119,6,6.167,8.6,13,0.458,120,9,0,5.6,0.417
+2012-05-04,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,160,6,9.333,7.2,13,0.3,150,5,1,9.6,0.308,150,5,7.833,9.6,17,0.308,160,6,1,7.2,0.3
+2012-05-05,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,150,5,11.333,5.8,13,0.358,143,8,2,6.8,0.358,143,8,7.5,6.8,15,0.358,150,5,0,5.8,0.358
+2012-05-05,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,134,8,5.5,7.4,16,0.442,177,6,1,10.2,0.35,177,6,10.667,10.2,24,0.35,134,8,2,7.4,0.442
+2012-05-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,173,8,8.667,10.0,21,0.35,174,8,1,8.6,0.35,174,8,7.667,8.6,26,0.35,173,8,1,10.0,0.35
+2012-05-06,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,181,2,7.667,12.8,24,0.325,185,5,0,18.783,0.327,185,5,7.667,18.783,26,0.327,181,2,0,12.8,0.325
+2012-05-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,153,9,8.333,9.0,17,0.375,154,4,0,7.091,0.312,154,4,10.0,7.091,15,0.312,153,9,2,9.0,0.375
+2012-05-08,Pune Warriors,Rajasthan Royals,Rajasthan Royals,125,6,5.833,6.8,7,0.317,126,3,2,10.5,0.357,126,3,8.167,10.5,17,0.357,125,6,1,6.8,0.317
+2012-05-08,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,145,8,6.667,9.2,14,0.367,170,5,0,8.2,0.342,170,5,8.5,8.2,22,0.342,145,8,2,9.2,0.367
+2012-05-09,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,141,6,4.167,9.2,15,0.4,142,1,0,10.333,0.38,142,1,5.833,10.333,17,0.38,141,6,2,9.2,0.4
+2012-05-10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,127,6,6.0,15.789,16,0.514,126,6,2,7.4,0.45,126,6,4.667,7.4,14,0.45,127,6,2,15.789,0.514
+2012-05-10,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,187,4,5.5,12.0,30,0.35,193,1,1,15.6,0.33,193,1,10.667,15.6,25,0.33,187,4,2,12.0,0.35
+2012-05-11,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,138,9,8.333,6.6,16,0.375,173,3,0,8.8,0.367,173,3,11.0,8.8,22,0.367,138,9,3,6.6,0.375
+2012-05-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,155,4,5.333,9.8,18,0.292,182,1,1,10.0,0.325,182,1,8.167,10.0,26,0.325,155,4,2,9.8,0.292
+2012-05-12,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,115,1,7.5,9.0,15,0.457,114,5,4,7.2,0.4,114,5,4.5,7.2,7,0.4,115,1,0,9.0,0.457
+2012-05-13,Pune Warriors,Rajasthan Royals,Rajasthan Royals,125,9,5.5,5.6,12,0.358,170,4,1,8.8,0.35,170,4,7.5,8.8,22,0.35,125,9,4,5.6,0.358
+2012-05-13,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,190,4,7.833,12.8,21,0.242,194,6,2,12.8,0.317,194,6,7.333,12.8,27,0.317,190,4,1,12.8,0.242
+2012-05-14,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,173,5,5.333,14.357,23,0.356,171,6,2,12.8,0.4,171,6,6.667,12.8,20,0.4,173,5,3,14.357,0.356
+2012-05-14,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,160,5,8.5,9.0,20,0.367,158,6,0,9.2,0.325,158,6,8.333,9.2,20,0.325,160,5,0,9.0,0.367
+2012-05-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,140,5,6.167,9.25,21,0.412,136,8,2,7.4,0.442,136,8,7.833,7.4,20,0.442,140,5,4,9.25,0.412
+2012-05-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,140,7,5.333,9.2,15,0.392,108,10,1,6.72,0.513,108,10,4.333,6.72,12,0.513,140,7,2,9.2,0.392
+2012-05-17,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,120,7,4.167,8.6,15,0.525,123,4,0,6.0,0.465,123,4,7.167,6.0,20,0.465,120,7,2,8.6,0.525
+2012-05-17,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,194,9,8.5,9.0,26,0.283,215,1,1,15.6,0.325,215,1,7.0,15.6,32,0.325,194,9,2,9.0,0.283
+2012-05-18,Deccan Chargers,Rajasthan Royals,Deccan Chargers,128,5,9.667,7.909,13,0.429,126,8,1,6.6,0.392,126,8,6.833,6.6,12,0.392,128,5,0,7.909,0.429
+2012-05-19,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,145,4,7.333,8.1,22,0.545,141,8,4,11.4,0.483,141,8,3.333,11.4,20,0.483,145,4,0,8.1,0.545
+2012-05-19,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,136,4,4.5,7.0,14,0.375,102,8,1,4.0,0.392,102,8,6.667,4.0,3,0.392,136,4,1,7.0,0.375
+2012-05-20,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,132,7,3.833,11.4,12,0.408,123,9,2,6.8,0.483,123,9,6.667,6.8,13,0.483,132,7,3,11.4,0.408
+2012-05-20,Mumbai Indians,Rajasthan Royals,Mumbai Indians,163,0,7.333,7.667,19,0.324,162,6,2,11.2,0.417,162,6,5.167,11.2,19,0.417,163,0,0,7.667,0.324
+2012-05-22,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,144,8,8.167,7.0,17,0.383,162,4,1,12.6,0.333,162,4,8.0,12.6,20,0.333,144,8,2,7.0,0.383
+2012-05-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,187,5,5.0,14.6,29,0.358,149,9,1,7.4,0.4,149,9,9.0,7.4,19,0.4,187,5,2,14.6,0.358
+2012-05-25,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,222,5,8.667,12.0,33,0.242,136,10,2,4.364,0.356,136,10,7.667,4.364,14,0.356,222,5,0,12.0,0.242
+2012-05-27,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,190,3,9.0,10.8,21,0.258,192,5,1,10.929,0.246,192,5,9.333,10.929,24,0.246,190,3,0,10.8,0.258
+2013-04-03,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,128,10,7.5,6.4,16,0.442,129,4,1,7.909,0.402,129,4,7.667,7.909,16,0.402,128,10,2,6.4,0.442
+2013-04-04,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,154,5,6.333,11.6,16,0.325,156,5,2,11.2,0.5,156,5,5.167,11.2,24,0.5,154,5,0,11.6,0.325
+2013-04-05,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,104,10,4.5,6.783,8,0.478,126,6,1,7.8,0.383,126,6,6.333,7.8,13,0.383,104,10,0,6.783,0.478
+2013-04-06,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,160,6,6.5,8.0,16,0.3,165,7,1,7.6,0.308,165,7,7.5,7.6,19,0.308,160,6,1,8.0,0.3
+2013-04-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,139,9,6.0,9.2,15,0.45,148,6,2,10.4,0.408,148,6,6.833,10.4,17,0.408,139,9,2,9.2,0.45
+2013-04-07,Kings XI Punjab,Pune Warriors,Kings XI Punjab,100,2,9.333,0.0,15,0.392,99,9,2,7.0,0.508,99,9,4.0,7.0,11,0.508,100,2,1,0.0,0.392
+2013-04-08,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,125,10,6.667,6.5,12,0.482,144,6,1,8.8,0.392,144,6,5.833,8.8,19,0.392,125,10,2,6.5,0.482
+2013-04-09,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,162,3,7.833,16.875,24,0.396,161,6,1,12.6,0.325,161,6,6.667,12.6,17,0.325,162,3,1,16.875,0.396
+2013-04-09,Delhi Daredevils,Mumbai Indians,Mumbai Indians,165,9,7.667,7.8,20,0.333,209,5,2,14.2,0.292,209,5,6.333,14.2,31,0.292,165,9,2,7.8,0.333
+2013-04-10,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,139,0,6.333,15.429,17,0.327,138,10,2,4.552,0.378,138,10,7.167,4.552,16,0.378,139,0,0,15.429,0.327
+2013-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,154,8,7.333,8.2,19,0.358,158,2,1,16.4,0.505,158,2,7.167,16.4,23,0.505,154,8,1,8.2,0.358
+2013-04-11,Pune Warriors,Rajasthan Royals,Pune Warriors,148,3,10.667,8.455,19,0.42,145,5,1,8.6,0.342,145,5,7.333,8.6,18,0.342,148,3,1,8.455,0.42
+2013-04-12,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,114,8,4.833,8.4,10,0.45,115,7,1,9.0,0.483,115,7,6.333,9.0,14,0.483,114,8,3,8.4,0.45
+2013-04-13,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,166,6,5.167,13.448,17,0.328,165,6,1,10.0,0.35,165,6,5.5,10.0,17,0.35,166,6,2,13.448,0.328
+2013-04-13,Mumbai Indians,Pune Warriors,Mumbai Indians,183,3,8.0,13.6,25,0.342,142,8,4,4.8,0.408,142,8,6.667,4.8,16,0.408,183,3,0,13.6,0.342
+2013-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,180,4,8.0,14.2,26,0.325,132,7,0,5.6,0.292,132,7,6.5,5.6,10,0.292,180,4,0,14.2,0.325
+2013-04-14,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,124,10,5.667,9.391,14,0.46,126,4,1,7.385,0.457,126,4,8.0,7.385,17,0.457,124,10,3,9.391,0.46
+2013-04-15,Chennai Super Kings,Pune Warriors,Pune Warriors,135,8,6.333,7.2,13,0.367,159,5,0,10.6,0.342,159,5,8.0,10.6,21,0.342,135,8,2,7.2,0.367
+2013-04-16,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,157,9,5.833,11.6,19,0.325,153,9,2,7.4,0.383,153,9,7.5,7.4,19,0.383,157,9,1,11.6,0.325
+2013-04-17,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,108,10,6.833,5.25,12,0.474,119,8,4,8.8,0.417,119,8,4.167,8.8,11,0.417,108,10,2,5.25,0.474
+2013-04-17,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,92,10,4.333,6.3,8,0.482,179,3,0,10.8,0.317,179,3,9.667,10.8,22,0.317,92,10,2,6.3,0.482
+2013-04-18,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,169,4,6.5,10.6,22,0.317,83,10,4,1.2,0.505,83,10,5.333,1.2,6,0.505,169,4,1,10.6,0.317
+2013-04-19,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,123,9,6.0,6.2,13,0.458,127,5,1,10.435,0.389,127,5,5.5,10.435,13,0.389,123,9,1,6.2,0.458
+2013-04-20,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,124,6,4.5,12.96,13,0.383,119,9,1,6.0,0.475,119,9,7.833,6.0,14,0.475,124,6,1,12.96,0.383
+2013-04-20,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,117,10,5.167,3.429,16,0.5,123,3,0,8.824,0.449,123,3,8.0,8.824,14,0.449,117,10,2,3.429,0.5
+2013-04-21,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,165,1,10.0,10.5,25,0.255,161,4,2,10.8,0.342,161,4,4.0,10.8,19,0.342,165,1,0,10.5,0.255
+2013-04-21,Kings XI Punjab,Pune Warriors,Kings XI Punjab,186,3,9.167,11.793,21,0.235,185,4,0,12.2,0.342,185,4,8.0,12.2,26,0.342,186,3,2,11.793,0.235
+2013-04-22,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,186,5,9.667,9.517,22,0.176,185,4,0,10.8,0.25,185,4,9.167,10.8,19,0.25,186,5,1,9.517,0.176
+2013-04-23,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,120,7,6.667,6.0,12,0.408,121,5,3,10.0,0.412,121,5,9.333,10.0,16,0.412,120,7,2,6.0,0.408
+2013-04-23,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,133,9,7.167,4.4,18,0.458,263,5,0,13.4,0.308,263,5,10.333,13.4,42,0.308,133,9,4,4.4,0.458
+2013-04-24,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,159,6,10.167,9.4,20,0.375,162,5,1,9.517,0.319,162,5,7.0,9.517,17,0.319,159,6,1,9.4,0.375
+2013-04-25,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,160,5,9.667,9.857,21,0.415,159,6,3,12.6,0.4,159,6,6.667,12.6,21,0.4,160,5,0,9.857,0.415
+2013-04-26,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,149,6,7.5,7.6,19,0.358,150,4,2,9.6,0.436,150,4,7.5,9.6,21,0.436,149,6,0,7.6,0.358
+2013-04-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,146,2,5.0,13.059,23,0.402,144,9,5,10.4,0.467,144,9,4.833,10.4,18,0.467,146,2,1,13.059,0.402
+2013-04-27,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,194,7,8.667,10.2,26,0.308,136,7,1,8.4,0.458,136,7,5.833,8.4,15,0.458,194,7,1,10.2,0.308
+2013-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,200,3,11.167,9.8,26,0.225,186,4,2,12.0,0.317,186,4,10.5,12.0,25,0.317,200,3,0,9.8,0.225
+2013-04-28,Delhi Daredevils,Pune Warriors,Delhi Daredevils,164,5,6.167,12.6,20,0.425,149,4,0,7.8,0.4,149,4,7.167,7.8,19,0.4,164,5,1,12.6,0.425
+2013-04-29,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,173,6,7.5,10.966,21,0.303,171,6,1,11.0,0.333,171,6,9.167,11.0,20,0.333,173,6,1,10.966,0.303
+2013-04-29,Kings XI Punjab,Mumbai Indians,Mumbai Indians,170,10,9.167,10.4,20,0.392,174,3,1,14.4,0.367,174,3,6.0,14.4,23,0.367,170,10,2,10.4,0.392
+2013-04-30,Chennai Super Kings,Pune Warriors,Chennai Super Kings,164,3,4.833,12.4,18,0.275,127,9,4,6.8,0.458,127,9,7.667,6.8,13,0.458,164,3,2,12.4,0.275
+2013-05-01,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,129,4,6.833,8.0,14,0.433,130,3,1,8.0,0.389,130,3,6.0,8.0,16,0.389,129,4,2,8.0,0.433
+2013-05-01,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,137,3,5.667,13.059,17,0.393,136,7,3,10.6,0.5,136,7,6.167,10.6,18,0.5,137,3,2,13.059,0.393
+2013-05-02,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,186,4,6.0,14.0,22,0.267,171,6,2,9.8,0.283,171,6,6.0,9.8,23,0.283,186,4,1,14.0,0.267
+2013-05-02,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,170,9,6.5,9.6,20,0.358,187,3,0,13.6,0.3,187,3,5.0,13.6,23,0.3,170,9,1,9.6,0.358
+2013-05-03,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,133,2,8.0,8.143,15,0.385,132,6,2,6.0,0.358,132,6,5.667,6.0,13,0.358,133,2,1,8.143,0.385
+2013-05-04,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,80,10,4.333,2.4,5,0.574,81,4,2,0.0,0.47,81,4,6.833,0.0,9,0.47,80,10,1,2.4,0.574
+2013-05-05,Chennai Super Kings,Mumbai Indians,Mumbai Indians,79,10,5.333,3.0,7,0.554,139,5,0,11.4,0.475,139,5,5.333,11.4,17,0.475,79,10,4,3.0,0.554
+2013-05-05,Pune Warriors,Rajasthan Royals,Rajasthan Royals,178,4,10.167,10.6,25,0.417,182,5,0,11.172,0.303,182,5,8.833,11.172,25,0.303,178,4,0,10.6,0.417
+2013-05-06,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,194,4,6.833,18.667,26,0.287,190,3,0,11.4,0.342,190,3,9.667,11.4,27,0.342,194,4,2,18.667,0.287
+2013-05-07,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,154,4,7.0,10.6,21,0.408,155,1,0,10.235,0.271,155,1,8.167,10.235,17,0.271,154,4,2,10.6,0.408
+2013-05-07,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,105,10,6.333,3.9,12,0.5,170,6,0,12.8,0.392,170,6,6.833,12.8,24,0.392,105,10,1,3.9,0.5
+2013-05-08,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,223,3,8.333,17.4,31,0.275,146,8,2,7.4,0.4,146,8,8.167,7.4,17,0.4,223,3,1,17.4,0.275
+2013-05-09,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,145,6,6.167,7.6,14,0.333,147,2,1,10.5,0.342,147,2,6.333,10.5,17,0.342,145,6,1,7.6,0.333
+2013-05-09,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,152,6,8.333,11.2,17,0.358,106,10,2,5.778,0.427,106,10,5.667,5.778,8,0.427,152,6,1,11.2,0.358
+2013-05-10,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,179,7,8.167,11.2,26,0.35,183,4,2,16.8,0.317,183,4,6.667,16.8,25,0.317,179,7,2,11.2,0.35
+2013-05-11,Mumbai Indians,Pune Warriors,Mumbai Indians,116,5,6.167,8.609,14,0.46,112,8,2,4.8,0.4,112,8,6.0,4.8,8,0.4,116,5,2,8.609,0.46
+2013-05-11,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,120,9,6.833,5.4,13,0.5,150,7,2,10.4,0.4,150,7,6.167,10.4,19,0.4,120,9,1,5.4,0.5
+2013-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,116,5,5.167,7.154,14,0.5,115,9,1,6.2,0.367,115,9,3.667,6.2,7,0.367,116,5,2,7.154,0.5
+2013-05-12,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,141,4,6.167,8.2,16,0.408,144,5,3,6.462,0.456,144,5,4.0,6.462,20,0.456,141,4,0,8.2,0.408
+2013-05-13,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,184,4,6.5,15.778,24,0.333,178,3,1,9.4,0.292,178,3,8.667,9.4,23,0.292,184,4,1,15.778,0.333
+2013-05-14,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,168,4,7.833,11.8,16,0.308,135,9,2,6.4,0.408,135,9,8.167,6.4,12,0.408,168,4,0,11.8,0.308
+2013-05-14,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,176,3,7.667,11.368,26,0.294,174,5,1,12.6,0.408,174,5,5.167,12.6,24,0.408,176,3,1,11.368,0.294
+2013-05-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,166,8,8.167,6.8,21,0.358,152,7,4,9.2,0.45,152,7,4.833,9.2,19,0.45,166,8,1,6.8,0.358
+2013-05-15,Kolkata Knight Riders,Pune Warriors,Pune Warriors,163,7,5.5,8.2,19,0.358,170,4,1,11.6,0.333,170,4,7.0,11.6,20,0.333,163,7,3,8.2,0.358
+2013-05-16,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,164,7,3.5,12.8,22,0.425,171,4,0,13.6,0.383,171,4,8.833,13.6,25,0.383,164,7,3,12.8,0.425
+2013-05-17,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,113,9,5.5,8.0,11,0.483,136,9,3,9.2,0.325,136,9,3.5,9.2,9,0.325,113,9,0,8.0,0.483
+2013-05-18,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,183,8,5.833,10.4,29,0.358,133,9,2,6.24,0.435,133,9,8.5,6.24,15,0.435,183,8,2,10.4,0.358
+2013-05-18,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,82,6,9.333,0.0,11,0.312,106,2,1,0.0,0.312,106,2,12.667,0.0,18,0.312,82,6,3,0.0,0.312
+2013-05-19,Delhi Daredevils,Pune Warriors,Pune Warriors,134,9,7.833,6.0,14,0.433,172,5,1,13.0,0.342,172,5,6.667,13.0,22,0.342,134,9,2,6.0,0.433
+2013-05-19,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,130,7,5.5,8.2,12,0.433,132,5,0,6.783,0.407,132,5,7.5,6.783,15,0.407,130,7,1,8.2,0.433
+2013-05-21,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,192,1,7.833,13.4,24,0.2,144,10,1,4.636,0.384,144,10,9.333,4.636,17,0.384,192,1,0,13.4,0.2
+2013-05-22,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,135,6,7.333,8.308,18,0.491,132,7,2,11.0,0.442,132,7,4.5,11.0,15,0.442,135,6,1,8.308,0.491
+2013-05-24,Mumbai Indians,Rajasthan Royals,Mumbai Indians,169,6,7.5,8.897,21,0.353,165,6,0,12.2,0.375,165,6,7.0,12.2,23,0.375,169,6,0,8.897,0.353
+2013-05-26,Chennai Super Kings,Mumbai Indians,Mumbai Indians,125,9,5.833,8.4,14,0.517,148,9,3,9.6,0.408,148,9,5.667,9.6,21,0.408,125,9,4,8.4,0.517
+2014-04-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,163,5,5.167,10.6,19,0.35,122,7,1,5.4,0.433,122,7,5.333,5.4,9,0.433,163,5,1,10.6,0.35
+2014-04-17,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,145,4,5.0,12.6,13,0.358,146,2,1,13.2,0.41,146,2,8.333,13.2,20,0.41,145,4,3,12.6,0.358
+2014-04-18,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,135,6,5.0,7.333,15,0.385,133,6,1,8.6,0.317,133,6,6.833,8.6,8,0.317,135,6,2,7.333,0.385
+2014-04-18,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,205,4,11.667,12.0,25,0.283,206,4,3,13.043,0.265,206,4,10.667,13.043,31,0.265,205,4,0,12.0,0.283
+2014-04-19,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,115,9,8.167,4.6,8,0.4,116,3,3,9.6,0.4,116,3,5.0,9.6,13,0.4,115,9,1,4.6,0.4
+2014-04-19,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,167,6,8.167,9.778,19,0.342,166,5,2,10.8,0.292,166,5,5.167,10.8,18,0.292,167,6,2,9.778,0.342
+2014-04-20,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,193,3,6.5,16.636,23,0.259,191,5,1,9.6,0.383,191,5,9.0,9.6,27,0.383,193,3,2,16.636,0.259
+2014-04-21,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,177,7,5.667,13.2,19,0.275,84,9,3,3.0,0.489,84,9,4.0,3.0,7,0.489,177,7,1,13.2,0.275
+2014-04-22,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,193,6,7.167,8.2,27,0.383,121,10,3,5.077,0.405,121,10,7.5,5.077,10,0.405,193,6,0,8.2,0.383
+2014-04-23,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,140,6,8.5,7.8,13,0.4,133,10,2,9.517,0.445,133,10,6.333,9.517,13,0.445,140,6,1,7.8,0.4
+2014-04-24,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,150,7,7.0,8.8,13,0.317,148,5,0,6.4,0.408,148,5,8.167,6.4,19,0.408,150,7,2,8.8,0.317
+2014-04-25,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,180,4,7.333,12.2,24,0.292,184,1,0,13.2,0.308,184,1,9.167,13.2,24,0.308,180,4,0,12.2,0.292
+2014-04-25,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,142,3,8.5,8.75,16,0.404,141,7,2,6.6,0.35,141,7,5.167,6.6,16,0.35,142,3,0,8.75,0.404
+2014-04-26,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,71,4,6.0,0.0,8,0.603,70,10,5,0.0,0.556,70,10,3.667,0.0,7,0.556,71,4,2,0.0,0.603
+2014-04-26,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,132,9,8.5,4.2,14,0.4,109,10,3,10.2,0.473,109,10,4.0,10.2,11,0.473,132,9,2,4.2,0.4
+2014-04-27,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,126,4,5.167,6.0,12,0.398,125,7,2,11.2,0.442,125,7,6.167,11.2,13,0.442,126,4,0,6.0,0.398
+2014-04-27,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,146,5,7.833,4.889,17,0.376,145,5,2,9.4,0.308,145,5,6.167,9.4,13,0.308,146,5,0,4.889,0.376
+2014-04-28,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,127,5,5.5,6.783,13,0.416,124,8,4,5.2,0.458,124,8,7.333,5.2,12,0.458,127,5,2,6.783,0.416
+2014-04-30,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,157,7,5.333,10.2,20,0.417,172,5,2,11.0,0.275,172,5,7.333,11.0,16,0.275,157,7,3,10.2,0.417
+2014-05-02,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,148,3,7.167,11.0,19,0.324,114,9,4,11.5,0.461,114,9,6.5,11.5,13,0.461,148,3,1,11.0,0.324
+2014-05-03,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,152,5,7.667,11.6,18,0.308,156,3,1,11.714,0.36,156,3,6.333,11.714,19,0.36,152,5,1,11.6,0.308
+2014-05-03,Kings XI Punjab,Mumbai Indians,Mumbai Indians,168,5,6.0,8.4,22,0.375,170,5,2,12.48,0.409,170,5,8.167,12.48,24,0.409,168,5,2,8.4,0.375
+2014-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,158,6,6.0,12.621,22,0.487,155,6,2,9.8,0.383,155,6,7.833,9.8,18,0.383,158,6,2,12.621,0.487
+2014-05-05,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,160,6,8.333,7.6,17,0.292,170,6,0,10.8,0.308,170,6,8.333,10.8,18,0.308,160,6,0,7.6,0.292
+2014-05-05,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,181,2,8.167,11.571,26,0.398,178,5,2,11.2,0.375,178,5,7.667,11.2,24,0.375,181,2,0,11.571,0.398
+2014-05-06,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,187,5,8.333,13.6,22,0.342,168,8,1,8.6,0.4,168,8,10.667,8.6,23,0.4,187,5,1,13.6,0.342
+2014-05-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,160,5,4.833,11.4,19,0.333,161,2,0,9.9,0.227,161,2,8.667,9.9,17,0.227,160,5,2,11.4,0.333
+2014-05-07,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,187,6,7.667,13.6,23,0.25,231,4,2,15.6,0.3,231,4,6.333,15.6,37,0.3,187,6,1,13.6,0.25
+2014-05-08,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,102,10,6.167,4.345,7,0.471,134,9,1,6.4,0.358,134,9,8.333,6.4,15,0.358,102,10,3,4.345,0.471
+2014-05-09,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,198,8,10.667,11.6,26,0.333,166,9,3,11.4,0.433,166,9,5.667,11.4,22,0.433,198,8,1,11.6,0.333
+2014-05-10,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,143,7,8.667,4.4,15,0.358,44,2,2,0.0,0.308,44,2,10.154,0.0,4,0.308,143,7,1,4.4,0.358
+2014-05-10,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,160,6,6.333,10.667,19,0.359,157,6,1,11.6,0.4,157,6,7.0,11.6,18,0.4,160,6,1,10.667,0.359
+2014-05-11,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,191,5,7.5,18.0,27,0.31,190,5,1,16.8,0.383,190,5,5.167,16.8,27,0.383,191,5,0,18.0,0.31
+2014-05-11,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,149,8,8.167,6.6,19,0.35,150,1,0,9.0,0.315,150,1,9.167,9.0,19,0.315,149,8,2,6.6,0.35
+2014-05-12,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,160,3,6.333,9.545,21,0.366,157,3,1,10.8,0.408,157,3,7.167,10.8,21,0.408,160,3,1,9.545,0.366
+2014-05-13,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,149,5,8.0,9.214,14,0.314,148,8,0,6.8,0.442,148,8,7.0,6.8,17,0.442,149,5,2,9.214,0.314
+2014-05-13,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,170,7,7.667,10.2,19,0.308,186,4,1,15.6,0.375,186,4,5.667,15.6,23,0.375,170,7,2,10.2,0.308
+2014-05-14,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,142,4,7.5,11.455,17,0.357,141,5,2,8.4,0.425,141,5,6.167,8.4,15,0.425,142,4,0,11.455,0.357
+2014-05-14,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,211,4,14.333,11.455,31,0.277,205,5,0,15.6,0.342,205,5,9.167,15.6,26,0.342,211,4,1,11.455,0.277
+2014-05-15,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,139,9,5.667,9.2,15,0.358,201,6,1,12.0,0.283,201,6,8.667,12.0,25,0.283,139,9,2,9.2,0.358
+2014-05-18,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,138,4,6.5,6.2,14,0.358,142,5,1,11.586,0.462,142,5,2.833,11.586,16,0.462,138,4,2,6.2,0.358
+2014-05-18,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,146,3,5.0,9.214,18,0.347,142,8,2,6.6,0.433,142,8,6.833,6.6,17,0.433,146,3,1,9.214,0.347
+2014-05-19,Mumbai Indians,Rajasthan Royals,Mumbai Indians,178,3,7.0,11.2,21,0.317,153,8,3,11.4,0.417,153,8,7.833,11.4,15,0.417,178,3,0,11.2,0.317
+2014-05-19,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,164,7,9.167,8.6,21,0.358,165,6,0,8.143,0.398,165,6,11.0,8.143,19,0.398,164,7,1,8.6,0.358
+2014-05-20,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,160,6,4.167,11.0,19,0.358,161,3,0,9.643,0.364,161,3,8.5,9.643,19,0.364,160,6,2,11.0,0.358
+2014-05-20,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,154,4,5.833,9.6,17,0.367,156,2,0,12.333,0.296,156,2,8.667,12.333,22,0.296,154,4,1,9.6,0.367
+2014-05-21,Kings XI Punjab,Mumbai Indians,Mumbai Indians,156,8,8.0,9.8,19,0.45,159,3,0,6.5,0.333,159,3,10.333,6.5,19,0.333,156,8,1,9.8,0.45
+2014-05-22,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,195,4,7.5,10.8,27,0.325,165,5,1,11.8,0.308,165,5,6.0,11.8,18,0.308,195,4,2,10.8,0.325
+2014-05-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,185,3,10.0,13.6,25,0.342,189,4,0,8.786,0.28,189,4,10.667,8.786,24,0.28,185,3,1,13.6,0.342
+2014-05-23,Delhi Daredevils,Mumbai Indians,Mumbai Indians,158,4,7.833,10.6,19,0.342,173,10,0,5.333,0.265,173,10,10.833,5.333,23,0.265,158,4,1,10.6,0.342
+2014-05-23,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,179,4,8.833,11.8,22,0.317,163,8,1,14.2,0.358,163,8,7.333,14.2,17,0.358,179,4,1,11.8,0.317
+2014-05-24,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,160,2,10.667,18.375,20,0.283,154,6,3,10.6,0.358,154,6,5.667,10.6,16,0.358,160,2,1,18.375,0.283
+2014-05-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,161,6,8.167,0.0,25,0.384,160,7,1,7.8,0.492,160,7,8.167,7.8,24,0.492,161,6,1,0.0,0.384
+2014-05-25,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,115,10,7.333,3.789,15,0.468,119,3,2,0.0,0.422,119,3,8.0,0.0,14,0.422,115,10,3,3.789,0.468
+2014-05-25,Mumbai Indians,Rajasthan Royals,Mumbai Indians,195,5,11.833,0.0,31,0.25,189,4,1,11.0,0.333,189,4,5.833,11.0,26,0.333,195,5,3,0.0,0.25
+2014-05-27,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,135,8,7.667,8.6,13,0.433,163,8,1,10.2,0.375,163,8,9.167,10.2,23,0.375,135,8,2,8.6,0.433
+2014-05-28,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,176,3,10.0,12.0,23,0.312,173,8,0,9.2,0.342,173,8,8.833,9.2,23,0.342,176,3,0,12.0,0.312
+2014-05-30,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,202,7,16.667,9.4,27,0.308,226,6,0,11.8,0.275,226,6,11.667,11.8,32,0.275,202,7,2,9.4,0.308
+2014-06-01,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,199,4,5.333,13.6,27,0.333,200,7,1,10.889,0.308,200,7,9.833,10.889,26,0.308,199,4,2,13.6,0.333
+2015-04-08,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,170,3,6.333,11.714,22,0.342,168,3,3,13.4,0.392,168,3,6.167,13.4,25,0.392,170,3,1,11.714,0.342
+2015-04-09,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,150,7,9.833,6.8,16,0.4,149,9,3,9.4,0.358,149,9,6.667,9.4,17,0.358,150,7,2,6.8,0.4
+2015-04-10,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,136,8,8.5,6.4,17,0.492,162,7,3,10.4,0.408,162,7,5.833,10.4,17,0.408,136,8,3,6.4,0.492
+2015-04-11,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,209,4,8.167,13.2,30,0.383,164,6,2,9.8,0.283,164,6,7.667,9.8,15,0.283,209,4,0,13.2,0.383
+2015-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,177,6,8.833,11.0,26,0.308,179,7,1,15.0,0.351,179,7,6.833,15.0,24,0.351,177,6,0,11.0,0.308
+2015-04-12,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,184,3,8.5,13.0,22,0.308,186,7,1,11.2,0.317,186,7,7.0,11.2,23,0.317,184,3,1,13.0,0.308
+2015-04-12,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,177,5,9.5,10.0,25,0.308,159,7,3,16.0,0.483,159,7,2.833,16.0,23,0.483,177,5,0,10.0,0.308
+2015-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,166,10,7.833,10.759,22,0.429,172,2,0,15.0,0.279,172,2,10.833,15.0,21,0.279,166,10,1,10.759,0.429
+2015-04-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,164,6,5.167,16.2,25,0.483,165,3,1,12.48,0.304,165,3,7.0,12.48,18,0.304,164,6,2,16.2,0.483
+2015-04-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,169,5,7.833,10.138,22,0.353,165,7,1,10.0,0.35,165,7,6.833,10.0,17,0.35,169,5,1,10.138,0.353
+2015-04-16,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,131,4,6.0,7.0,15,0.4,127,5,3,7.4,0.5,127,5,5.833,7.4,15,0.5,131,4,0,7.0,0.4
+2015-04-17,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,189,4,15.0,12.6,30,0.35,183,7,3,10.2,0.383,183,7,5.167,10.2,24,0.383,189,4,0,12.6,0.35
+2015-04-18,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,155,9,8.0,8.6,17,0.383,159,6,2,12.0,0.393,159,6,8.833,12.0,25,0.393,155,9,3,8.6,0.383
+2015-04-18,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,167,4,6.667,9.2,18,0.325,163,8,0,10.6,0.333,163,8,8.333,10.6,18,0.333,167,4,1,9.2,0.325
+2015-04-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,156,4,6.5,10.0,21,0.408,157,2,0,5.7,0.273,157,2,7.833,5.7,18,0.273,156,4,2,10.0,0.408
+2015-04-19,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,209,7,8.0,15.2,33,0.4,191,7,1,12.4,0.417,191,7,5.5,12.4,28,0.417,209,7,1,15.2,0.4
+2015-04-20,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,146,8,5.667,8.6,18,0.425,147,4,2,8.842,0.33,147,4,8.0,8.842,20,0.33,146,8,2,8.6,0.425
+2015-04-22,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,101,4,8.167,0.0,11,0.306,176,4,0,8.6,0.317,176,4,7.167,8.6,22,0.317,101,4,2,0.0,0.306
+2015-04-22,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,181,8,7.5,9.4,27,0.425,154,8,2,8.6,0.408,154,8,6.333,8.6,19,0.408,181,8,1,9.4,0.425
+2015-04-23,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,190,4,7.5,10.6,24,0.325,153,9,2,6.6,0.45,153,9,8.0,6.6,19,0.45,190,4,1,10.6,0.325
+2015-04-24,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,130,9,8.0,6.0,13,0.358,134,1,1,8.571,0.268,134,1,8.167,8.571,14,0.268,130,9,2,6.0,0.358
+2015-04-25,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,157,8,7.667,9.0,19,0.35,137,8,2,6.6,0.433,137,8,8.667,6.6,16,0.433,157,8,1,9.0,0.35
+2015-04-25,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,192,3,9.0,10.8,26,0.367,95,9,2,3.2,0.5,95,9,6.5,3.2,7,0.5,192,3,1,10.8,0.367
+2015-04-26,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,95,10,6.333,3.0,9,0.491,99,0,0,0.0,0.365,99,0,8.333,0.0,16,0.365,95,10,2,3.0,0.491
+2015-04-27,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,130,9,6.0,7.4,9,0.342,150,6,2,9.2,0.35,150,6,9.333,9.2,20,0.35,130,9,2,7.4,0.342
+2015-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,134,6,8.833,7.0,15,0.433,132,9,2,8.4,0.417,132,9,9.0,8.4,15,0.417,134,6,1,7.0,0.433
+2015-04-30,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,165,9,11.5,8.8,24,0.433,169,3,1,10.552,0.311,169,3,6.333,10.552,18,0.311,165,9,4,8.8,0.433
+2015-05-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,187,5,7.833,13.4,24,0.283,179,7,1,10.4,0.267,179,7,9.167,10.4,20,0.267,187,5,1,13.4,0.283
+2015-05-01,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,119,1,6.833,0.0,15,0.313,118,8,4,8.8,0.433,118,8,4.5,8.8,12,0.433,119,1,0,0.0,0.313
+2015-05-02,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,111,4,10.167,0.0,16,0.283,115,3,2,0.0,0.241,115,3,10.333,0.0,15,0.241,111,4,1,0.0,0.283
+2015-05-02,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,170,6,9.0,8.0,21,0.283,192,7,0,9.8,0.317,192,7,12.667,9.8,29,0.317,170,6,2,8.0,0.283
+2015-05-03,Kings XI Punjab,Mumbai Indians,Mumbai Indians,149,7,7.5,7.2,13,0.3,172,3,0,9.8,0.325,172,3,8.5,9.8,21,0.325,149,7,2,7.2,0.3
+2015-05-03,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,175,7,9.167,11.0,21,0.425,189,2,0,15.0,0.325,189,2,7.167,15.0,25,0.325,175,7,2,11.0,0.425
+2015-05-04,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,148,9,6.167,9.4,17,0.392,124,10,3,5.143,0.475,124,10,7.0,5.143,16,0.475,148,9,2,9.4,0.392
+2015-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,167,7,9.167,11.2,19,0.308,132,9,3,8.8,0.408,132,9,5.5,8.8,14,0.408,167,7,0,11.2,0.308
+2015-05-05,Delhi Daredevils,Mumbai Indians,Mumbai Indians,152,6,7.333,11.4,21,0.425,153,5,4,12.0,0.35,153,5,6.833,12.0,16,0.35,152,6,2,11.4,0.425
+2015-05-06,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,88,10,5.667,0.0,11,0.537,226,3,0,11.0,0.317,226,3,11.333,11.0,32,0.317,88,10,5,0.0,0.537
+2015-05-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,158,6,6.0,10.4,21,0.383,171,7,1,12.4,0.375,171,7,8.333,12.4,22,0.375,158,6,0,10.4,0.383
+2015-05-07,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,194,7,6.0,13.6,28,0.342,201,4,1,13.6,0.342,201,4,9.333,13.6,28,0.342,194,7,2,13.6,0.342
+2015-05-08,Chennai Super Kings,Mumbai Indians,Mumbai Indians,158,5,7.333,11.0,19,0.383,159,4,0,13.385,0.336,159,4,10.167,13.385,18,0.336,158,5,1,11.0,0.383
+2015-05-09,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,183,5,7.5,9.8,22,0.333,184,9,1,9.931,0.336,184,9,9.5,9.931,28,0.336,183,5,1,9.8,0.333
+2015-05-09,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,157,4,8.167,10.6,23,0.4,163,4,2,12.8,0.325,163,4,6.833,12.8,15,0.325,157,4,1,10.6,0.4
+2015-05-10,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,196,7,7.5,12.2,26,0.3,235,1,1,17.6,0.225,235,1,6.5,17.6,35,0.225,196,7,1,12.2,0.3
+2015-05-10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,157,5,6.0,9.8,19,0.383,145,9,1,10.4,0.333,145,9,6.667,10.4,14,0.333,157,5,2,9.8,0.383
+2015-05-11,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,180,7,7.833,15.2,23,0.358,185,5,0,9.0,0.342,185,5,9.333,9.0,25,0.342,180,7,1,15.2,0.358
+2015-05-12,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,119,6,2.667,7.2,13,0.467,120,4,2,13.8,0.43,120,4,4.667,13.8,18,0.43,119,6,1,7.2,0.467
+2015-05-13,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,106,6,12.0,0.0,13,0.217,84,6,2,0.0,0.25,84,6,10.167,0.0,8,0.25,106,6,4,0.0,0.217
+2015-05-14,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,166,7,8.333,8.8,22,0.35,171,4,2,14.4,0.342,171,4,7.667,14.4,22,0.342,166,7,2,8.8,0.35
+2015-05-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,83,4,14.229,0.0,13,0.257,135,3,1,0.0,0.167,135,3,11.333,0.0,17,0.167,83,4,4,0.0,0.257
+2015-05-16,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,190,9,8.833,9.2,26,0.358,199,6,0,10.6,0.275,199,6,11.0,10.6,26,0.275,190,9,2,9.2,0.358
+2015-05-16,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,134,3,7.833,12.545,15,0.356,130,7,3,8.8,0.45,130,7,6.833,8.8,15,0.45,134,3,2,12.545,0.356
+2015-05-17,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,114,1,6.333,0.0,16,0.386,113,10,3,6.6,0.408,113,10,4.833,6.6,9,0.408,114,1,0,0.0,0.386
+2015-05-19,Chennai Super Kings,Mumbai Indians,Mumbai Indians,162,10,9.0,10.25,18,0.289,187,6,0,10.4,0.35,187,6,8.0,10.4,23,0.35,162,10,2,10.25,0.289
+2015-05-20,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,109,10,6.667,4.25,11,0.447,180,4,1,13.4,0.358,180,4,6.833,13.4,23,0.358,109,10,2,4.25,0.447
+2015-05-22,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,140,7,5.667,10.138,12,0.328,139,8,2,9.8,0.45,139,8,4.833,9.8,16,0.45,140,7,1,10.138,0.328
+2015-05-24,Chennai Super Kings,Mumbai Indians,Mumbai Indians,161,8,5.167,9.8,22,0.417,202,5,1,11.2,0.333,202,5,10.167,11.2,28,0.333,161,8,1,9.8,0.417
+2016-04-09,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,121,8,6.167,10.6,15,0.55,126,1,0,0.0,0.432,126,1,9.5,0.0,16,0.432,121,8,4,10.6,0.55
+2016-04-10,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,98,10,5.833,2.25,11,0.623,99,1,0,0.0,0.494,99,1,7.833,0.0,15,0.494,98,10,4,2.25,0.623
+2016-04-11,Gujarat Lions,Kings XI Punjab,Gujarat Lions,162,5,9.5,10.5,24,0.292,161,6,0,7.2,0.325,161,6,8.667,7.2,18,0.325,162,5,2,10.5,0.292
+2016-04-12,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,227,4,8.167,14.2,34,0.292,182,6,1,8.6,0.392,182,6,9.333,8.6,24,0.392,227,4,1,14.2,0.292
+2016-04-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,187,5,6.667,9.8,19,0.242,188,4,1,11.76,0.33,188,4,8.833,11.76,26,0.33,187,5,1,9.8,0.242
+2016-04-14,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,164,3,10.333,10.667,20,0.324,163,5,1,8.4,0.325,163,5,9.5,8.4,19,0.325,164,3,0,10.667,0.324
+2016-04-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,113,2,4.667,0.0,15,0.383,111,9,1,7.6,0.558,111,9,6.167,7.6,13,0.558,113,2,1,0.0,0.383
+2016-04-16,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,146,2,6.0,10.2,18,0.327,142,7,3,9.6,0.4,142,7,6.0,9.6,14,0.4,146,2,0,10.2,0.327
+2016-04-16,Gujarat Lions,Mumbai Indians,Gujarat Lions,147,7,7.0,9.6,17,0.392,143,8,2,12.2,0.458,143,8,5.167,12.2,16,0.458,147,7,1,9.6,0.392
+2016-04-17,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,192,3,8.5,11.04,26,0.278,191,5,1,9.6,0.25,191,5,10.5,9.6,26,0.25,192,3,2,11.04,0.278
+2016-04-17,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,153,4,8.333,11.182,19,0.321,152,7,1,8.6,0.317,152,7,8.167,8.6,18,0.317,153,4,0,11.182,0.321
+2016-04-18,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,142,6,6.667,6.2,14,0.392,145,3,1,14.8,0.333,145,3,5.5,14.8,16,0.333,142,6,2,6.2,0.392
+2016-04-19,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,138,8,6.833,8.6,12,0.358,141,4,0,11.077,0.291,141,4,10.833,11.077,18,0.291,138,8,1,8.6,0.358
+2016-04-20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,171,4,8.5,14.333,24,0.333,170,7,1,11.6,0.342,170,7,8.167,11.6,19,0.342,171,4,1,14.333,0.333
+2016-04-21,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,135,8,8.333,6.2,12,0.3,137,0,0,0.0,0.236,137,0,10.5,0.0,14,0.236,135,8,1,6.2,0.3
+2016-04-22,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,172,9,6.0,11.4,20,0.283,185,3,1,11.4,0.225,185,3,8.0,11.4,20,0.225,172,9,3,11.4,0.283
+2016-04-23,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,164,4,6.833,10.8,17,0.275,154,7,1,8.0,0.333,154,7,8.667,8.0,19,0.333,164,4,1,10.8,0.275
+2016-04-23,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,143,6,5.833,8.0,15,0.392,146,5,0,9.529,0.364,146,5,10.833,9.529,18,0.364,143,6,2,8.0,0.392
+2016-04-24,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,182,4,12.0,10.222,20,0.265,180,2,1,13.0,0.225,180,2,8.333,13.0,22,0.225,182,4,1,10.222,0.265
+2016-04-24,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,162,8,9.833,10.667,19,0.342,160,5,1,12.0,0.283,160,5,5.167,12.0,15,0.283,162,8,2,10.667,0.342
+2016-04-25,Kings XI Punjab,Mumbai Indians,Mumbai Indians,164,7,6.667,8.6,16,0.275,189,6,1,9.8,0.275,189,6,6.5,9.8,25,0.275,164,7,2,8.6,0.275
+2016-04-26,Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiants,94,3,7.667,0.0,13,0.47,118,8,3,9.2,0.45,118,8,4.5,9.2,9,0.45,94,3,1,0.0,0.47
+2016-04-27,Delhi Daredevils,Gujarat Lions,Gujarat Lions,171,5,3.667,11.0,20,0.325,172,6,0,8.0,0.292,172,6,11.833,8.0,21,0.292,171,5,3,11.0,0.325
+2016-04-28,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,174,5,9.833,9.6,20,0.25,178,4,1,17.333,0.343,178,4,10.667,17.333,27,0.343,174,5,0,9.6,0.25
+2016-04-29,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,196,7,12.0,9.8,25,0.25,195,3,1,12.0,0.225,195,3,8.0,12.0,22,0.225,196,7,0,9.8,0.25
+2016-04-30,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,186,8,6.167,13.2,23,0.292,159,10,2,9.143,0.279,159,10,7.167,9.143,17,0.279,186,8,3,13.2,0.292
+2016-04-30,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,179,6,7.5,9.4,20,0.25,194,5,1,10.6,0.3,194,5,8.167,10.6,27,0.3,179,6,1,9.4,0.25
+2016-05-01,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,161,2,7.833,13.143,20,0.297,159,5,1,7.8,0.35,159,5,9.0,7.8,16,0.35,161,2,1,13.143,0.297
+2016-05-01,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,131,9,6.0,8.8,13,0.4,154,10,0,9.103,0.319,154,10,9.833,9.103,16,0.319,131,9,2,8.8,0.4
+2016-05-02,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,189,5,6.167,15.84,22,0.296,185,7,1,14.6,0.308,185,7,6.667,14.6,25,0.308,189,5,2,15.84,0.296
+2016-05-03,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,150,2,10.167,12.429,20,0.308,149,7,3,10.0,0.358,149,7,5.833,10.0,16,0.358,150,2,0,12.429,0.308
+2016-05-04,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,157,9,6.167,8.0,18,0.383,164,3,0,8.6,0.242,164,3,6.667,8.6,18,0.242,157,9,3,8.0,0.383
+2016-05-05,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,162,7,8.0,10.0,17,0.317,166,3,0,12.0,0.261,166,3,8.333,12.0,17,0.261,162,7,2,10.0,0.317
+2016-05-06,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,126,6,4.333,8.2,11,0.408,129,5,2,9.5,0.43,129,5,6.333,9.5,15,0.43,126,6,3,8.2,0.408
+2016-05-07,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,191,6,10.0,10.6,27,0.325,195,3,0,11.778,0.239,195,3,7.667,11.778,25,0.239,191,6,1,10.6,0.325
+2016-05-07,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,172,5,8.5,8.0,18,0.283,181,5,1,12.4,0.267,181,5,7.5,12.4,20,0.267,172,5,0,8.0,0.283
+2016-05-08,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,92,10,5.333,4.667,11,0.515,177,3,0,12.2,0.308,177,3,8.5,12.2,24,0.308,92,10,5,4.667,0.515
+2016-05-08,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,164,5,7.667,9.667,26,0.407,158,4,4,12.0,0.358,158,4,4.667,12.0,19,0.358,164,5,1,9.667,0.407
+2016-05-09,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,174,4,8.333,10.2,21,0.233,175,6,0,12.4,0.258,175,6,9.333,12.4,18,0.258,174,4,1,10.2,0.233
+2016-05-10,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,133,8,4.167,9.4,14,0.367,137,8,1,8.2,0.442,137,8,5.667,8.2,15,0.442,133,8,2,9.4,0.367
+2016-05-11,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,153,4,6.5,15.273,17,0.384,151,4,2,12.0,0.383,151,4,4.167,12.0,17,0.383,153,4,1,15.273,0.384
+2016-05-12,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,150,3,8.333,11.368,19,0.376,146,8,0,6.6,0.342,146,8,8.5,6.6,16,0.342,150,3,1,11.368,0.376
+2016-05-13,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,127,3,5.333,8.5,14,0.363,124,9,2,8.8,0.517,124,9,3.5,8.8,13,0.517,127,3,1,8.5,0.363
+2016-05-14,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,104,10,6.833,2.727,11,0.5,248,3,1,22.4,0.283,248,3,7.0,22.4,37,0.283,104,10,2,2.727,0.5
+2016-05-14,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,66,2,13.2,0.0,9,0.3,103,6,2,3.375,0.453,103,6,6.167,3.375,9,0.453,66,2,2,0.0,0.3
+2016-05-15,Delhi Daredevils,Mumbai Indians,Mumbai Indians,126,10,8.167,4.32,16,0.443,206,4,0,12.4,0.325,206,4,7.5,12.4,27,0.325,126,10,2,4.32,0.443
+2016-05-15,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,179,4,7.833,11.6,26,0.283,180,3,0,10.714,0.28,180,3,9.167,10.714,22,0.28,179,4,1,11.6,0.283
+2016-05-16,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,183,5,8.5,11.8,22,0.267,186,1,0,13.909,0.312,186,1,10.5,13.909,25,0.312,183,5,1,11.8,0.267
+2016-05-17,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,121,6,4.667,9.6,13,0.433,76,1,1,0.0,0.47,76,1,7.333,0.0,11,0.47,121,6,2,9.6,0.433
+2016-05-18,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,120,9,9.833,0.0,16,0.31,211,3,0,0.0,0.322,211,3,10.5,0.0,35,0.322,120,9,4,0.0,0.31
+2016-05-19,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,125,4,9.167,0.0,15,0.37,124,8,2,8.2,0.442,124,8,7.333,8.2,14,0.442,125,4,3,0.0,0.37
+2016-05-20,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,161,4,6.167,10.8,17,0.317,158,7,1,8.6,0.317,158,7,7.667,8.6,18,0.317,161,4,1,10.8,0.317
+2016-05-21,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,172,7,8.667,10.4,21,0.317,173,6,1,14.0,0.383,173,6,7.333,14.0,22,0.383,172,7,0,10.4,0.317
+2016-05-21,Gujarat Lions,Mumbai Indians,Gujarat Lions,173,4,11.667,9.176,29,0.346,172,8,3,7.6,0.375,172,8,8.167,7.6,24,0.375,173,4,1,9.176,0.346
+2016-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,171,6,8.0,6.0,18,0.233,149,8,1,7.0,0.375,149,8,8.0,7.0,15,0.375,171,6,2,6.0,0.233
+2016-05-22,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,138,8,7.167,8.0,12,0.325,139,4,2,8.842,0.376,139,4,8.167,8.842,15,0.376,138,8,2,8.0,0.325
+2016-05-24,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,158,10,3.833,10.8,20,0.392,159,6,5,14.7,0.364,159,6,5.167,14.7,19,0.364,158,10,3,10.8,0.392
+2016-05-25,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,140,8,7.667,6.0,11,0.317,162,8,1,10.6,0.375,162,8,7.167,10.6,21,0.375,140,8,1,6.0,0.317
+2016-05-27,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,162,7,6.333,10.6,25,0.408,163,6,2,10.846,0.362,163,6,7.667,10.846,22,0.362,162,7,2,10.6,0.408
+2016-05-29,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,200,7,9.833,8.4,25,0.3,208,7,0,13.6,0.3,208,7,9.833,13.6,30,0.3,200,7,0,8.4,0.3
+2017-04-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,172,10,9.0,7.071,23,0.373,207,4,1,11.2,0.217,207,4,9.833,11.2,26,0.217,172,10,1,7.071,0.373
+2017-04-06,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,184,8,10.167,12.8,23,0.342,187,3,1,9.931,0.244,187,3,9.833,9.931,24,0.244,184,8,1,12.8,0.342
+2017-04-07,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,183,4,8.667,11.6,26,0.292,184,0,0,0.0,0.236,184,0,12.167,0.0,26,0.236,183,4,1,11.6,0.292
+2017-04-08,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,164,4,9.333,9.0,20,0.351,163,6,1,11.0,0.267,163,6,5.833,11.0,18,0.267,164,4,2,9.0,0.351
+2017-04-08,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,142,9,7.167,5.8,15,0.392,157,8,2,7.2,0.417,157,8,6.833,7.2,21,0.417,142,9,2,5.8,0.392
+2017-04-09,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,178,7,9.833,12.2,20,0.292,180,6,0,13.448,0.403,180,6,8.167,13.448,24,0.403,178,7,2,12.2,0.292
+2017-04-09,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,135,7,6.667,6.6,13,0.3,140,1,1,18.0,0.29,140,1,9.833,18.0,17,0.29,135,7,2,6.6,0.3
+2017-04-10,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,150,2,10.333,0.0,20,0.241,148,4,3,15.4,0.442,148,4,3.833,15.4,17,0.442,150,2,1,0.0,0.241
+2017-04-11,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,205,4,10.333,16.4,27,0.267,108,10,3,1.714,0.423,108,10,8.333,1.714,11,0.423,205,4,1,16.4,0.267
+2017-04-12,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,159,6,10.167,10.364,22,0.348,158,8,0,8.0,0.375,158,8,5.667,8.0,21,0.375,159,6,2,10.364,0.348
+2017-04-13,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,170,9,9.5,7.2,24,0.45,171,2,1,9.333,0.253,171,2,12.667,9.333,25,0.253,170,9,1,7.2,0.45
+2017-04-14,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,172,3,10.167,13.0,27,0.38,171,8,2,9.0,0.308,171,8,10.667,9.0,21,0.308,172,3,0,13.0,0.38
+2017-04-14,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,145,6,3.5,14.087,14,0.363,142,5,0,6.4,0.342,142,5,6.833,6.4,11,0.342,145,6,4,14.087,0.363
+2017-04-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,188,6,8.167,13.6,28,0.342,137,9,3,6.8,0.333,137,9,6.667,6.8,14,0.333,188,6,0,13.6,0.342
+2017-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,172,6,6.667,9.6,20,0.333,155,6,0,8.4,0.4,155,6,7.5,8.4,21,0.4,172,6,2,9.6,0.333
+2017-04-16,Gujarat Lions,Mumbai Indians,Mumbai Indians,176,4,7.667,11.2,18,0.3,177,4,1,10.0,0.274,177,4,9.333,10.0,19,0.274,176,4,1,11.2,0.3
+2017-04-16,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,161,8,9.167,8.8,21,0.358,134,9,2,8.4,0.383,134,9,7.0,8.4,12,0.383,161,8,0,8.8,0.358
+2017-04-17,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,168,7,8.833,11.6,23,0.292,169,6,3,7.034,0.277,169,6,8.167,7.034,18,0.277,168,7,0,11.6,0.292
+2017-04-17,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,154,10,8.5,10.714,18,0.441,159,6,1,10.2,0.317,159,6,4.833,10.2,15,0.317,154,10,2,10.714,0.441
+2017-04-18,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,192,7,9.5,10.6,24,0.325,213,2,0,12.0,0.292,213,2,7.5,12.0,30,0.292,192,7,2,10.6,0.325
+2017-04-19,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,176,5,9.333,9.8,24,0.292,191,4,1,11.2,0.2,191,4,6.5,11.2,22,0.2,176,5,1,9.8,0.292
+2017-04-20,Kings XI Punjab,Mumbai Indians,Mumbai Indians,198,4,7.667,11.8,26,0.292,199,2,1,16.0,0.172,199,2,13.667,16.0,28,0.172,198,4,1,11.8,0.292
+2017-04-21,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,188,6,12.0,12.6,28,0.273,187,5,1,9.2,0.25,187,5,10.833,9.2,27,0.25,188,6,1,12.6,0.273
+2017-04-22,Delhi Daredevils,Mumbai Indians,Mumbai Indians,128,7,3.833,7.4,14,0.417,142,8,2,8.0,0.425,142,8,8.0,8.0,15,0.425,128,7,5,7.4,0.417
+2017-04-22,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,179,4,9.167,12.8,24,0.3,176,3,0,12.6,0.283,176,3,7.5,12.6,22,0.283,179,4,1,12.8,0.3
+2017-04-23,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,131,10,10.833,5.333,16,0.453,49,10,4,0.0,0.672,49,10,6.5,0.0,8,0.672,131,10,2,5.333,0.453
+2017-04-23,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,162,7,8.333,8.2,18,0.275,188,7,1,10.6,0.292,188,7,8.333,10.6,26,0.292,162,7,2,8.2,0.275
+2017-04-24,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,157,8,7.333,8.8,21,0.367,160,6,0,8.0,0.342,160,6,8.0,8.0,20,0.342,157,8,1,8.8,0.367
+2017-04-26,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,184,3,7.5,7.895,24,0.248,182,5,0,10.6,0.267,182,5,9.5,10.6,22,0.267,184,3,1,7.895,0.248
+2017-04-27,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,135,3,8.167,0.0,20,0.373,134,10,3,5.4,0.375,134,10,5.833,5.4,13,0.375,135,3,2,0.0,0.373
+2017-04-28,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,160,6,8.833,5.8,18,0.3,161,3,1,15.75,0.286,161,3,7.833,15.75,24,0.286,160,6,1,5.8,0.3
+2017-04-28,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,181,9,9.833,8.6,29,0.317,207,3,0,10.4,0.192,207,3,10.0,10.4,26,0.192,181,9,3,8.6,0.317
+2017-04-29,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,157,3,7.167,9.2,18,0.333,96,9,2,5.0,0.475,96,9,6.5,5.0,7,0.475,157,3,1,9.2,0.333
+2017-04-30,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,67,10,4.167,3.231,5,0.621,68,0,0,0.0,0.426,68,0,8.333,0.0,10,0.426,67,10,3,3.231,0.621
+2017-04-30,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,161,7,7.333,7.8,17,0.308,209,3,0,11.0,0.267,209,3,13.167,11.0,26,0.267,161,7,2,7.8,0.308
+2017-05-01,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,165,6,9.167,10.552,20,0.286,162,8,2,9.4,0.325,162,8,8.667,9.4,18,0.325,165,6,1,10.552,0.286
+2017-05-01,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,161,10,9.167,5.379,20,0.336,167,5,4,13.448,0.361,167,5,7.167,13.448,20,0.361,161,10,1,5.379,0.336
+2017-05-02,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,189,4,10.333,11.28,25,0.27,185,3,1,14.2,0.317,185,3,11.0,14.2,26,0.317,189,4,1,11.28,0.27
+2017-05-03,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,155,8,6.833,9.0,21,0.392,158,6,2,5.538,0.431,158,6,12.333,5.538,22,0.431,155,8,3,9.0,0.392
+2017-05-04,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,214,3,10.5,12.8,28,0.267,208,7,2,8.8,0.275,208,7,9.667,8.8,27,0.275,214,3,1,12.8,0.267
+2017-05-05,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,138,7,5.833,10.8,14,0.417,119,10,3,5.25,0.439,119,10,7.667,5.25,13,0.439,138,7,2,10.8,0.417
+2017-05-06,Delhi Daredevils,Mumbai Indians,Mumbai Indians,66,10,5.833,0.0,8,0.598,212,3,0,12.8,0.258,212,3,10.0,12.8,26,0.258,66,10,5,0.0,0.598
+2017-05-06,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,148,8,5.833,9.6,11,0.3,136,9,2,7.0,0.458,136,9,7.833,7.0,16,0.458,148,8,1,9.6,0.3
+2017-05-07,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,159,4,17.5,12.0,22,0.341,158,6,3,10.6,0.308,158,6,6.667,10.6,17,0.308,159,4,0,12.0,0.341
+2017-05-07,Gujarat Lions,Kings XI Punjab,Gujarat Lions,192,4,9.667,9.429,23,0.203,189,3,1,13.2,0.208,189,3,7.333,13.2,21,0.208,192,4,0,9.429,0.203
+2017-05-08,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,138,7,6.0,7.8,13,0.392,140,3,1,8.1,0.318,140,3,7.167,8.1,15,0.318,138,7,2,7.8,0.392
+2017-05-09,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,167,6,6.833,10.4,18,0.308,153,6,1,7.0,0.317,153,6,10.167,7.0,18,0.317,167,6,2,10.4,0.308
+2017-05-10,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,197,8,10.667,12.643,35,0.356,195,5,2,12.2,0.25,195,5,8.333,12.2,26,0.25,197,8,2,12.643,0.356
+2017-05-11,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,230,3,11.833,11.4,30,0.217,223,6,0,15.0,0.317,223,6,11.333,15.0,32,0.317,230,3,1,11.4,0.217
+2017-05-12,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,168,8,9.0,9.0,20,0.35,161,7,2,8.8,0.367,161,7,8.833,8.8,19,0.367,168,8,2,9.0,0.35
+2017-05-13,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,154,10,10.167,6.462,21,0.379,158,2,2,9.789,0.284,158,2,7.833,9.789,23,0.284,154,10,0,6.462,0.379
+2017-05-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,164,8,8.833,6.6,21,0.383,173,5,1,11.0,0.383,173,5,8.5,11.0,24,0.383,164,8,3,6.6,0.383
+2017-05-14,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,73,10,5.333,2.4,7,0.568,78,1,1,0.0,0.347,78,1,7.167,0.0,7,0.347,73,10,5,2.4,0.568
+2017-05-14,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,151,10,7.0,9.4,19,0.408,161,6,1,10.8,0.325,161,6,6.167,10.8,18,0.325,151,10,2,9.4,0.408
+2017-05-16,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,142,9,7.0,7.8,14,0.383,162,4,2,11.6,0.342,162,4,5.5,11.6,17,0.342,142,9,3,7.8,0.383
+2017-05-17,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,48,3,9.0,0.0,5,0.312,128,7,1,6.0,0.425,128,7,5.0,6.0,14,0.425,48,3,3,0.0,0.312
+2017-05-19,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,107,10,4.167,4.957,11,0.487,111,4,3,0.0,0.379,111,4,6.0,0.0,14,0.379,107,10,3,4.957,0.487
+2017-05-21,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,129,8,5.333,9.6,13,0.433,128,6,1,9.0,0.383,128,6,6.333,9.0,11,0.383,129,8,2,9.6,0.433
+2018-04-07,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,169,9,7.0,13.034,21,0.37,165,4,2,9.6,0.392,165,4,6.5,9.6,23,0.392,169,9,2,13.034,0.37
+2018-04-08,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,166,7,7.5,8.6,16,0.217,167,4,2,9.13,0.363,167,4,12.167,9.13,23,0.363,166,7,1,8.6,0.217
+2018-04-08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,177,6,11.333,9.391,24,0.363,176,7,1,8.8,0.375,176,7,8.667,8.8,24,0.375,177,6,2,9.391,0.363
+2018-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,125,9,8.0,5.6,12,0.375,127,1,1,4.8,0.448,127,1,9.5,4.8,19,0.448,125,9,1,5.6,0.375
+2018-04-10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,205,5,12.5,12.414,23,0.244,202,6,2,15.8,0.358,202,6,10.667,15.8,28,0.358,205,5,1,12.414,0.244
+2018-04-11,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,60,4,10.0,0.0,9,0.333,153,5,2,12.706,0.308,153,5,8.5,12.706,17,0.308,60,4,4,0.0,0.333
+2018-04-12,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,147,8,9.0,7.2,21,0.508,151,9,0,6.0,0.308,151,9,9.333,6.0,19,0.308,147,8,3,7.2,0.508
+2018-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,155,10,8.333,7.615,18,0.336,159,6,2,11.111,0.333,159,6,6.833,11.111,21,0.333,155,10,3,7.615,0.336
+2018-04-14,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,195,3,8.833,9.4,28,0.308,194,7,0,7.2,0.308,194,7,14.0,7.2,26,0.308,195,3,1,9.4,0.308
+2018-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,138,8,8.167,6.4,16,0.433,139,5,2,6.75,0.377,139,5,7.667,6.75,17,0.377,138,8,1,6.4,0.433
+2018-04-15,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,217,4,8.667,17.6,28,0.283,198,6,1,12.8,0.267,198,6,10.667,12.8,27,0.267,217,4,1,17.6,0.283
+2018-04-15,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,193,5,8.833,14.2,23,0.267,197,7,0,8.6,0.317,197,7,12.5,8.6,28,0.317,193,5,2,14.2,0.267
+2018-04-16,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,129,10,9.333,0.0,18,0.337,200,9,1,11.0,0.392,200,9,8.333,11.0,29,0.392,129,10,3,0.0,0.337
+2018-04-17,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,213,6,10.0,14.0,31,0.4,167,8,2,11.8,0.3,167,8,9.167,11.8,19,0.3,213,6,2,14.0,0.4
+2018-04-18,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,163,3,8.833,10.957,21,0.319,160,8,0,9.6,0.333,160,8,8.0,9.6,19,0.333,163,3,1,10.957,0.319
+2018-04-19,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,193,3,8.167,10.0,24,0.317,178,5,3,12.0,0.242,178,5,6.667,12.0,16,0.242,193,3,0,10.0,0.317
+2018-04-20,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,204,5,11.5,8.6,31,0.283,140,10,3,7.143,0.324,140,10,5.833,7.143,13,0.324,204,5,1,8.6,0.283
+2018-04-21,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,174,5,4.667,14.2,23,0.367,176,4,2,12.0,0.241,176,4,7.167,12.0,23,0.241,174,5,2,14.2,0.367
+2018-04-21,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,126,1,12.167,0.0,22,0.373,191,7,1,9.0,0.292,191,7,8.333,9.0,26,0.292,126,1,0,0.0,0.373
+2018-04-22,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,182,3,4.5,12.4,26,0.325,178,6,3,12.2,0.367,178,6,6.667,12.2,22,0.367,182,3,1,12.4,0.325
+2018-04-22,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,167,7,7.167,6.4,20,0.358,168,7,2,10.714,0.28,168,7,7.167,10.714,17,0.28,167,7,1,6.4,0.358
+2018-04-23,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,139,8,8.0,8.6,14,0.408,143,8,2,8.6,0.35,143,8,8.5,8.6,14,0.35,139,8,3,8.6,0.408
+2018-04-24,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,87,10,3.667,2.609,11,0.575,118,10,4,3.273,0.473,118,10,8.5,3.273,14,0.473,87,10,3,2.609,0.575
+2018-04-25,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,207,5,9.167,15.429,26,0.305,205,8,1,12.6,0.35,205,8,8.667,12.6,25,0.35,207,5,2,15.429,0.305
+2018-04-26,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,119,10,7.333,6.462,13,0.414,132,6,3,7.0,0.425,132,6,6.167,7.0,13,0.425,119,10,0,6.462,0.414
+2018-04-27,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,219,4,9.5,15.8,31,0.317,164,9,4,4.8,0.383,164,9,8.5,4.8,21,0.383,219,4,0,15.8,0.317
+2018-04-28,Chennai Super Kings,Mumbai Indians,Mumbai Indians,169,5,8.5,10.4,21,0.35,170,2,0,10.071,0.322,170,2,8.333,10.071,20,0.322,169,5,1,10.4,0.35
+2018-04-29,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,140,6,7.167,7.6,11,0.275,151,7,1,6.2,0.308,151,7,6.5,6.2,17,0.308,140,6,1,7.6,0.275
+2018-04-29,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,176,5,8.5,12.48,24,0.339,175,4,0,13.2,0.333,175,4,6.667,13.2,21,0.333,176,5,0,12.48,0.339
+2018-04-30,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,211,4,9.333,14.8,28,0.267,198,5,2,14.0,0.283,198,5,9.833,14.0,26,0.283,211,4,0,14.8,0.267
+2018-05-01,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,153,7,6.667,9.4,16,0.4,167,7,1,8.8,0.417,167,7,7.167,8.8,21,0.417,153,7,3,9.4,0.4
+2018-05-02,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,196,6,10.333,11.077,29,0.35,146,5,0,0.0,0.25,146,5,13.167,0.0,21,0.25,196,6,1,11.077,0.35
+2018-05-03,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,177,5,9.5,11.2,24,0.325,180,4,2,14.625,0.387,180,4,9.333,14.625,27,0.387,177,5,1,11.2,0.325
+2018-05-04,Kings XI Punjab,Mumbai Indians,Mumbai Indians,174,6,8.167,10.2,21,0.342,176,4,1,14.5,0.351,176,4,6.5,14.5,24,0.351,174,6,0,10.2,0.342
+2018-05-05,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,163,5,10.0,7.6,17,0.275,164,3,0,10.138,0.277,164,3,10.167,10.138,16,0.277,163,5,1,7.6,0.275
+2018-05-05,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,128,4,7.0,13.0,16,0.491,127,9,1,7.6,0.425,127,9,7.833,7.6,14,0.425,128,4,1,13.0,0.491
+2018-05-06,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,168,6,7.833,9.2,26,0.425,181,4,0,9.8,0.342,181,4,9.333,9.8,25,0.342,168,6,2,9.2,0.425
+2018-05-06,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,155,4,5.667,14.455,19,0.375,152,9,2,8.4,0.275,152,9,7.5,8.4,17,0.275,155,4,2,14.455,0.375
+2018-05-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,141,6,9.167,7.8,16,0.358,146,10,2,8.2,0.35,146,10,6.333,8.2,17,0.35,141,6,1,7.8,0.358
+2018-05-08,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,143,7,5.5,10.2,15,0.35,158,8,1,7.6,0.3,158,8,10.5,7.6,17,0.3,143,7,3,10.2,0.35
+2018-05-09,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,108,10,7.833,4.105,16,0.541,210,6,1,13.0,0.342,210,6,7.833,13.0,30,0.342,108,10,2,4.105,0.541
+2018-05-10,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,187,5,6.333,15.2,28,0.333,191,1,1,10.174,0.204,191,1,8.5,10.174,26,0.204,187,5,2,15.2,0.333
+2018-05-11,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,176,4,9.167,9.8,18,0.25,177,6,2,11.379,0.361,177,6,9.5,11.379,24,0.361,176,4,1,9.8,0.25
+2018-05-12,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,214,8,9.667,12.8,28,0.267,245,6,1,15.2,0.258,245,6,9.833,15.2,39,0.258,214,8,2,12.8,0.267
+2018-05-12,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,181,4,7.333,12.2,23,0.325,187,5,2,10.0,0.316,187,5,9.667,10.0,24,0.316,181,4,2,12.2,0.325
+2018-05-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,180,2,8.833,9.25,24,0.298,179,4,1,9.8,0.317,179,4,4.833,9.8,23,0.317,180,2,0,9.25,0.298
+2018-05-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,168,6,8.5,9.0,22,0.383,171,3,1,13.0,0.315,171,3,8.5,13.0,23,0.315,168,6,0,9.0,0.383
+2018-05-14,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,88,10,7.833,6.0,10,0.516,92,0,0,0.0,0.204,92,0,11.0,0.0,15,0.204,88,10,3,6.0,0.516
+2018-05-15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,145,4,8.5,9.667,21,0.389,142,10,1,6.0,0.412,142,10,11.333,6.0,20,0.412,145,4,2,9.667,0.389
+2018-05-16,Kings XI Punjab,Mumbai Indians,Mumbai Indians,183,5,9.5,11.2,22,0.225,186,8,3,7.0,0.317,186,8,10.0,7.0,23,0.317,183,5,1,11.2,0.225
+2018-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,218,6,7.333,13.8,32,0.275,204,3,1,10.4,0.283,204,3,9.333,10.4,28,0.283,218,6,2,13.8,0.275
+2018-05-18,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,128,6,7.333,6.8,13,0.425,162,5,1,12.0,0.392,162,5,6.5,12.0,19,0.392,128,6,0,6.8,0.425
+2018-05-19,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,164,5,7.5,10.2,17,0.308,134,10,1,6.0,0.388,134,10,9.167,6.0,17,0.388,164,5,1,10.2,0.308
+2018-05-19,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,173,5,11.0,8.786,22,0.331,172,9,0,6.2,0.333,172,9,10.0,6.2,20,0.333,173,5,1,8.786,0.331
+2018-05-20,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,174,4,7.667,10.8,20,0.283,163,10,1,9.111,0.41,163,10,9.5,9.111,19,0.41,174,4,2,10.8,0.283
+2018-05-20,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,159,5,5.5,13.68,18,0.365,153,10,3,10.929,0.381,153,10,4.833,10.929,17,0.381,159,5,3,13.68,0.365
+2018-05-22,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,140,8,5.5,11.52,18,0.417,139,7,3,10.2,0.45,139,7,7.833,10.2,16,0.45,140,8,3,11.52,0.417
+2018-05-23,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,169,7,7.667,11.0,21,0.383,144,4,1,6.6,0.375,144,4,8.5,6.6,16,0.375,169,7,3,11.0,0.383
+2018-05-25,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,160,9,11.167,8.4,22,0.375,174,7,0,12.2,0.317,174,7,7.5,12.2,23,0.317,160,9,1,8.4,0.375
+2018-05-27,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,181,2,5.833,10.0,26,0.333,178,6,1,10.4,0.317,178,6,7.0,10.4,22,0.317,181,2,1,10.0,0.333
+2019-03-23,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,71,3,2.667,3.0,7,0.632,70,10,2,1.846,0.553,70,10,5.5,1.846,4,0.553,71,3,1,3.0,0.632
+2019-03-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,183,4,7.833,14.786,26,0.356,181,3,0,9.4,0.25,181,3,9.0,9.4,21,0.25,183,4,1,14.786,0.356
+2019-03-24,Delhi Capitals,Mumbai Indians,Delhi Capitals,213,6,7.5,16.4,33,0.308,176,9,3,9.692,0.362,176,9,7.667,9.692,26,0.362,213,6,2,16.4,0.308
+2019-03-25,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,184,4,5.333,11.8,24,0.358,170,9,0,7.0,0.333,170,9,10.667,7.0,21,0.333,184,4,1,11.8,0.358
+2019-03-26,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,150,4,9.667,6.429,19,0.39,147,6,1,5.8,0.367,147,6,7.167,5.8,18,0.367,150,4,1,6.429,0.39
+2019-03-27,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,190,4,8.5,11.4,26,0.342,218,4,2,14.2,0.333,218,4,8.833,14.2,31,0.333,190,4,2,11.4,0.342
+2019-03-28,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,187,8,8.667,9.6,26,0.35,181,5,1,10.8,0.3,181,5,10.0,10.8,24,0.3,187,8,0,9.6,0.35
+2019-03-29,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,198,2,5.833,15.2,25,0.258,201,5,0,9.0,0.246,201,5,11.5,9.0,27,0.246,198,2,1,15.2,0.258
+2019-03-30,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,177,2,6.333,10.091,22,0.295,176,7,1,9.0,0.283,176,7,10.333,9.0,23,0.283,177,2,0,10.091,0.295
+2019-03-31,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,175,5,4.833,15.2,22,0.375,167,8,3,11.2,0.325,167,8,7.5,11.2,18,0.325,175,5,3,15.2,0.375
+2019-03-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,113,10,5.0,5.586,13,0.521,231,2,0,13.4,0.2,231,2,9.833,13.4,30,0.2,113,10,3,5.586,0.521
+2019-04-01,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,152,10,8.167,5.538,20,0.388,166,9,2,7.4,0.35,166,9,9.0,7.4,22,0.35,152,10,1,5.538,0.388
+2019-04-02,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,164,3,9.167,8.897,20,0.353,158,4,0,10.2,0.35,158,4,8.0,10.2,21,0.35,164,3,0,8.897,0.353
+2019-04-03,Chennai Super Kings,Mumbai Indians,Mumbai Indians,133,8,5.667,7.8,17,0.508,170,5,1,15.4,0.375,170,5,6.667,15.4,23,0.375,133,8,3,7.8,0.508
+2019-04-04,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,129,8,6.0,8.8,13,0.392,131,5,0,8.0,0.414,131,5,10.333,8.0,16,0.414,129,8,2,8.8,0.392
+2019-04-05,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,206,5,9.833,17.28,27,0.348,205,3,0,12.6,0.258,205,3,8.833,12.6,27,0.258,206,5,1,17.28,0.348
+2019-04-06,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,160,3,9.0,10.4,18,0.308,138,5,2,6.6,0.325,138,5,7.667,6.6,12,0.325,160,3,0,10.4,0.308
+2019-04-06,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,136,7,5.0,12.2,15,0.475,96,10,2,4.5,0.472,96,10,6.5,4.5,9,0.472,136,7,2,12.2,0.475
+2019-04-07,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,152,6,8.833,7.565,21,0.425,149,8,2,8.2,0.342,149,8,6.667,8.2,15,0.342,152,6,1,7.565,0.425
+2019-04-07,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,140,2,10.833,0.0,21,0.386,139,3,1,7.2,0.375,139,3,4.667,7.2,15,0.375,140,2,0,0.0,0.386
+2019-04-08,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,151,4,6.333,8.276,16,0.328,150,4,1,11.6,0.342,150,4,4.5,11.6,14,0.342,151,4,1,8.276,0.328
+2019-04-09,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,111,3,6.667,11.143,11,0.452,108,9,4,6.6,0.617,108,9,4.833,6.6,14,0.617,111,3,2,11.143,0.452
+2019-04-10,Kings XI Punjab,Mumbai Indians,Mumbai Indians,197,4,8.333,13.2,26,0.342,198,7,1,12.6,0.367,198,7,8.333,12.6,26,0.367,197,4,0,13.2,0.342
+2019-04-11,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,155,6,4.0,10.8,13,0.342,151,7,3,9.6,0.342,151,7,9.0,9.6,18,0.342,155,6,4,10.8,0.342
+2019-04-12,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,180,3,9.5,10.957,24,0.265,178,7,1,11.2,0.35,178,7,6.833,11.2,24,0.35,180,3,2,10.957,0.265
+2019-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,173,4,10.0,10.2,23,0.358,174,2,1,11.077,0.241,174,2,10.5,11.077,23,0.241,173,4,0,10.2,0.358
+2019-04-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,187,5,9.5,12.2,23,0.283,188,6,0,6.667,0.342,188,6,9.833,6.667,28,0.342,187,5,0,12.2,0.283
+2019-04-14,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,162,5,7.333,9.0,24,0.364,161,8,1,5.6,0.383,161,8,8.167,5.6,20,0.383,162,5,2,9.0,0.364
+2019-04-14,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,155,7,8.5,6.8,18,0.342,116,10,0,4.174,0.416,116,10,6.667,4.174,10,0.416,155,7,2,6.8,0.342
+2019-04-15,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,172,5,11.167,11.25,25,0.421,171,7,1,10.4,0.342,171,7,7.5,10.4,22,0.342,172,5,0,11.25,0.421
+2019-04-16,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,182,6,6.5,9.2,20,0.317,170,7,1,9.6,0.267,170,7,9.0,9.6,15,0.267,182,6,1,9.2,0.317
+2019-04-17,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,132,5,6.833,6.0,14,0.4,137,4,1,11.455,0.337,137,4,11.333,11.455,17,0.337,132,5,0,6.0,0.4
+2019-04-18,Delhi Capitals,Mumbai Indians,Mumbai Indians,128,9,8.0,8.4,12,0.442,168,5,0,12.8,0.267,168,5,9.5,12.8,20,0.267,128,9,0,8.4,0.442
+2019-04-19,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,203,5,6.167,16.4,31,0.483,213,4,1,18.2,0.275,213,4,7.0,18.2,30,0.275,203,5,3,16.4,0.483
+2019-04-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,161,5,7.667,9.8,17,0.35,162,5,1,8.16,0.313,162,5,10.0,8.16,22,0.313,161,5,1,9.8,0.35
+2019-04-20,Delhi Capitals,Kings XI Punjab,Delhi Capitals,166,5,10.0,8.143,21,0.305,163,7,2,9.0,0.35,163,7,8.333,9.0,21,0.35,166,5,1,8.143,0.305
+2019-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,159,8,10.167,8.6,19,0.367,161,1,0,0.0,0.211,161,1,12.0,0.0,19,0.211,159,8,2,8.6,0.367
+2019-04-21,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,160,8,5.333,13.6,18,0.383,161,7,1,8.6,0.367,161,7,8.167,8.6,20,0.367,160,8,4,13.6,0.383
+2019-04-22,Delhi Capitals,Rajasthan Royals,Delhi Capitals,193,4,9.833,11.769,27,0.267,191,6,1,8.2,0.283,191,6,8.667,8.2,26,0.283,193,4,0,11.769,0.267
+2019-04-23,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,176,4,8.167,8.483,24,0.345,175,3,1,8.2,0.275,175,3,9.0,8.2,18,0.275,176,4,1,8.483,0.345
+2019-04-24,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,185,7,11.333,8.4,28,0.375,202,4,1,16.0,0.292,202,4,11.667,16.0,27,0.292,185,7,1,8.4,0.375
+2019-04-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,175,6,5.333,15.0,25,0.425,177,7,1,12.692,0.388,177,7,9.167,12.692,26,0.388,175,6,2,15.0,0.425
+2019-04-26,Chennai Super Kings,Mumbai Indians,Mumbai Indians,109,10,6.667,7.875,10,0.443,155,4,1,10.0,0.392,155,4,7.5,10.0,19,0.392,109,10,3,7.875,0.443
+2019-04-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,161,3,10.0,6.96,20,0.365,160,8,1,7.8,0.242,160,8,8.5,7.8,13,0.242,161,3,0,6.96,0.365
+2019-04-28,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,187,5,9.833,12.0,26,0.308,171,7,1,9.0,0.283,171,7,10.667,9.0,20,0.283,187,5,1,12.0,0.308
+2019-04-28,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,232,2,8.333,15.0,36,0.3,198,7,2,11.6,0.342,198,7,6.833,11.6,28,0.342,232,2,0,15.0,0.3
+2019-04-29,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,167,8,7.333,8.8,20,0.4,212,6,0,10.6,0.183,212,6,12.833,10.6,22,0.183,167,8,1,8.8,0.4
+2019-05-01,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,179,4,4.5,15.4,25,0.358,99,10,2,5.25,0.439,99,10,9.833,5.25,11,0.439,179,4,1,15.4,0.358
+2019-05-03,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,183,6,6.833,11.6,23,0.3,185,3,1,11.333,0.278,185,3,10.333,11.333,25,0.278,183,6,2,11.6,0.3
+2019-05-04,Delhi Capitals,Rajasthan Royals,Delhi Capitals,121,5,7.667,18.0,13,0.392,115,9,4,9.0,0.467,115,9,5.0,9.0,11,0.467,121,5,2,18.0,0.392
+2019-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,178,6,8.167,11.077,24,0.293,175,7,1,10.6,0.358,175,7,8.667,10.6,23,0.358,178,6,3,11.077,0.293
+2019-05-05,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,170,5,7.0,9.2,22,0.283,173,4,0,7.333,0.38,173,4,11.333,7.333,24,0.38,170,5,1,9.2,0.283
+2019-05-05,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,133,7,8.167,6.8,13,0.483,134,1,0,11.143,0.381,134,1,7.667,11.143,19,0.381,133,7,0,6.8,0.483
+2019-05-07,Chennai Super Kings,Mumbai Indians,Mumbai Indians,131,4,5.333,8.0,14,0.408,132,4,2,6.857,0.414,132,4,7.333,6.857,16,0.414,131,4,3,8.0,0.408
+2019-05-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,165,8,9.167,11.172,23,0.429,162,8,1,11.6,0.367,162,8,9.0,11.6,19,0.367,165,8,0,11.172,0.429
+2019-05-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,151,4,7.0,8.0,19,0.377,147,9,2,10.8,0.375,147,9,6.833,10.8,17,0.375,151,4,0,8.0,0.377
+2019-05-12,Chennai Super Kings,Mumbai Indians,Mumbai Indians,148,7,8.833,12.0,17,0.458,149,8,2,9.4,0.425,149,8,7.5,9.4,18,0.425,148,7,1,12.0,0.458
+2020-09-19,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,166,5,6.167,11.538,21,0.31,162,9,2,7.2,0.325,162,9,8.5,7.2,19,0.325,166,5,2,11.538,0.31
+2020-09-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,163,5,8.833,9.4,17,0.283,153,10,1,6.857,0.381,153,10,8.0,6.857,17,0.381,163,5,0,9.4,0.283
+2020-09-22,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,200,6,8.833,13.8,25,0.283,216,7,1,12.4,0.275,216,7,9.0,12.4,26,0.275,200,6,0,13.8,0.283
+2020-09-23,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,146,9,5.5,9.2,20,0.467,195,5,1,9.6,0.283,195,5,9.833,9.6,22,0.283,146,9,2,9.2,0.467
+2020-09-24,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,206,3,8.333,16.0,28,0.258,109,10,3,7.0,0.5,109,10,6.667,7.0,13,0.5,206,3,0,16.0,0.258
+2020-09-25,Chennai Super Kings,Delhi Capitals,Delhi Capitals,131,7,5.667,7.2,13,0.375,175,3,0,10.2,0.283,175,3,6.0,10.2,22,0.283,131,7,2,7.2,0.375
+2020-09-26,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,145,3,8.667,10.667,18,0.315,142,4,1,8.6,0.3,142,4,6.667,8.6,12,0.3,145,3,2,10.667,0.315
+2020-09-27,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,223,2,10.0,10.2,31,0.242,226,6,1,19.111,0.333,226,6,11.5,19.111,32,0.333,223,2,0,10.2,0.242
+2020-09-29,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,147,7,5.667,8.6,14,0.367,162,4,0,9.0,0.242,162,4,6.333,9.0,15,0.242,147,7,1,8.6,0.367
+2020-09-30,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,174,6,7.0,10.8,20,0.358,137,9,2,9.4,0.425,137,9,6.5,9.4,12,0.425,174,6,1,10.8,0.358
+2020-10-01,Kings XI Punjab,Mumbai Indians,Mumbai Indians,143,8,6.833,6.8,13,0.342,191,4,2,17.8,0.333,191,4,6.833,17.8,27,0.333,143,8,2,6.8,0.342
+2020-10-02,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,157,5,6.0,15.6,19,0.408,164,5,1,12.8,0.358,164,5,7.0,12.8,21,0.358,157,5,3,15.6,0.408
+2020-10-03,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,228,4,9.5,15.4,32,0.192,210,8,1,14.6,0.292,210,8,9.833,14.6,26,0.292,228,4,1,15.4,0.192
+2020-10-03,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,154,6,6.333,11.0,17,0.333,158,2,1,9.6,0.304,158,2,8.333,9.6,19,0.304,154,6,3,11.0,0.333
+2020-10-04,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,208,5,8.0,12.2,29,0.308,174,7,1,7.0,0.342,174,7,9.333,7.0,19,0.342,208,5,2,12.2,0.308
+2020-10-04,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,181,0,10.0,11.625,26,0.283,178,4,0,9.6,0.292,178,4,7.667,9.6,20,0.292,181,0,0,11.625,0.283
+2020-10-05,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,196,4,10.5,12.4,25,0.258,137,9,3,6.4,0.35,137,9,7.167,6.4,13,0.35,196,4,0,12.4,0.258
+2020-10-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,193,4,9.5,13.6,26,0.342,136,10,3,7.263,0.413,136,10,5.167,7.263,17,0.413,193,4,1,13.6,0.342
+2020-10-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,157,5,9.0,9.4,21,0.325,167,10,1,7.8,0.3,167,10,8.667,7.8,19,0.3,157,5,1,9.4,0.325
+2020-10-08,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,132,10,7.5,3.273,16,0.416,201,6,0,8.2,0.317,201,6,9.667,8.2,24,0.317,132,10,2,3.273,0.416
+2020-10-09,Delhi Capitals,Rajasthan Royals,Delhi Capitals,184,8,8.5,12.4,22,0.35,138,10,1,7.929,0.407,138,10,6.833,7.929,14,0.407,184,8,3,12.4,0.35
+2020-10-10,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,162,5,7.833,9.0,18,0.267,164,6,2,12.6,0.367,164,6,4.167,12.6,20,0.367,162,5,0,9.0,0.267
+2020-10-10,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,132,8,4.333,7.2,13,0.4,169,4,1,14.8,0.308,169,4,6.0,14.8,15,0.308,132,8,2,7.2,0.4
+2020-10-11,Delhi Capitals,Mumbai Indians,Mumbai Indians,162,4,7.667,10.2,18,0.275,166,5,1,7.714,0.314,166,5,7.333,7.714,21,0.314,162,4,2,10.2,0.275
+2020-10-11,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,163,5,6.0,14.276,18,0.303,158,4,1,12.4,0.35,158,4,4.333,12.4,15,0.35,163,5,3,14.276,0.303
+2020-10-12,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,112,9,7.167,4.4,10,0.408,194,2,0,16.6,0.275,194,2,7.833,16.6,22,0.275,112,9,1,4.4,0.408
+2020-10-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,167,6,7.333,10.2,21,0.367,147,8,2,9.2,0.342,147,8,6.667,9.2,15,0.342,167,6,2,10.2,0.367
+2020-10-14,Delhi Capitals,Rajasthan Royals,Delhi Capitals,161,7,7.833,6.4,16,0.308,148,8,2,5.0,0.342,148,8,8.333,5.0,18,0.342,161,7,2,6.4,0.308
+2020-10-15,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,177,2,9.333,10.2,20,0.358,171,6,1,9.8,0.25,171,6,9.5,9.8,16,0.25,177,2,0,10.2,0.358
+2020-10-16,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,148,5,5.5,10.6,18,0.433,149,2,0,12.545,0.396,149,2,8.5,12.545,23,0.396,148,5,2,10.6,0.433
+2020-10-17,Chennai Super Kings,Delhi Capitals,Delhi Capitals,179,4,6.5,13.4,23,0.35,185,5,2,11.586,0.261,185,5,6.833,11.586,24,0.261,179,4,1,13.4,0.35
+2020-10-17,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,177,6,8.667,11.6,22,0.333,179,3,1,13.929,0.305,179,3,7.833,13.929,15,0.305,177,6,1,11.6,0.333
+2020-10-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,125,5,7.167,7.2,13,0.4,126,3,3,7.2,0.429,126,3,5.167,7.2,14,0.429,125,5,2,7.2,0.4
+2020-10-20,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,164,5,8.833,9.4,19,0.283,167,5,3,6.5,0.342,167,5,9.5,6.5,21,0.342,164,5,1,9.4,0.283
+2020-10-21,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,84,8,2.833,6.4,8,0.583,85,2,0,0.0,0.469,85,2,7.333,0.0,11,0.469,84,8,4,6.4,0.583
+2020-10-22,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,154,6,7.833,9.8,16,0.342,156,2,2,12.0,0.404,156,2,9.667,12.0,21,0.404,154,6,1,9.8,0.342
+2020-10-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,114,9,4.0,8.6,12,0.542,116,0,0,0.0,0.378,116,0,8.667,0.0,18,0.378,114,9,5,8.6,0.542
+2020-10-24,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,135,9,6.0,5.0,14,0.4,194,6,2,10.4,0.35,194,6,6.0,10.4,30,0.35,135,9,2,5.0,0.4
+2020-10-24,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,126,7,7.833,7.6,9,0.383,114,10,0,3.517,0.487,114,10,8.667,3.517,14,0.487,126,7,1,7.6,0.383
+2020-10-25,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,150,2,8.0,6.273,19,0.357,145,6,1,8.8,0.3,145,6,7.667,8.8,13,0.3,150,2,1,6.273,0.357
+2020-10-25,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,195,5,9.833,15.8,26,0.325,196,2,2,11.7,0.282,196,2,9.167,11.7,28,0.282,195,5,1,15.8,0.325
+2020-10-26,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,150,2,6.0,9.652,21,0.407,149,9,3,7.0,0.458,149,9,9.0,7.0,20,0.458,150,2,0,9.652,0.407
+2020-10-27,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,131,10,9.0,8.75,16,0.43,219,2,0,8.8,0.242,219,2,12.833,8.8,30,0.242,131,10,2,8.75,0.43
+2020-10-28,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,166,5,7.5,11.76,22,0.4,164,6,0,7.0,0.392,164,6,9.0,7.0,24,0.392,166,5,1,11.76,0.4
+2020-10-29,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,178,4,7.333,11.4,22,0.317,172,5,0,13.2,0.342,172,5,8.0,13.2,25,0.342,178,4,0,11.4,0.317
+2020-10-30,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,185,4,8.833,12.4,23,0.383,186,3,1,16.0,0.286,186,3,11.0,16.0,27,0.286,185,4,1,12.4,0.383
+2020-10-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,120,7,5.0,5.4,10,0.392,121,5,1,0.0,0.412,121,5,9.667,0.0,15,0.412,120,7,2,5.4,0.392
+2020-10-31,Delhi Capitals,Mumbai Indians,Mumbai Indians,110,9,3.667,6.4,10,0.5,111,1,0,0.0,0.372,111,1,6.333,0.0,14,0.372,110,9,2,6.4,0.5
+2020-11-01,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,191,7,9.167,11.8,28,0.375,131,9,5,4.8,0.458,131,9,6.833,4.8,15,0.458,191,7,1,11.8,0.375
+2020-11-01,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,154,1,9.5,9.391,15,0.319,153,6,1,11.6,0.308,153,6,8.833,11.6,17,0.308,154,1,0,9.391,0.319
+2020-11-02,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,154,4,8.833,8.25,16,0.246,152,7,1,9.8,0.342,152,7,6.667,9.8,16,0.342,154,4,1,8.25,0.246
+2020-11-03,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,149,8,8.0,10.2,18,0.383,151,0,0,6.462,0.291,151,0,9.333,6.462,19,0.291,149,8,2,10.2,0.383
+2020-11-05,Delhi Capitals,Mumbai Indians,Mumbai Indians,143,8,5.333,6.2,19,0.467,200,5,1,15.6,0.292,200,5,10.5,15.6,27,0.292,143,8,4,6.2,0.467
+2020-11-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,131,7,5.333,7.6,11,0.333,132,4,2,9.643,0.415,132,4,8.0,9.643,14,0.415,131,7,2,7.6,0.333
+2020-11-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,189,3,10.833,10.0,21,0.2,172,8,3,8.6,0.325,172,8,8.167,8.6,21,0.325,189,3,0,10.0,0.2
+2020-11-10,Delhi Capitals,Mumbai Indians,Mumbai Indians,156,7,6.833,7.6,19,0.342,157,5,1,8.455,0.339,157,5,10.167,8.455,21,0.339,156,7,3,7.6,0.342
+2021-04-09,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,159,9,6.833,6.2,21,0.417,160,8,2,10.8,0.35,160,8,7.667,10.8,16,0.35,159,9,1,6.2,0.417
+2021-04-10,Chennai Super Kings,Delhi Capitals,Delhi Capitals,188,7,5.5,10.4,26,0.35,190,3,0,10.636,0.241,190,3,10.833,10.636,29,0.241,188,7,2,10.4,0.35
+2021-04-11,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,187,6,8.333,8.4,26,0.342,177,5,2,11.6,0.333,177,5,5.833,11.6,19,0.333,187,6,0,8.4,0.342
+2021-04-12,Punjab Kings,Rajasthan Royals,Punjab Kings,221,6,7.667,12.0,31,0.292,217,7,2,12.6,0.317,217,7,9.833,12.6,33,0.317,221,6,1,12.0,0.292
+2021-04-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,142,7,7.5,4.0,17,0.408,152,10,1,7.6,0.367,152,10,7.0,7.6,19,0.367,142,7,0,4.0,0.408
+2021-04-14,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,149,8,7.833,9.2,18,0.383,143,9,1,7.0,0.45,143,9,8.333,7.0,15,0.45,149,8,1,9.2,0.383
+2021-04-15,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,147,8,6.0,9.0,20,0.392,150,7,3,12.857,0.381,150,7,4.333,12.857,19,0.381,147,8,3,9.0,0.392
+2021-04-16,Chennai Super Kings,Punjab Kings,Chennai Super Kings,107,4,5.333,7.5,15,0.5,106,8,4,6.6,0.533,106,8,4.333,6.6,12,0.533,107,4,1,7.5,0.5
+2021-04-17,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,150,5,8.833,9.8,16,0.383,137,10,0,7.071,0.441,137,10,9.5,7.071,15,0.441,150,5,0,9.8,0.383
+2021-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,166,8,9.5,9.0,23,0.375,204,4,2,14.0,0.308,204,4,7.5,14.0,29,0.308,166,8,2,9.0,0.375
+2021-04-18,Delhi Capitals,Punjab Kings,Delhi Capitals,198,4,10.333,13.8,27,0.245,195,4,0,11.0,0.308,195,4,9.833,11.0,27,0.308,198,4,1,13.8,0.245
+2021-04-19,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,188,9,7.667,12.2,22,0.367,143,9,2,9.2,0.45,143,9,7.5,9.2,16,0.45,188,9,2,12.2,0.367
+2021-04-20,Delhi Capitals,Mumbai Indians,Delhi Capitals,138,4,6.5,8.88,15,0.357,137,9,1,7.2,0.383,137,9,9.167,7.2,14,0.383,138,4,1,8.88,0.357
+2021-04-21,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,120,10,5.333,5.571,9,0.381,121,1,0,7.091,0.402,121,1,8.333,7.091,10,0.402,120,10,1,5.571,0.381
+2021-04-21,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,220,3,9.0,15.2,31,0.325,202,10,5,13.44,0.417,202,10,7.5,13.44,30,0.417,220,3,0,15.2,0.325
+2021-04-22,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,177,9,5.333,9.8,25,0.392,181,0,0,12.667,0.232,181,0,9.833,12.667,26,0.232,177,9,3,9.8,0.392
+2021-04-23,Mumbai Indians,Punjab Kings,Punjab Kings,131,6,3.5,6.8,12,0.358,132,1,0,12.375,0.453,132,1,7.5,12.375,18,0.453,131,6,1,6.8,0.358
+2021-04-24,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,133,9,4.167,8.0,14,0.442,134,4,2,7.826,0.381,134,4,8.333,7.826,15,0.381,133,9,1,8.0,0.442
+2021-04-25,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,191,4,8.5,14.8,26,0.358,122,9,2,5.4,0.508,122,9,10.833,5.4,14,0.508,191,4,0,14.8,0.358
+2021-04-26,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,126,5,7.0,14.4,19,0.43,123,9,1,8.2,0.492,123,9,6.167,8.2,13,0.492,126,5,3,14.4,0.43
+2021-04-27,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,170,4,7.167,11.8,20,0.283,171,5,2,11.2,0.3,171,5,6.0,11.2,18,0.3,170,4,2,11.8,0.283
+2021-04-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,173,3,8.333,7.143,26,0.288,171,3,1,11.6,0.283,171,3,6.5,11.6,19,0.283,173,3,0,7.143,0.288
+2021-04-29,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,156,3,11.167,6.667,23,0.354,154,6,1,11.8,0.342,154,6,7.5,11.8,17,0.342,156,3,0,6.667,0.354
+2021-04-29,Mumbai Indians,Rajasthan Royals,Mumbai Indians,172,3,8.167,11.714,19,0.261,171,4,0,9.0,0.292,171,4,7.833,9.0,21,0.292,172,3,1,11.714,0.261
+2021-04-30,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,179,5,8.167,12.0,24,0.333,145,8,1,10.6,0.367,145,8,6.0,10.6,16,0.367,179,5,1,12.0,0.333
+2021-05-01,Chennai Super Kings,Mumbai Indians,Mumbai Indians,218,4,8.167,16.4,30,0.292,219,6,0,13.2,0.3,219,6,9.667,13.2,30,0.3,218,4,1,16.4,0.292
+2021-05-02,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,220,3,7.0,14.8,29,0.292,165,8,0,7.2,0.342,165,8,9.5,7.2,20,0.342,220,3,1,14.8,0.292
+2021-05-02,Delhi Capitals,Punjab Kings,Delhi Capitals,167,3,10.5,10.5,20,0.274,166,6,2,12.8,0.283,166,6,6.5,12.8,18,0.283,167,3,0,10.5,0.274
+2021-09-19,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,156,7,4.0,13.8,18,0.425,136,8,3,7.8,0.383,136,8,6.833,7.8,15,0.383,156,7,5,13.8,0.425
+2021-09-20,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,94,1,9.333,0.0,15,0.4,92,10,2,4.25,0.526,92,10,6.833,4.25,8,0.526,94,1,0,0.0,0.4
+2021-09-21,Punjab Kings,Rajasthan Royals,Rajasthan Royals,183,4,8.167,7.0,21,0.267,185,10,1,9.0,0.35,185,10,9.5,9.0,26,0.35,183,4,0,7.0,0.267
+2021-09-22,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,139,2,6.5,14.118,18,0.402,134,9,2,8.8,0.417,134,9,5.333,8.8,13,0.417,139,2,1,14.118,0.402
+2021-09-23,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,159,3,10.5,24.0,22,0.33,155,6,0,9.8,0.375,155,6,9.333,9.8,17,0.375,159,3,1,24.0,0.33
+2021-09-24,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,157,4,9.833,10.105,20,0.321,156,6,0,7.6,0.308,156,6,9.167,7.6,17,0.308,157,4,0,10.105,0.321
+2021-09-25,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,125,7,4.833,6.4,10,0.367,120,7,2,9.0,0.417,120,7,3.333,9.0,7,0.417,125,7,2,6.4,0.367
+2021-09-25,Delhi Capitals,Rajasthan Royals,Delhi Capitals,154,6,6.0,10.0,13,0.267,121,6,3,7.8,0.408,121,6,3.5,7.8,10,0.408,154,6,2,10.0,0.267
+2021-09-26,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,111,10,9.333,3.789,12,0.45,165,6,1,9.2,0.425,165,6,8.0,9.2,21,0.425,111,10,0,3.789,0.45
+2021-09-26,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,172,8,8.667,9.0,21,0.317,171,6,2,10.6,0.283,171,6,8.333,10.6,21,0.283,172,8,0,9.0,0.317
+2021-09-27,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,164,5,8.167,10.2,19,0.283,167,3,1,10.286,0.315,167,3,10.5,10.286,20,0.315,164,5,1,10.2,0.283
+2021-09-28,Mumbai Indians,Punjab Kings,Mumbai Indians,137,4,5.0,11.25,16,0.395,135,6,1,6.0,0.325,135,6,6.333,6.0,12,0.325,137,4,2,11.25,0.395
+2021-09-28,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,127,9,6.5,7.6,14,0.375,130,7,2,9.6,0.464,130,7,7.333,9.6,15,0.464,127,9,1,7.6,0.375
+2021-09-29,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,149,9,9.333,5.8,17,0.375,153,3,1,13.846,0.291,153,3,9.0,13.846,20,0.291,149,9,0,5.8,0.375
+2021-09-30,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,139,4,7.833,7.286,17,0.458,134,7,1,7.4,0.367,134,7,6.833,7.4,11,0.367,139,4,0,7.286,0.458
+2021-10-01,Kolkata Knight Riders,Punjab Kings,Punjab Kings,165,7,8.0,8.8,19,0.292,168,5,0,10.444,0.265,168,5,7.667,10.444,17,0.265,165,7,1,8.8,0.292
+2021-10-02,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,189,4,7.333,14.6,24,0.275,190,3,1,10.0,0.295,190,3,13.5,10.0,27,0.295,189,4,0,14.6,0.275
+2021-10-02,Delhi Capitals,Mumbai Indians,Delhi Capitals,132,6,7.667,7.68,13,0.374,129,8,1,8.4,0.45,129,8,5.833,8.4,14,0.45,132,6,3,7.68,0.374
+2021-10-03,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,158,6,8.167,9.0,17,0.342,164,7,0,11.0,0.408,164,7,9.167,11.0,20,0.408,158,6,0,9.0,0.342
+2021-10-03,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,119,4,6.0,7.5,17,0.5,115,8,2,7.2,0.458,115,8,5.833,7.2,12,0.458,119,4,1,7.5,0.5
+2021-10-04,Chennai Super Kings,Delhi Capitals,Delhi Capitals,136,5,8.0,8.6,12,0.367,139,7,2,8.571,0.441,139,7,8.5,8.571,16,0.441,136,5,2,8.6,0.367
+2021-10-05,Mumbai Indians,Rajasthan Royals,Mumbai Indians,94,2,9.333,0.0,14,0.42,90,9,2,3.8,0.55,90,9,6.833,3.8,9,0.55,94,2,2,0.0,0.42
+2021-10-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,137,6,6.167,7.8,16,0.425,141,7,1,6.8,0.383,141,7,8.333,6.8,16,0.383,137,6,2,7.8,0.425
+2021-10-07,Chennai Super Kings,Punjab Kings,Punjab Kings,134,6,5.0,10.4,15,0.4,139,4,2,0.0,0.346,139,4,8.5,0.0,19,0.346,134,6,2,10.4,0.4
+2021-10-07,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,171,4,5.667,8.8,19,0.317,85,10,4,1.714,0.608,85,10,2.833,1.714,11,0.608,171,4,0,8.8,0.317
+2021-10-08,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,164,5,9.167,7.2,18,0.292,166,3,2,11.6,0.3,166,3,4.833,11.6,18,0.3,164,5,0,7.2,0.292
+2021-10-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,235,9,13.833,11.6,38,0.258,193,8,1,7.4,0.25,193,8,11.667,7.4,25,0.25,235,9,1,11.6,0.258
+2021-10-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,173,6,9.833,11.143,22,0.271,172,5,2,11.6,0.3,172,5,8.5,11.6,21,0.3,173,6,1,11.143,0.271
+2021-10-11,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,139,6,8.0,5.786,13,0.297,138,7,1,6.0,0.3,138,7,8.833,6.0,12,0.3,139,6,1,5.786,0.297
+2021-10-13,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,135,5,6.333,9.0,12,0.367,136,7,0,4.759,0.387,136,7,8.5,4.759,11,0.387,135,5,1,9.0,0.367
+2021-10-15,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,192,3,8.333,12.2,22,0.242,165,9,0,9.0,0.408,165,9,9.167,9.0,20,0.408,192,3,0,12.2,0.242
+2022-03-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,131,5,5.833,11.6,15,0.458,133,4,0,8.286,0.378,133,4,7.167,8.286,15,0.378,131,5,2,11.6,0.458
+2022-03-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,179,6,7.667,17.1,25,0.345,177,5,0,11.8,0.308,177,5,8.833,11.8,24,0.308,179,6,3,17.1,0.345
+2022-03-27,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,208,5,10.5,13.0,25,0.351,205,2,0,12.6,0.325,205,2,6.833,12.6,22,0.325,208,5,0,13.0,0.351
+2022-03-28,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,161,5,7.333,15.0,23,0.407,158,6,4,9.8,0.392,158,6,5.333,9.8,22,0.392,161,5,2,15.0,0.407
+2022-03-29,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,210,6,9.667,12.4,30,0.383,149,7,3,14.4,0.417,149,7,2.333,14.4,17,0.417,210,6,0,12.4,0.383
+2022-03-30,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,128,10,7.333,7.043,18,0.549,132,7,3,9.0,0.517,132,7,6.0,9.0,16,0.517,128,10,3,7.043,0.549
+2022-03-31,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,210,7,12.167,12.6,32,0.325,211,4,0,14.889,0.282,211,4,9.167,14.889,27,0.282,210,7,1,12.6,0.325
+2022-04-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,141,4,8.5,0.0,20,0.425,137,10,3,10.5,0.527,137,10,10.333,10.5,19,0.527,141,4,2,0.0,0.425
+2022-04-02,Delhi Capitals,Gujarat Titans,Gujarat Titans,157,9,7.167,6.2,21,0.375,171,6,1,10.2,0.283,171,6,7.333,10.2,19,0.283,157,9,3,6.2,0.375
+2022-04-02,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,170,8,8.333,6.8,21,0.408,193,8,2,11.0,0.383,193,8,8.0,11.0,28,0.383,170,8,2,6.8,0.408
+2022-04-03,Chennai Super Kings,Punjab Kings,Punjab Kings,126,10,4.5,9.333,16,0.481,180,8,2,6.6,0.45,180,8,12.0,6.6,23,0.45,126,10,4,9.333,0.481
+2022-04-04,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,169,7,5.333,11.0,20,0.308,157,9,2,7.4,0.342,157,9,6.667,7.4,17,0.342,169,7,3,11.0,0.308
+2022-04-05,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,169,3,5.833,13.2,17,0.333,173,6,0,11.52,0.339,173,6,8.0,11.52,25,0.339,169,3,1,13.2,0.333
+2022-04-06,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,162,5,5.833,35.0,24,0.385,161,4,1,15.2,0.367,161,4,5.833,15.2,20,0.367,162,5,2,35.0,0.385
+2022-04-07,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,149,3,8.667,10.0,19,0.4,155,4,0,9.429,0.331,155,4,8.0,9.429,16,0.331,149,3,0,10.0,0.4
+2022-04-08,Gujarat Titans,Punjab Kings,Gujarat Titans,190,4,8.833,11.2,26,0.267,189,9,2,7.4,0.367,189,9,7.167,7.4,27,0.367,190,4,1,11.2,0.267
+2022-04-09,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,154,7,6.833,9.2,17,0.367,155,2,0,12.75,0.311,155,2,6.167,12.75,19,0.311,154,7,2,9.2,0.367
+2022-04-09,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,151,6,8.167,11.8,21,0.492,152,3,0,11.714,0.333,152,3,5.0,11.714,17,0.333,151,6,0,11.8,0.492
+2022-04-10,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,215,5,11.333,10.8,29,0.283,171,10,2,7.286,0.373,171,10,7.167,7.286,22,0.373,215,5,0,10.8,0.283
+2022-04-10,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,162,8,5.167,13.0,19,0.367,165,6,1,14.6,0.392,165,6,7.333,14.6,20,0.392,162,8,3,13.0,0.367
+2022-04-11,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,162,7,8.5,8.8,18,0.342,168,3,0,12.48,0.304,168,3,7.0,12.48,19,0.304,162,7,2,8.8,0.342
+2022-04-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,216,4,5.833,16.6,29,0.35,193,9,3,10.6,0.333,193,9,7.0,10.6,24,0.333,216,4,1,16.6,0.35
+2022-04-13,Mumbai Indians,Punjab Kings,Punjab Kings,186,9,7.0,8.0,26,0.425,198,5,0,13.2,0.242,198,5,10.833,13.2,23,0.242,186,9,2,8.0,0.425
+2022-04-14,Gujarat Titans,Rajasthan Royals,Gujarat Titans,192,4,7.0,12.4,29,0.325,155,9,3,5.0,0.408,155,9,10.833,5.0,19,0.408,192,4,2,12.4,0.325
+2022-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,175,8,6.333,11.0,24,0.433,176,3,2,12.706,0.318,176,3,7.667,12.706,23,0.318,175,8,3,11.0,0.433
+2022-04-16,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,199,4,9.5,9.8,28,0.275,181,9,2,11.2,0.325,181,9,9.5,11.2,23,0.325,199,4,1,9.8,0.275
+2022-04-16,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,173,7,9.5,11.6,21,0.35,189,5,2,14.8,0.358,189,5,6.667,14.8,27,0.358,173,7,1,11.6,0.35
+2022-04-17,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,151,10,8.0,5.8,20,0.475,152,3,1,10.696,0.327,152,3,6.5,10.696,16,0.327,151,10,2,5.8,0.475
+2022-04-17,Chennai Super Kings,Gujarat Titans,Gujarat Titans,169,5,6.5,8.8,20,0.342,170,7,3,12.828,0.345,170,7,6.167,12.828,21,0.345,169,5,2,8.8,0.342
+2022-04-18,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,210,10,9.5,9.214,27,0.28,217,5,0,10.8,0.292,217,5,10.0,10.8,29,0.292,210,10,1,9.214,0.28
+2022-04-19,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,163,8,7.333,9.2,20,0.383,181,6,3,10.2,0.267,181,6,7.833,10.2,21,0.267,163,8,2,9.2,0.383
+2022-04-20,Delhi Capitals,Punjab Kings,Delhi Capitals,119,1,13.5,0.0,20,0.27,115,10,3,3.8,0.517,115,10,7.833,3.8,16,0.517,119,1,0,0.0,0.27
+2022-04-21,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,156,7,7.667,10.6,19,0.417,155,7,3,11.0,0.367,155,7,7.0,11.0,17,0.367,156,7,2,10.6,0.417
+2022-04-22,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,207,8,9.167,11.6,29,0.342,222,2,0,13.4,0.333,222,2,7.333,13.4,35,0.333,207,8,2,11.6,0.342
+2022-04-23,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,156,9,7.833,5.8,15,0.333,148,8,3,8.2,0.517,148,8,5.667,8.2,20,0.517,156,9,1,5.8,0.333
+2022-04-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,68,10,5.167,2.571,6,0.68,72,1,0,0.0,0.396,72,1,9.333,0.0,12,0.396,68,10,4,2.571,0.68
+2022-04-24,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,168,6,5.333,10.4,20,0.342,132,8,0,6.8,0.417,132,8,7.167,6.8,12,0.417,168,6,1,10.4,0.342
+2022-04-25,Chennai Super Kings,Punjab Kings,Punjab Kings,176,6,5.333,11.6,23,0.367,187,4,1,12.8,0.233,187,4,6.167,12.8,21,0.233,176,6,2,11.6,0.367
+2022-04-26,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,144,8,7.167,8.8,17,0.425,115,10,1,5.556,0.53,115,10,6.167,5.556,13,0.53,144,8,3,8.8,0.425
+2022-04-27,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,199,5,9.833,12.8,27,0.275,195,6,2,11.0,0.317,195,6,8.833,11.0,23,0.317,199,5,0,12.8,0.275
+2022-04-28,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,150,6,7.833,9.25,19,0.377,146,9,2,11.4,0.292,146,9,4.833,11.4,14,0.292,150,6,2,9.25,0.377
+2022-04-29,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,153,8,6.5,8.8,16,0.408,133,8,1,6.0,0.533,133,8,7.667,6.0,17,0.533,153,8,1,8.8,0.408
+2022-04-30,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,174,4,7.667,13.556,22,0.282,170,6,1,10.6,0.325,170,6,7.167,10.6,22,0.325,174,4,0,13.556,0.282
+2022-04-30,Mumbai Indians,Rajasthan Royals,Mumbai Indians,161,5,6.833,9.0,19,0.362,158,6,1,11.2,0.433,158,6,6.667,11.2,19,0.433,161,5,2,9.0,0.362
+2022-05-01,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,189,7,11.0,10.8,26,0.367,195,3,1,10.0,0.242,195,3,9.5,10.0,22,0.242,189,7,2,10.8,0.367
+2022-05-01,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,202,2,6.667,9.8,25,0.25,189,6,2,11.6,0.283,189,6,9.667,11.6,22,0.283,202,2,0,9.8,0.25
+2022-05-02,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,158,3,5.333,12.24,18,0.33,152,5,1,9.4,0.4,152,5,6.333,9.4,18,0.4,158,3,2,12.24,0.33
+2022-05-03,Gujarat Titans,Punjab Kings,Punjab Kings,143,8,7.0,9.0,13,0.375,145,2,1,28.0,0.375,145,2,7.167,28.0,20,0.375,143,8,2,9.0,0.375
+2022-05-04,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,160,8,8.5,8.4,20,0.358,173,8,0,10.0,0.325,173,8,9.5,10.0,19,0.325,160,8,0,8.4,0.358
+2022-05-05,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,207,3,8.333,14.0,30,0.383,186,8,2,10.4,0.442,186,8,5.833,10.4,27,0.442,207,3,2,14.0,0.383
+2022-05-06,Gujarat Titans,Mumbai Indians,Mumbai Indians,172,5,9.0,8.4,24,0.317,177,6,0,11.4,0.358,177,6,10.5,11.4,22,0.358,172,5,0,8.4,0.317
+2022-05-07,Punjab Kings,Rajasthan Royals,Rajasthan Royals,189,5,8.0,13.4,27,0.333,190,4,1,10.071,0.305,190,4,11.167,10.071,29,0.305,189,5,1,13.4,0.333
+2022-05-07,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,101,10,4.167,0.0,14,0.552,176,7,1,10.6,0.35,176,7,11.0,10.6,21,0.35,101,10,3,0.0,0.552
+2022-05-08,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,192,3,7.833,13.4,26,0.333,125,10,2,3.231,0.448,125,10,6.5,3.231,15,0.448,192,3,1,13.4,0.333
+2022-05-08,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,208,6,9.5,12.0,28,0.275,117,10,2,6.75,0.528,117,10,9.833,6.75,17,0.528,208,6,0,12.0,0.275
+2022-05-09,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,165,9,10.667,5.0,22,0.475,113,10,2,4.4,0.39,113,10,6.167,4.4,11,0.39,165,9,1,5.0,0.475
+2022-05-10,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,144,4,5.833,10.4,16,0.308,82,10,3,0.0,0.494,82,10,6.167,0.0,10,0.494,144,4,2,10.4,0.308
+2022-05-11,Delhi Capitals,Rajasthan Royals,Delhi Capitals,161,2,6.333,14.842,20,0.358,160,6,1,8.8,0.342,160,6,7.167,8.8,20,0.342,161,2,1,14.842,0.358
+2022-05-12,Chennai Super Kings,Mumbai Indians,Mumbai Indians,97,10,5.333,10.0,12,0.625,103,5,4,0.0,0.494,103,5,6.0,0.0,13,0.494,97,10,5,10.0,0.625
+2022-05-13,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,209,9,13.833,11.4,30,0.317,155,9,3,7.0,0.408,155,9,7.333,7.0,18,0.408,209,9,1,11.4,0.317
+2022-05-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,177,6,9.167,11.6,21,0.375,123,8,1,4.6,0.458,123,8,5.167,4.6,13,0.458,177,6,1,11.6,0.375
+2022-05-15,Chennai Super Kings,Gujarat Titans,Gujarat Titans,133,5,7.833,4.8,11,0.35,137,3,0,6.96,0.339,137,3,8.833,6.96,16,0.339,133,5,1,4.8,0.35
+2022-05-15,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,154,8,5.667,9.4,15,0.375,178,6,1,9.6,0.375,178,6,8.5,9.6,26,0.375,154,8,3,9.4,0.375
+2022-05-16,Delhi Capitals,Punjab Kings,Delhi Capitals,159,7,9.833,8.6,18,0.35,142,9,3,8.2,0.467,142,9,9.0,8.2,18,0.467,159,7,2,8.6,0.35
+2022-05-17,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,190,7,8.5,12.6,23,0.342,193,6,1,9.0,0.308,193,6,9.5,9.0,25,0.308,190,7,0,12.6,0.342
+2022-05-18,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,208,8,10.0,14.8,31,0.358,210,0,0,17.6,0.25,210,0,7.333,17.6,27,0.25,208,8,2,14.8,0.358
+2022-05-19,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,168,5,6.333,10.0,21,0.375,170,2,0,13.364,0.286,170,2,9.167,13.364,22,0.286,168,5,2,10.0,0.375
+2022-05-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,150,6,12.5,6.6,20,0.425,151,5,1,10.071,0.39,151,5,8.667,10.071,18,0.39,150,6,1,6.6,0.425
+2022-05-21,Delhi Capitals,Mumbai Indians,Mumbai Indians,159,7,6.167,10.6,17,0.408,160,5,1,14.16,0.426,160,5,4.5,14.16,21,0.426,159,7,3,10.6,0.408
+2022-05-22,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,160,5,10.333,24.0,24,0.308,157,8,1,12.2,0.392,157,8,7.167,12.2,19,0.392,160,5,1,24.0,0.308
+2022-05-24,Gujarat Titans,Rajasthan Royals,Gujarat Titans,191,3,10.667,11.556,25,0.265,188,6,1,12.8,0.367,188,6,9.167,12.8,26,0.367,191,3,1,11.556,0.265
+2022-05-25,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,193,6,10.333,10.0,20,0.325,207,4,1,16.8,0.35,207,4,8.667,16.8,30,0.35,193,6,2,10.0,0.325
+2022-05-27,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,161,3,11.167,11.053,22,0.376,157,8,1,6.8,0.375,157,8,7.667,6.8,16,0.375,161,3,1,11.053,0.376
+2022-05-29,Gujarat Titans,Rajasthan Royals,Gujarat Titans,133,3,5.167,11.368,14,0.422,130,9,1,7.2,0.417,130,9,7.333,7.2,15,0.417,133,3,2,11.368,0.422
+2023-03-31,Chennai Super Kings,Gujarat Titans,Gujarat Titans,178,7,8.5,9.0,23,0.375,182,5,1,10.154,0.319,182,5,10.833,10.154,23,0.319,178,7,2,9.0,0.375
+2023-04-01,Kolkata Knight Riders,Punjab Kings,Punjab Kings,146,7,7.667,10.0,20,0.354,191,5,1,9.6,0.35,191,5,9.333,9.6,26,0.35,146,7,3,10.0,0.354
+2023-04-01,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,143,9,7.833,6.6,17,0.433,193,6,1,13.2,0.333,193,6,5.0,13.2,21,0.333,143,9,2,6.6,0.433
+2023-04-02,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,203,5,14.167,8.6,29,0.3,131,8,2,9.2,0.475,131,8,5.0,9.2,13,0.475,203,5,1,8.6,0.3
+2023-04-02,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,171,7,4.833,13.8,22,0.408,172,2,0,18.0,0.378,172,2,8.833,18.0,24,0.378,171,7,3,13.8,0.408
+2023-04-03,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,217,7,13.167,10.6,28,0.267,205,7,1,11.0,0.308,205,7,13.333,11.0,22,0.308,217,7,0,10.6,0.267
+2023-04-04,Delhi Capitals,Gujarat Titans,Gujarat Titans,162,8,8.667,8.2,20,0.442,163,4,3,14.526,0.303,163,4,9.0,14.526,20,0.303,162,8,2,8.2,0.442
+2023-04-05,Punjab Kings,Rajasthan Royals,Punjab Kings,197,5,10.5,9.0,26,0.283,192,7,3,13.6,0.325,192,7,9.5,13.6,23,0.325,197,5,0,9.0,0.283
+2023-04-06,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,204,7,7.833,12.8,27,0.375,123,10,2,7.875,0.453,123,10,8.333,7.875,16,0.453,204,7,2,12.8,0.375
+2023-04-07,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,127,5,7.5,9.0,16,0.469,121,8,1,7.6,0.417,121,8,7.167,7.6,13,0.417,127,5,2,9.0,0.469
+2023-04-08,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,142,9,6.333,5.8,15,0.35,199,4,0,13.8,0.317,199,4,11.333,13.8,30,0.317,142,9,3,5.8,0.35
+2023-04-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,159,3,11.333,7.895,19,0.312,157,8,1,9.6,0.3,157,8,10.167,9.6,19,0.3,159,3,1,7.895,0.312
+2023-04-09,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,204,4,9.0,14.4,25,0.242,207,7,2,11.6,0.35,207,7,7.167,11.6,30,0.35,204,4,1,14.4,0.242
+2023-04-09,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,143,9,6.833,11.0,23,0.567,145,2,1,12.462,0.408,145,2,5.667,12.462,25,0.408,143,9,3,11.0,0.567
+2023-04-10,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,213,9,6.167,8.4,29,0.3,212,2,0,15.0,0.258,212,2,9.333,15.0,27,0.258,213,9,3,8.4,0.3
+2023-04-11,Delhi Capitals,Mumbai Indians,Mumbai Indians,172,10,8.5,10.5,25,0.373,173,4,0,10.0,0.4,173,4,11.333,10.0,24,0.4,172,10,1,10.5,0.373
+2023-04-12,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,172,6,7.5,11.8,18,0.292,175,8,1,8.0,0.283,175,8,9.5,8.0,18,0.283,172,6,1,11.8,0.292
+2023-04-13,Gujarat Titans,Punjab Kings,Gujarat Titans,154,4,9.333,8.897,18,0.286,153,8,2,10.8,0.45,153,8,8.667,10.8,21,0.45,154,4,1,8.897,0.286
+2023-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,205,7,10.333,12.6,29,0.35,228,4,2,14.2,0.25,228,4,10.833,14.2,32,0.25,205,7,3,12.6,0.35
+2023-04-15,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,151,9,5.333,8.6,20,0.383,174,6,1,8.0,0.3,174,6,7.833,8.0,21,0.3,151,9,4,8.6,0.383
+2023-04-15,Lucknow Super Giants,Punjab Kings,Punjab Kings,159,8,8.167,9.6,17,0.383,161,8,3,10.222,0.427,161,8,7.5,10.222,22,0.427,159,8,0,9.6,0.383
+2023-04-16,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,185,6,9.5,9.0,22,0.35,186,5,1,8.625,0.358,186,5,12.0,8.625,28,0.358,185,6,2,9.0,0.35
+2023-04-16,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,177,7,7.0,11.6,20,0.267,179,7,2,15.0,0.414,179,7,4.333,15.0,25,0.414,177,7,2,11.6,0.267
+2023-04-17,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,226,6,8.833,12.2,29,0.267,218,8,2,9.8,0.292,218,8,12.5,9.8,28,0.292,226,6,1,12.2,0.267
+2023-04-18,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,192,5,8.833,12.4,28,0.342,178,10,2,9.31,0.294,178,10,7.0,9.31,22,0.294,192,5,1,12.4,0.342
+2023-04-19,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,154,7,6.167,9.0,18,0.358,144,6,0,8.0,0.383,144,6,7.833,8.0,17,0.383,154,7,0,9.0,0.358
+2023-04-20,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,150,10,8.167,7.5,19,0.4,174,4,0,8.8,0.258,174,4,9.833,8.8,18,0.258,150,10,4,7.5,0.4
+2023-04-20,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,128,6,10.167,5.538,17,0.431,127,10,3,6.6,0.55,127,10,5.833,6.6,16,0.55,128,6,1,5.538,0.431
+2023-04-21,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,138,3,10.0,7.364,17,0.33,134,7,1,6.4,0.325,134,7,7.5,6.4,13,0.325,138,3,0,7.364,0.33
+2023-04-22,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,135,6,6.667,8.6,13,0.375,128,7,0,4.4,0.408,128,7,8.833,4.4,14,0.408,135,6,1,8.6,0.375
+2023-04-22,Mumbai Indians,Punjab Kings,Punjab Kings,201,6,9.0,10.4,28,0.275,214,8,1,19.2,0.367,214,8,9.667,19.2,30,0.367,201,6,1,10.4,0.275
+2023-04-23,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,235,4,9.833,15.0,32,0.283,186,8,2,9.8,0.408,186,8,6.333,9.8,26,0.408,235,4,0,15.0,0.283
+2023-04-23,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,182,6,7.833,12.2,24,0.292,189,9,2,6.6,0.283,189,9,10.333,6.6,24,0.283,182,6,1,12.2,0.292
+2023-04-24,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,144,9,8.167,7.6,17,0.35,137,6,1,9.6,0.325,137,6,6.0,9.6,14,0.325,144,9,2,7.6,0.35
+2023-04-25,Gujarat Titans,Mumbai Indians,Gujarat Titans,207,6,8.333,15.4,26,0.292,152,9,1,8.0,0.417,152,9,4.833,8.0,17,0.417,207,6,1,15.4,0.292
+2023-04-26,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,200,5,11.0,13.8,28,0.292,179,8,3,8.2,0.233,179,8,9.667,8.2,19,0.233,200,5,0,13.8,0.292
+2023-04-27,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,170,6,7.0,9.0,20,0.283,202,5,0,12.6,0.275,202,5,10.667,12.6,27,0.275,170,6,1,9.0,0.283
+2023-04-28,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,257,5,12.333,14.6,41,0.308,201,10,2,10.138,0.336,201,10,9.167,10.138,26,0.336,257,5,2,14.6,0.308
+2023-04-29,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,180,3,8.667,18.0,23,0.243,179,7,2,9.0,0.408,179,7,10.167,9.0,24,0.408,180,3,1,18.0,0.243
+2023-04-29,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,188,6,9.5,10.0,22,0.217,197,6,2,12.4,0.308,197,6,10.333,12.4,26,0.308,188,6,1,10.0,0.217
+2023-04-30,Chennai Super Kings,Punjab Kings,Punjab Kings,200,4,9.5,10.8,29,0.292,201,6,1,14.4,0.258,201,6,10.333,14.4,22,0.258,200,4,0,10.8,0.292
+2023-04-30,Mumbai Indians,Rajasthan Royals,Mumbai Indians,214,4,9.667,14.222,31,0.256,212,7,0,13.8,0.417,212,7,10.833,13.8,32,0.417,214,4,1,14.222,0.256
+2023-05-01,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,108,10,5.667,6.207,12,0.521,126,9,0,6.8,0.317,126,9,7.0,6.8,8,0.317,108,10,4,6.207,0.521
+2023-05-02,Delhi Capitals,Gujarat Titans,Delhi Capitals,130,8,4.667,10.4,14,0.475,125,6,3,9.2,0.45,125,6,5.167,9.2,13,0.45,130,8,5,10.4,0.475
+2023-05-03,Mumbai Indians,Punjab Kings,Mumbai Indians,216,4,9.0,12.0,32,0.239,214,3,1,13.8,0.242,214,3,8.333,13.8,27,0.242,216,4,2,12.0,0.239
+2023-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,171,9,8.167,8.4,22,0.375,166,8,3,6.4,0.35,166,8,8.833,6.4,20,0.35,171,9,3,8.4,0.375
+2023-05-05,Gujarat Titans,Rajasthan Royals,Gujarat Titans,119,1,8.167,0.0,17,0.325,118,10,2,6.353,0.402,118,10,8.333,6.353,12,0.402,119,1,0,0.0,0.325
+2023-05-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,140,4,9.167,6.375,16,0.34,139,8,3,9.2,0.392,139,8,5.667,9.2,16,0.392,140,4,1,6.375,0.34
+2023-05-06,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,187,3,11.667,12.6,27,0.32,181,4,0,11.0,0.258,181,4,8.5,11.0,22,0.258,187,3,1,12.6,0.32
+2023-05-07,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,214,2,10.167,12.0,30,0.275,217,6,1,14.2,0.258,217,6,8.667,14.2,28,0.258,214,2,1,12.0,0.275
+2023-05-07,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,227,2,13.0,10.2,29,0.2,171,7,0,8.2,0.35,171,7,12.0,8.2,23,0.35,227,2,0,10.2,0.2
+2023-05-08,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,182,5,8.667,12.0,26,0.317,179,7,3,11.0,0.408,179,7,9.667,11.0,27,0.408,182,5,1,12.0,0.317
+2023-05-09,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,200,4,10.333,17.333,29,0.303,199,6,2,9.4,0.3,199,6,9.333,9.4,29,0.3,200,4,2,17.333,0.303
+2023-05-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,167,8,8.167,10.0,17,0.292,140,8,3,9.8,0.433,140,8,7.833,9.8,16,0.433,167,8,1,10.0,0.292
+2023-05-11,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,149,8,6.167,6.6,16,0.383,151,1,1,0.0,0.354,151,1,13.0,0.0,25,0.354,149,8,2,6.6,0.383
+2023-05-12,Gujarat Titans,Mumbai Indians,Mumbai Indians,191,8,8.0,12.2,28,0.367,218,5,0,13.4,0.325,218,5,10.167,13.4,34,0.325,191,8,3,12.2,0.367
+2023-05-13,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,185,3,5.0,16.385,25,0.31,182,6,2,10.4,0.367,182,6,9.333,10.4,26,0.367,185,3,1,16.385,0.31
+2023-05-13,Delhi Capitals,Punjab Kings,Punjab Kings,136,8,10.833,4.2,19,0.425,167,7,3,10.0,0.408,167,7,7.667,10.0,21,0.408,136,8,0,4.2,0.425
+2023-05-14,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,59,10,4.667,0.0,8,0.619,171,5,0,10.2,0.258,171,5,7.0,10.2,19,0.258,59,10,5,0.0,0.619
+2023-05-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,144,6,8.667,10.4,12,0.333,147,4,3,8.571,0.36,147,4,7.667,8.571,17,0.36,144,6,1,10.4,0.333
+2023-05-15,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,188,9,10.833,6.8,24,0.275,154,9,4,8.6,0.392,154,9,7.5,8.6,18,0.392,188,9,1,6.8,0.275
+2023-05-16,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,177,4,5.833,13.8,17,0.308,172,5,0,9.4,0.367,172,5,9.667,9.4,19,0.367,177,4,2,13.8,0.308
+2023-05-17,Delhi Capitals,Punjab Kings,Delhi Capitals,213,2,10.167,13.0,31,0.3,198,8,1,14.0,0.367,198,8,7.833,14.0,28,0.367,213,2,0,13.0,0.3
+2023-05-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,187,2,10.667,8.538,26,0.284,186,5,2,10.6,0.275,186,5,8.167,10.6,23,0.275,187,2,0,8.538,0.284
+2023-05-19,Punjab Kings,Rajasthan Royals,Rajasthan Royals,187,5,8.0,14.0,26,0.35,189,6,1,10.286,0.373,189,6,9.5,10.286,27,0.373,187,5,3,14.0,0.35
+2023-05-20,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,223,3,8.667,15.0,31,0.258,146,9,3,6.0,0.408,146,9,5.667,6.0,17,0.408,223,3,0,15.0,0.258
+2023-05-20,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,175,7,10.167,12.2,24,0.367,176,8,1,11.4,0.392,176,8,9.0,11.4,22,0.392,175,7,1,12.2,0.367
+2023-05-21,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,201,2,10.0,13.667,31,0.287,200,5,0,8.6,0.242,200,5,8.833,8.6,27,0.242,201,2,1,13.667,0.287
+2023-05-21,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,198,4,8.5,12.0,25,0.313,197,5,0,12.2,0.225,197,5,10.333,12.2,28,0.225,198,4,1,12.0,0.313
+2023-05-23,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,172,7,8.167,9.4,18,0.267,157,10,2,11.0,0.4,157,10,6.833,11.0,18,0.4,172,7,0,9.4,0.267
+2023-05-24,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,101,10,9.0,0.667,11,0.475,182,8,2,10.2,0.35,182,8,10.333,10.2,23,0.35,101,10,2,0.667,0.475
+2023-05-26,Gujarat Titans,Mumbai Indians,Gujarat Titans,233,3,8.333,13.4,31,0.208,171,10,3,4.5,0.355,171,10,12.0,4.5,24,0.355,233,3,0,13.4,0.208
+2023-05-29,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,171,5,12.0,0.0,21,0.2,214,4,0,14.2,0.208,214,4,10.333,14.2,29,0.208,171,5,0,0.0,0.2
+2024-03-22,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,176,4,10.333,13.091,19,0.348,173,6,3,14.2,0.342,173,6,7.0,14.2,22,0.342,176,4,1,13.091,0.348
+2024-03-23,Delhi Capitals,Punjab Kings,Punjab Kings,174,9,9.0,10.0,24,0.392,177,6,2,10.846,0.276,177,6,10.0,10.846,24,0.276,174,9,1,10.0,0.392
+2024-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,208,7,7.167,17.0,27,0.342,204,7,1,15.2,0.35,204,7,10.833,15.2,27,0.35,208,7,3,17.0,0.342
+2024-03-24,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,173,6,7.833,7.8,19,0.317,193,4,2,10.0,0.25,193,4,9.0,10.0,21,0.25,173,6,3,7.8,0.317
+2024-03-24,Gujarat Titans,Mumbai Indians,Gujarat Titans,168,6,7.833,8.8,18,0.3,162,9,2,7.2,0.408,162,9,8.667,7.2,22,0.408,168,6,1,8.8,0.3
+2024-03-25,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,176,6,6.667,9.6,23,0.367,178,6,2,13.846,0.353,178,6,8.333,13.846,24,0.353,176,6,1,9.6,0.367
+2024-03-26,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,206,6,11.5,10.2,28,0.275,143,8,2,5.8,0.4,143,8,7.167,5.8,16,0.4,206,6,1,10.2,0.275
+2024-03-27,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,246,5,12.667,12.2,32,0.25,277,3,1,15.0,0.158,277,3,13.5,15.0,37,0.158,246,5,2,12.2,0.25
+2024-03-28,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,173,5,9.833,10.6,22,0.317,185,5,2,15.4,0.325,185,5,5.167,15.4,25,0.325,173,5,2,10.6,0.317
+2024-03-29,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,186,3,14.167,10.364,22,0.267,182,6,1,9.6,0.333,182,6,10.167,9.6,22,0.333,186,3,0,10.364,0.267
+2024-03-30,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,199,8,9.0,10.6,25,0.283,178,5,0,8.4,0.35,178,5,10.167,8.4,25,0.35,199,8,2,10.6,0.283
+2024-03-31,Chennai Super Kings,Delhi Capitals,Delhi Capitals,171,6,5.333,11.6,20,0.333,191,5,0,11.4,0.317,191,5,10.333,11.4,25,0.317,171,6,2,11.6,0.333
+2024-03-31,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,168,3,8.667,12.96,19,0.243,162,8,1,8.0,0.333,162,8,9.333,8.0,18,0.333,168,3,1,12.96,0.243
+2024-04-01,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,125,9,7.667,4.6,13,0.483,127,4,2,32.0,0.409,127,4,7.667,32.0,17,0.409,125,9,4,4.6,0.483
+2024-04-02,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,181,5,9.0,10.0,24,0.425,153,10,3,10.5,0.432,153,10,8.0,10.5,19,0.432,181,5,1,10.0,0.425
+2024-04-03,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,166,10,8.5,3.0,23,0.442,272,7,1,15.4,0.275,272,7,14.667,15.4,40,0.275,166,10,4,3.0,0.442
+2024-04-04,Gujarat Titans,Punjab Kings,Punjab Kings,199,4,8.667,13.0,26,0.242,200,7,2,12.828,0.269,200,7,9.0,12.828,26,0.269,199,4,1,13.0,0.242
+2024-04-05,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,165,5,8.0,7.6,20,0.317,166,4,1,9.789,0.321,166,4,13.0,9.789,20,0.321,165,5,1,7.6,0.317
+2024-04-06,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,189,4,9.0,8.88,26,0.287,183,3,0,10.8,0.258,183,3,8.833,10.8,21,0.258,189,4,1,8.88,0.287
+2024-04-07,Delhi Capitals,Mumbai Indians,Mumbai Indians,205,8,7.667,12.2,29,0.308,234,5,0,19.2,0.308,234,5,12.5,19.2,33,0.308,205,8,1,12.2,0.308
+2024-04-07,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,130,10,9.0,9.652,13,0.442,163,5,2,9.8,0.308,163,5,7.833,9.8,17,0.308,130,10,1,9.652,0.442
+2024-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,141,3,8.667,9.75,18,0.368,137,9,1,7.6,0.458,137,9,9.333,7.6,15,0.458,141,3,1,9.75,0.368
+2024-04-09,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,180,6,4.5,15.0,25,0.375,182,9,3,9.8,0.392,182,9,6.667,9.8,26,0.392,180,6,3,15.0,0.375
+2024-04-10,Gujarat Titans,Rajasthan Royals,Gujarat Titans,199,7,7.333,15.0,24,0.208,196,3,2,12.4,0.283,196,3,7.167,12.4,24,0.283,199,7,0,15.0,0.208
+2024-04-11,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,199,3,12.0,22.0,33,0.312,196,8,2,13.2,0.358,196,8,7.333,13.2,26,0.358,199,3,0,22.0,0.312
+2024-04-12,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,170,4,10.333,7.895,22,0.367,167,7,2,10.6,0.308,167,7,9.5,10.6,19,0.308,170,4,1,7.895,0.367
+2024-04-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,147,8,6.333,12.2,15,0.333,152,7,0,10.966,0.361,152,7,7.167,10.966,17,0.361,147,8,1,12.2,0.333
+2024-04-14,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,206,4,8.0,11.4,30,0.325,186,6,0,10.8,0.342,186,6,10.5,10.8,27,0.342,206,4,1,11.4,0.325
+2024-04-14,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,162,2,9.667,9.0,25,0.372,161,7,2,9.6,0.375,161,7,8.167,9.6,20,0.375,162,2,2,9.0,0.372
+2024-04-15,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,262,7,13.167,15.0,40,0.242,287,3,0,16.4,0.183,287,3,12.667,16.4,41,0.183,262,7,0,15.0,0.242
+2024-04-16,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,223,6,9.333,12.4,33,0.325,224,8,2,15.8,0.325,224,8,12.667,15.8,32,0.325,223,6,1,12.4,0.325
+2024-04-17,Delhi Capitals,Gujarat Titans,Delhi Capitals,92,4,11.167,0.0,15,0.434,89,10,4,4.4,0.562,89,10,5.0,4.4,9,0.562,92,4,4,0.0,0.434
+2024-04-18,Mumbai Indians,Punjab Kings,Mumbai Indians,192,7,9.0,12.4,24,0.283,183,10,4,10.08,0.383,183,10,6.667,10.08,22,0.383,192,7,1,12.4,0.283
+2024-04-19,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,176,6,8.5,14.2,21,0.3,180,2,0,11.5,0.272,180,2,9.0,11.5,23,0.272,176,6,2,14.2,0.3
+2024-04-20,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,199,10,14.667,7.92,31,0.348,266,7,0,12.2,0.217,266,7,20.833,12.2,40,0.217,199,10,2,7.92,0.348
+2024-04-21,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,222,6,12.5,14.6,34,0.267,221,10,2,9.4,0.367,221,10,12.333,9.4,33,0.367,222,6,3,14.6,0.267
+2024-04-21,Gujarat Titans,Punjab Kings,Gujarat Titans,146,7,7.333,10.8,18,0.33,142,10,1,9.0,0.425,142,10,9.333,9.0,17,0.425,146,7,1,10.8,0.33
+2024-04-22,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,179,9,7.5,9.6,22,0.325,183,1,0,8.727,0.312,183,1,10.167,8.727,26,0.312,179,9,3,9.6,0.325
+2024-04-23,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,210,4,8.167,15.0,29,0.267,213,4,2,16.889,0.256,213,4,7.5,16.889,29,0.256,210,4,2,15.0,0.267
+2024-04-24,Delhi Capitals,Gujarat Titans,Delhi Capitals,224,4,7.333,19.4,34,0.317,220,8,1,14.6,0.258,220,8,11.167,14.6,32,0.258,224,4,3,19.4,0.317
+2024-04-25,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,206,7,10.167,12.8,26,0.175,171,8,4,7.8,0.358,171,8,10.333,7.8,19,0.358,206,7,1,12.8,0.175
+2024-04-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,261,6,12.667,14.2,40,0.283,262,2,1,16.636,0.241,262,2,15.5,16.636,39,0.241,261,6,0,14.2,0.283
+2024-04-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,257,4,15.333,13.4,39,0.25,247,9,3,14.8,0.217,247,9,10.833,14.8,35,0.217,257,4,0,13.4,0.25
+2024-04-27,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,196,5,7.667,9.2,22,0.25,199,3,1,13.75,0.246,199,3,10.0,13.75,28,0.246,196,5,2,9.2,0.25
+2024-04-28,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,200,3,7.0,12.4,25,0.275,206,1,1,29.0,0.24,206,1,10.5,29.0,28,0.24,200,3,1,12.4,0.275
+2024-04-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,212,3,8.333,12.8,28,0.2,134,10,3,6.522,0.319,134,10,8.833,6.522,13,0.319,212,3,1,12.8,0.2
+2024-04-29,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,153,9,11.167,8.2,21,0.45,157,3,0,10.667,0.364,157,3,13.167,10.667,23,0.364,153,9,3,8.2,0.45
+2024-04-30,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,145,6,8.667,6.692,17,0.397,144,7,4,9.6,0.425,144,7,4.667,9.6,16,0.425,145,6,1,6.692,0.397
+2024-05-01,Chennai Super Kings,Punjab Kings,Punjab Kings,162,7,9.167,12.0,17,0.333,163,3,1,9.882,0.355,163,3,8.667,9.882,22,0.355,162,7,0,12.0,0.333
+2024-05-02,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,200,7,10.0,8.6,27,0.358,201,3,2,14.0,0.383,201,3,6.167,14.0,28,0.383,200,7,2,8.6,0.358
+2024-05-03,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,169,10,9.5,8.483,21,0.403,145,10,3,6.783,0.425,145,10,7.667,6.783,17,0.425,169,10,4,8.483,0.403
+2024-05-04,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,147,10,3.833,10.0,22,0.453,152,6,1,0.0,0.341,152,6,15.333,0.0,26,0.341,147,10,3,10.0,0.453
+2024-05-05,Chennai Super Kings,Punjab Kings,Chennai Super Kings,167,9,10.0,10.0,20,0.308,139,9,2,9.6,0.45,139,9,7.833,9.6,17,0.45,167,9,1,10.0,0.308
+2024-05-05,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,235,6,11.667,12.8,34,0.283,137,10,1,6.0,0.371,137,10,9.167,6.0,17,0.371,235,6,1,12.8,0.283
+2024-05-06,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,174,3,8.667,15.0,27,0.413,173,8,1,10.6,0.308,173,8,9.333,10.6,18,0.308,174,3,3,15.0,0.413
+2024-05-07,Delhi Capitals,Rajasthan Royals,Delhi Capitals,221,8,13.0,13.0,34,0.25,201,8,2,8.4,0.392,201,8,11.167,8.4,29,0.392,221,8,2,13.0,0.25
+2024-05-08,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,165,4,4.5,12.6,20,0.3,167,0,0,0.0,0.224,167,0,17.833,0.0,30,0.224,165,4,2,12.6,0.3
+2024-05-09,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,181,10,12.5,8.5,30,0.333,241,7,2,15.4,0.275,241,7,9.333,15.4,35,0.275,181,10,2,8.5,0.333
+2024-05-10,Chennai Super Kings,Gujarat Titans,Gujarat Titans,196,8,7.167,10.6,28,0.342,231,3,0,8.2,0.192,231,3,9.667,8.2,29,0.192,196,8,3,10.6,0.342
+2024-05-11,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,157,7,8.667,10.0,23,0.344,139,8,0,3.0,0.427,139,8,10.333,3.0,19,0.427,157,7,3,10.0,0.344
+2024-05-12,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,145,5,9.333,8.7,16,0.327,141,5,0,9.4,0.367,141,5,7.0,9.4,13,0.367,145,5,1,8.7,0.327
+2024-05-12,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,140,10,9.0,3.12,17,0.426,187,9,2,9.8,0.3,187,9,10.167,9.8,21,0.3,140,10,4,3.12,0.426
+2024-05-14,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,208,4,12.167,14.4,28,0.317,189,9,4,10.8,0.375,189,9,9.833,10.8,26,0.375,208,4,1,14.4,0.317
+2024-05-15,Punjab Kings,Rajasthan Royals,Punjab Kings,145,5,6.5,10.957,19,0.381,144,9,1,8.2,0.417,144,9,6.333,8.2,20,0.417,145,5,3,10.957,0.381
+2024-05-17,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,214,6,8.167,11.0,30,0.333,196,6,0,14.2,0.392,196,6,8.833,14.2,28,0.392,214,6,2,11.0,0.333
+2024-05-18,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,191,7,9.667,12.4,22,0.258,218,5,0,16.0,0.308,218,5,7.0,16.0,30,0.308,191,7,2,12.4,0.258
+2024-05-19,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,214,5,10.167,11.0,29,0.267,215,6,2,7.92,0.278,215,6,14.0,7.92,28,0.278,214,5,0,11.0,0.267
+2024-05-21,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,164,2,10.5,0.0,26,0.329,159,10,4,7.556,0.368,159,10,7.5,7.556,19,0.368,164,2,1,0.0,0.329
+2024-05-22,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,174,6,7.833,12.0,25,0.298,172,8,1,9.4,0.308,172,8,8.333,9.4,21,0.308,174,6,1,12.0,0.298
+2024-05-24,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,139,7,8.5,7.4,18,0.45,175,9,3,8.6,0.333,175,9,11.333,8.6,20,0.333,139,7,1,7.4,0.45
+2024-05-26,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,114,2,12.0,0.0,16,0.333,113,10,3,6.571,0.477,113,10,6.667,6.571,11,0.477,114,2,1,0.0,0.333
+2025-03-22,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,174,8,10.0,5.8,26,0.4,177,3,0,15.0,0.255,177,3,13.333,15.0,28,0.255,174,8,1,5.8,0.4
+2025-03-23,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,242,6,12.833,14.6,35,0.325,286,6,1,15.6,0.2,286,6,15.667,15.6,46,0.2,242,6,3,14.6,0.325
+2025-03-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,158,6,10.333,9.36,17,0.322,155,9,3,9.0,0.392,155,9,8.667,9.0,18,0.392,158,6,1,9.36,0.322
+2025-03-24,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,211,9,9.667,14.0,32,0.325,209,8,1,7.8,0.367,209,8,10.667,7.8,31,0.367,211,9,4,14.0,0.325
+2025-03-25,Gujarat Titans,Punjab Kings,Punjab Kings,232,5,10.167,11.6,31,0.275,243,5,1,17.4,0.333,243,5,12.167,17.4,38,0.333,232,5,1,11.6,0.275
+2025-03-26,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,153,2,6.667,14.0,18,0.295,151,9,1,8.2,0.392,151,9,9.0,8.2,18,0.392,153,2,0,14.0,0.295
+2025-03-27,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,193,5,12.833,14.571,29,0.289,190,9,2,9.4,0.325,190,9,10.333,9.4,22,0.325,193,5,1,14.571,0.289
+2025-03-28,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,146,8,5.0,9.6,19,0.4,196,7,1,11.6,0.358,196,7,9.333,11.6,27,0.358,146,8,3,9.6,0.4
+2025-03-29,Gujarat Titans,Mumbai Indians,Gujarat Titans,196,8,11.0,11.2,22,0.292,160,6,2,8.4,0.375,160,6,8.0,8.4,19,0.375,196,8,0,11.2,0.292
+2025-03-30,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,176,6,7.0,10.8,22,0.333,182,9,1,7.4,0.342,182,9,13.167,7.4,24,0.342,176,6,1,10.8,0.333
+2025-03-30,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,166,3,8.667,16.0,22,0.25,163,10,4,6.273,0.366,163,10,9.667,6.273,20,0.366,166,3,0,16.0,0.25
+2025-03-31,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,116,10,6.833,11.25,15,0.51,121,2,1,0.0,0.39,121,2,9.167,0.0,16,0.39,116,10,4,11.25,0.51
+2025-04-01,Lucknow Super Giants,Punjab Kings,Punjab Kings,171,7,6.5,10.8,23,0.367,177,2,1,16.5,0.306,177,2,10.333,16.5,27,0.306,171,7,3,10.8,0.367
+2025-04-02,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,170,2,7.0,12.706,25,0.336,169,8,3,12.8,0.417,169,8,6.333,12.8,24,0.417,170,2,1,12.706,0.336
+2025-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,200,6,8.833,15.6,28,0.317,120,10,3,3.6,0.42,120,10,5.5,3.6,14,0.42,200,6,2,15.6,0.317
+2025-04-04,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,203,8,11.5,11.4,29,0.317,191,5,2,9.6,0.242,191,5,10.667,9.6,24,0.242,203,8,0,11.4,0.317
+2025-04-05,Chennai Super Kings,Delhi Capitals,Delhi Capitals,158,5,7.667,10.4,12,0.258,183,6,1,9.0,0.242,183,6,8.5,9.0,22,0.242,158,5,3,10.4,0.258
+2025-04-05,Punjab Kings,Rajasthan Royals,Rajasthan Royals,155,9,7.167,4.8,16,0.342,205,4,0,12.6,0.283,205,4,8.833,12.6,27,0.283,155,9,3,4.8,0.342
+2025-04-06,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,153,3,8.0,13.8,23,0.28,152,8,2,9.4,0.375,152,8,7.5,9.4,21,0.375,153,3,2,13.8,0.28
+2025-04-07,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,209,9,9.0,10.4,33,0.392,221,5,1,14.0,0.258,221,5,12.167,14.0,31,0.258,209,9,2,10.4,0.392
+2025-04-08,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,234,7,15.0,12.2,37,0.35,238,3,0,13.6,0.267,238,3,9.833,13.6,33,0.267,234,7,1,12.2,0.35
+2025-04-08,Chennai Super Kings,Punjab Kings,Punjab Kings,201,5,9.833,11.2,24,0.242,219,6,3,11.0,0.283,219,6,12.5,11.0,27,0.283,201,5,0,11.2,0.242
+2025-04-09,Gujarat Titans,Rajasthan Royals,Gujarat Titans,217,6,9.333,14.4,29,0.292,159,10,2,4.615,0.388,159,10,9.5,4.615,19,0.388,217,6,1,14.4,0.292
+2025-04-10,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,169,4,6.5,16.941,22,0.299,163,7,2,9.2,0.442,163,7,10.667,9.2,19,0.442,169,4,3,16.941,0.299
+2025-04-11,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,103,9,5.167,5.8,9,0.5,107,2,1,0.0,0.41,107,2,11.833,0.0,14,0.41,103,9,2,5.8,0.5
+2025-04-12,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,245,6,14.833,13.6,34,0.225,247,2,0,12.0,0.243,247,2,13.833,12.0,40,0.243,245,6,1,13.6,0.225
+2025-04-12,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,180,6,9.0,9.0,21,0.25,186,4,0,7.111,0.333,186,4,10.167,7.111,25,0.333,180,6,0,9.0,0.25
+2025-04-13,Delhi Capitals,Mumbai Indians,Mumbai Indians,193,10,12.0,8.75,28,0.289,205,5,1,11.8,0.342,205,5,9.833,11.8,32,0.342,193,10,1,8.75,0.289
+2025-04-13,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,173,4,7.5,11.8,23,0.275,175,1,0,11.6,0.295,175,1,10.833,11.6,23,0.295,173,4,0,11.8,0.275
+2025-04-14,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,168,5,9.833,12.667,23,0.333,166,7,2,11.4,0.433,166,7,7.0,11.4,21,0.433,168,5,1,12.667,0.333
+2025-04-15,Kolkata Knight Riders,Punjab Kings,Punjab Kings,95,10,9.167,0.0,12,0.549,111,10,4,4.0,0.473,111,10,9.0,4.0,15,0.473,95,10,2,0.0,0.549
+2025-04-17,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,166,6,9.167,9.158,23,0.349,162,5,0,11.4,0.317,162,5,7.667,11.4,19,0.317,166,6,1,9.158,0.349
+2025-04-18,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,98,5,7.667,0.0,13,0.425,95,9,4,0.0,0.512,95,9,5.5,0.0,13,0.512,98,5,2,0.0,0.425
+2025-04-19,Delhi Capitals,Gujarat Titans,Gujarat Titans,203,8,12.167,10.6,25,0.233,204,3,1,10.615,0.25,204,3,11.167,10.615,28,0.25,203,8,2,10.6,0.233
+2025-04-19,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,180,5,7.667,11.8,20,0.283,178,5,0,8.6,0.317,178,5,10.167,8.6,22,0.317,180,5,2,11.8,0.283
+2025-04-20,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,157,6,10.333,7.6,17,0.308,159,3,1,9.652,0.31,159,3,9.0,9.652,20,0.31,157,6,1,7.6,0.308
+2025-04-20,Chennai Super Kings,Mumbai Indians,Mumbai Indians,176,5,8.0,11.6,20,0.325,177,1,0,30.0,0.287,177,1,10.333,30.0,25,0.287,176,5,1,11.6,0.325
+2025-04-21,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,198,3,7.5,11.8,29,0.258,159,8,2,9.0,0.358,159,8,7.5,9.0,19,0.358,198,3,0,11.8,0.258
+2025-04-22,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,161,2,9.0,12.0,20,0.308,159,6,0,8.2,0.283,159,6,8.5,8.2,18,0.283,161,2,1,12.0,0.308
+2025-04-23,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,146,3,9.333,13.5,23,0.34,143,8,4,10.6,0.442,143,8,4.0,10.6,18,0.442,146,3,1,13.5,0.34
+2025-04-24,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,194,9,12.0,9.2,29,0.4,205,5,0,9.8,0.258,205,5,9.833,9.8,28,0.258,194,9,2,9.2,0.4
+2025-04-25,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,154,10,8.333,5.586,19,0.387,155,5,2,11.182,0.411,155,5,6.167,11.182,18,0.411,154,10,3,5.586,0.387
+2025-04-27,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,161,10,10.0,4.2,21,0.442,215,7,1,11.6,0.317,215,7,11.0,11.6,32,0.317,161,10,1,4.2,0.442
+2025-04-27,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,162,8,8.667,10.8,20,0.35,165,4,3,14.571,0.306,165,4,5.833,14.571,20,0.306,162,8,2,10.8,0.35
+2025-04-28,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,209,4,8.833,12.0,24,0.225,212,2,0,15.6,0.284,212,2,14.5,15.6,34,0.284,209,4,0,12.0,0.225
+2025-04-29,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,190,9,9.667,8.8,28,0.35,204,9,1,9.0,0.325,204,9,13.167,9.0,29,0.325,190,9,2,8.8,0.35
+2025-04-30,Chennai Super Kings,Punjab Kings,Punjab Kings,190,10,8.0,12.923,26,0.336,194,6,1,11.786,0.28,194,6,8.5,11.786,28,0.28,190,10,3,12.923,0.336
+2025-05-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,217,2,9.667,14.2,33,0.275,117,10,5,3.429,0.515,117,10,10.333,3.429,15,0.515,217,2,0,14.2,0.275
+2025-05-02,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,224,6,13.667,12.4,31,0.183,186,6,1,9.4,0.258,186,6,9.5,9.4,21,0.258,224,6,0,12.4,0.183
+2025-05-03,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,211,5,9.667,10.2,29,0.217,213,5,0,13.8,0.367,213,5,11.833,13.8,34,0.367,211,5,2,10.2,0.217
+2025-05-04,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,206,4,9.333,17.0,28,0.3,205,8,2,10.0,0.308,205,8,9.833,10.0,27,0.308,206,4,1,17.0,0.3
+2025-05-04,Lucknow Super Giants,Punjab Kings,Punjab Kings,199,7,6.333,11.2,27,0.4,236,5,2,15.0,0.258,236,5,11.0,15.0,34,0.258,199,7,3,11.2,0.4
+2025-05-06,Gujarat Titans,Mumbai Indians,Gujarat Titans,147,7,4.833,8.5,17,0.395,155,8,2,7.8,0.367,155,8,9.333,7.8,19,0.367,147,7,1,8.5,0.395
+2025-05-07,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,183,8,10.333,9.214,24,0.373,179,6,1,11.0,0.325,179,6,11.167,11.0,24,0.325,183,8,5,9.214,0.373
+2025-05-18,Punjab Kings,Rajasthan Royals,Punjab Kings,219,5,9.667,14.4,32,0.283,209,7,1,11.0,0.35,209,7,14.833,11.0,31,0.35,219,5,3,14.4,0.283
+2025-05-18,Delhi Capitals,Gujarat Titans,Gujarat Titans,199,3,7.5,12.6,27,0.292,205,0,0,12.75,0.184,205,0,9.833,12.75,26,0.184,199,3,1,12.6,0.292
+2025-05-19,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,205,7,11.5,11.8,28,0.3,206,5,1,10.5,0.236,206,5,12.0,10.5,28,0.236,205,7,0,11.8,0.3
+2025-05-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,187,8,11.333,8.2,24,0.35,188,4,1,17.538,0.291,188,4,9.333,17.538,27,0.291,187,8,3,8.2,0.35
+2025-05-21,Delhi Capitals,Mumbai Indians,Mumbai Indians,121,10,8.167,4.8,16,0.455,180,5,2,13.2,0.325,180,5,9.0,13.2,24,0.325,121,10,3,4.8,0.455
+2025-05-22,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,202,9,11.167,7.4,28,0.267,235,2,0,15.0,0.292,235,2,8.833,15.0,34,0.292,202,9,1,7.4,0.267
+2025-05-23,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,189,10,12.0,4.552,24,0.345,231,6,2,12.6,0.225,231,6,11.833,12.6,31,0.225,189,10,0,4.552,0.345
+2025-05-24,Delhi Capitals,Punjab Kings,Delhi Capitals,208,4,10.167,11.778,29,0.239,206,8,2,12.8,0.283,206,8,10.0,12.8,27,0.283,208,4,1,11.778,0.239
+2025-05-25,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,230,5,11.333,13.4,33,0.292,147,10,3,6.286,0.423,147,10,5.833,6.286,17,0.423,230,5,1,13.4,0.292
+2025-05-25,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,168,10,9.833,10.364,23,0.411,278,3,0,14.8,0.242,278,3,13.167,14.8,41,0.242,168,10,2,10.364,0.411
+2025-05-26,Mumbai Indians,Punjab Kings,Punjab Kings,184,7,8.667,10.6,25,0.383,187,3,1,11.714,0.351,187,3,7.833,11.714,28,0.351,184,7,1,10.6,0.383
+2025-05-27,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,227,3,9.167,12.6,31,0.267,230,4,1,14.455,0.205,230,4,11.0,14.455,37,0.205,227,3,1,12.6,0.267
+2025-05-29,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,101,10,8.0,0.0,11,0.482,106,2,1,0.0,0.283,106,2,10.167,0.0,16,0.283,101,10,4,0.0,0.482
+2025-05-30,Gujarat Titans,Mumbai Indians,Mumbai Indians,208,6,11.0,9.4,29,0.267,228,5,0,13.6,0.275,228,5,13.167,13.6,31,0.275,208,6,1,9.4,0.267
+2025-06-01,Mumbai Indians,Punjab Kings,Punjab Kings,203,6,10.833,11.4,26,0.267,207,5,2,15.0,0.307,207,5,10.667,15.0,30,0.307,203,6,1,11.4,0.267
+2025-06-03,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,184,7,8.667,13.0,22,0.35,190,9,1,11.6,0.233,190,9,9.167,11.6,20,0.233,184,7,1,13.0,0.35
