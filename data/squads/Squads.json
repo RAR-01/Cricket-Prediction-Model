@@ -1,68 +1,91 @@
 {
   "Chennai Super Kings": [
-    "Anshul Kamboj", "Gurjapneet Singh", "Jamie Overton", "MS Dhoni",
-    "Mukesh Choudhary", "Nathan Ellis", "Noor Ahmad", "Ramakrishna Ghosh",
-    "Sanju Samson", "Ruturaj Gaikwad", "Shivam Dube", "Shreyas Gopal",
-    "Syed Khaleel Ahmed", "Ayush Mhatre", "Dewald Brevis", "Urvil Patel"
+    "Ruturaj Gaikwad", "MS Dhoni", "Sanju Samson", "Dewald Brevis",
+    "Ayush Mhatre", "Shivam Dube", "Urvil Patel", "Kartik Sharma",
+    "Prashant Veer", "Sarfaraz Khan", "Matthew Short", "Aman Khan",
+    "Ramakrishna Ghosh", "Anshul Kamboj", "Noor Ahmad", "Akeal Hosein",
+    "Rahul Chahar", "Shreyas Gopal", "Nathan Ellis", "Matt Henry",
+    "Khaleel Ahmed", "Mukesh Choudhary", "Gurjapneet Singh",
+    "Jamie Overton", "Zak Foulkes"
   ],
   "Delhi Capitals": [
-    "Abhishek Porel", "Ajay Mandal", "Ashutosh Sharma", "Axar Patel",
-    "Dushmantha Chameera", "Karun Nair", "KL Rahul", "Kuldeep Yadav",
-    "Madhav Tiwari", "Mitchell Starc", "Mukesh Kumar", "Nitish Rana",
-    "Sameer Rizvi", "T Natarajan", "Tripurana Vijay", "Tristan Stubbs",
-    "Vipraj Nigam"
+    "Axar Patel", "KL Rahul", "Abhishek Porel", "Tristan Stubbs",
+    "Karun Nair", "Sameer Rizvi", "Ashutosh Sharma", "Vipraj Nigam",
+    "Madhav Tiwari", "Tripurana Vijay", "Ajay Mandal", "Kuldeep Yadav",
+    "Mitchell Starc", "T Natarajan", "Mukesh Kumar", "Dushmantha Chameera",
+    "Nitish Rana", "David Miller", "Ben Duckett", "Pathum Nissanka",
+    "Auqib Dar", "Lungi Ngidi", "Sahil Parakh", "Prithvi Shaw",
+    "Kyle Jamieson"
   ],
   "Gujarat Titans": [
-    "Anuj Rawat", "Glenn Phillips", "Gurnoor Singh Brar", "Ishant Sharma",
-    "Jayant Yadav", "Jos Buttler", "Kagiso Rabada", "Kumar Kushagra",
-    "Manav Suthar", "Mohammad Siraj", "Mohd Arshad Khan", "Nishant Sindhu",
-    "Prasidh Krishna", "R Sai Kishore", "Rahul Tewatia", "Rashid Khan",
-    "Sai Sudharsan", "Shahrukh Khan", "Shubman Gill", "Washington Sundar"
+    "Shubman Gill", "Sai Sudharsan", "Jos Buttler", "Kumar Kushagra",
+    "Anuj Rawat", "Tom Banton", "Glenn Phillips", "Nishant Sindhu",
+    "Washington Sundar", "Arshad Khan", "Shahrukh Khan", "Rahul Tewatia",
+    "Jason Holder", "Jayant Yadav", "Rashid Khan", "R Sai Kishore",
+    "Manav Suthar", "Kagiso Rabada", "Mohammad Siraj", "Prasidh Krishna",
+    "Ishant Sharma", "Gurnoor Singh Brar", "Ashok Sharma",
+    "Prithvi Raj Yarra", "Luke Wood"
   ],
   "Kolkata Knight Riders": [
-    "Ajinkya Rahane", "Angkrish Raghuvanshi", "Anukul Roy", "Harshit Rana",
-    "Manish Pandey", "Ramandeep Singh", "Rinku Singh", "Rovman Powell",
-    "Sunil Narine", "Umran Malik", "Vaibhav Arora", "Varun Chakaravarthy"
+    "Ajinkya Rahane", "Rinku Singh", "Angkrish Raghuvanshi", "Manish Pandey",
+    "Rahul Tripathi", "Rovman Powell", "Cameron Green", "Sunil Narine",
+    "Ramandeep Singh", "Anukul Roy", "Finn Allen", "Tim Seifert",
+    "Tejasvi Singh", "Rachin Ravindra", "Varun Chakaravarthy",
+    "Vaibhav Arora", "Harshit Rana", "Umran Malik", "Matheesha Pathirana",
+    "Mustafizur Rahman", "Akash Deep", "Kartik Tyagi", "Prashant Solanki",
+    "Daksh Kamra", "Sarthak Ranjan"
   ],
   "Lucknow Super Giants": [
-    "Abdul Samad", "Aiden Markram", "Akash Singh", "Arjun Tendulkar",
-    "Arshin Kulkarni", "Avesh Khan", "Ayush Badoni", "Digvesh Rathi",
-    "Himmat Singh", "Manimaran Siddharth", "Matthew Breetzke", "Mayank Yadav",
-    "Mohammed Shami", "Mitchell Marsh", "Mohsin Khan", "Nicholas Pooran",
-    "Prince Yadav", "Rishabh Pant", "Shahbaz Ahmed"
+    "Rishabh Pant", "Nicholas Pooran", "Aiden Markram", "Abdul Samad",
+    "Ayush Badoni", "Himmat Singh", "Matthew Breetzke", "Mitchell Marsh",
+    "Shahbaz Ahmed", "Arshin Kulkarni", "Mayank Yadav", "Avesh Khan",
+    "Mohsin Khan", "Manimaran Siddharth", "Digvesh Rathi", "Prince Yadav",
+    "Akash Singh", "Mohammed Shami", "Arjun Tendulkar", "Wanindu Hasaranga",
+    "Anrich Nortje", "Mukul Choudhary", "Naman Tiwari",
+    "Akshat Raghuwanshi", "Josh Inglis"
   ],
   "Mumbai Indians": [
-    "Allah Ghazanfar", "Ashwani Kumar", "Corbin Bosch", "Deepak Chahar",
-    "Hardik Pandya", "Jasprit Bumrah", "Mayank Markande", "Mitchell Santner",
-    "Naman Dhir", "Raghu Sharma", "Raj Angad Bawa", "Robin Minz",
-    "Rohit Sharma", "Ryan Rickelton", "Shardul Thakur", "Sherfane Rutherford",
-    "Suryakumar Yadav", "Tilak Verma", "Trent Boult", "Will Jacks",
-    "Yuzvendra Chahal"
+    "Rohit Sharma", "Suryakumar Yadav", "Tilak Verma", "Hardik Pandya",
+    "Jasprit Bumrah", "Trent Boult", "Ryan Rickelton", "Quinton de Kock",
+    "Robin Minz", "Naman Dhir", "Will Jacks", "Mitchell Santner",
+    "Corbin Bosch", "Deepak Chahar", "Ashwani Kumar", "Raghu Sharma",
+    "Raj Angad Bawa", "Allah Ghazanfar", "Sherfane Rutherford",
+    "Shardul Thakur", "Mayank Markande", "Danish Malewar",
+    "Mohammad Izhar", "Atharva Ankolekar", "Mayank Rawat"
   ],
   "Punjab Kings": [
-    "Arshdeep Singh", "Azmatullah Omarzai", "Harnoor Pannu", "Harpreet Brar",
-    "Lockie Ferguson", "Marco Jansen", "Marcus Stoinis", "Mitch Owen",
-    "Musheer Khan", "Nehal Wadhera", "Prabhsimran Singh", "Priyansh Arya",
-    "Pyla Avinash", "Shashank Singh", "Shreyas Iyer", "Suryansh Shedge",
-    "Vyshak Vijaykumar", "Xavier Bartlett", "Yash Thakur"
+    "Shreyas Iyer", "Prabhsimran Singh", "Priyansh Arya", "Nehal Wadhera",
+    "Shashank Singh", "Harnoor Pannu", "Pyla Avinash", "Vishnu Vinod",
+    "Musheer Khan", "Suryansh Shedge", "Marcus Stoinis", "Azmatullah Omarzai",
+    "Marco Jansen", "Mitchell Owen", "Cooper Connolly", "Ben Dwarshuis",
+    "Harpreet Brar", "Yuzvendra Chahal", "Arshdeep Singh",
+    "Lockie Ferguson", "Xavier Bartlett", "Vyshak Vijaykumar",
+    "Yash Thakur", "Pravin Dubey", "Vishal Nishad"
   ],
   "Rajasthan Royals": [
-    "Dhruv Jurel", "Donovan Ferreira", "Jofra Archer", "Kwena Maphaka",
-    "Lhuan-Dre Pretorius", "Nandre Burger", "Ravindra Jadeja", "Riyan Parag",
-    "Sam Curran", "Sandeep Sharma", "Shimron Hetmyer", "Shubham Dubey",
-    "Tushar Deshpande", "Vaibhav Suryavanshi", "Yashaswi Jaiswal", "Yudhvir Charak"
+    "Yashaswi Jaiswal", "Vaibhav Suryavanshi", "Riyan Parag", "Shimron Hetmyer",
+    "Shubham Dubey", "Dhruv Jurel", "Donovan Ferreira", "Ravindra Jadeja",
+    "Sam Curran", "Ravi Bishnoi", "Sandeep Sharma", "Jofra Archer",
+    "Nandre Burger", "Kwena Maphaka", "Tushar Deshpande", "Yudhvir Charak",
+    "Adam Milne", "Kuldeep Sen", "Ravi Singh", "Aman Rao Perala",
+    "Brijesh Sharma", "Sushant Mishra", "Yash Raj Punja", "Vignesh Puthur"
   ],
   "Royal Challengers Bengaluru": [
-    "Abhinandan Singh", "Bhuvneshwar Kumar", "Devdutt Padikkal", "Jacob Bethell",
-    "Jitesh Sharma", "Josh Hazlewood", "Krunal Pandya", "Nuwan Thushara",
-    "Phil Salt", "Rajat Patidar", "Rasikh Dar Mir", "Romario Shepherd",
-    "Suyash Sharma", "Swapnil Singh", "Tim David", "Virat Kohli",
-    "Yash Dayal"
+    "Virat Kohli", "Rajat Patidar", "Devdutt Padikkal", "Phil Salt",
+    "Jitesh Sharma", "Jordan Cox", "Tim David", "Venkatesh Iyer",
+    "Krunal Pandya", "Romario Shepherd", "Jacob Bethell", "Swapnil Singh",
+    "Satvik Deswal", "Mangesh Yadav", "Vicky Ostwal", "Vihaan Malhotra",
+    "Kanishk Chouhan", "Josh Hazlewood", "Bhuvneshwar Kumar", "Yash Dayal",
+    "Rasikh Dar Mir", "Nuwan Thushara", "Suyash Sharma",
+    "Abhinandan Singh", "Jacob Duffy"
   ],
   "Sunrisers Hyderabad": [
-    "Abhishek Sharma", "Aniket Verma", "Brydon Carse", "Eshan Malinga",
-    "Harsh Dubey", "Harshal Patel", "Heinrich Klaasen", "Ishan Kishan",
-    "Jaydev Unadkat", "Kamindu Mendis", "Nitish Kumar Reddy", "Pat Cummins",
-    "Smaran Ravichandaran", "Travis Head", "Zeeshan Ansari"
+    "Pat Cummins", "Travis Head", "Abhishek Sharma", "Heinrich Klaasen",
+    "Ishan Kishan", "Nitish Kumar Reddy", "Aniket Verma",
+    "Smaran Ravichandaran", "Harshal Patel", "Jaydev Unadkat",
+    "Brydon Carse", "Eshan Malinga", "Zeeshan Ansari", "Harsh Dubey",
+    "Kamindu Mendis", "Liam Livingstone", "Jack Edwards", "Shivam Mavi",
+    "Salil Arora", "Shivang Kumar", "Sakib Hussain", "Onkar Tarmale",
+    "Praful Hinge", "Amit Kumar"
   ]
 }
