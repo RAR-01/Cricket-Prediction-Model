@@ -1,11 +1,11 @@
-team,bat_score,bowl_score
-Royal Challengers Bengaluru,338.976,2.311
-Rajasthan Royals,252.508,2.299
-Sunrisers Hyderabad,239.485,2.213
-Chennai Super Kings,235.462,2.562
-Lucknow Super Giants,226.283,2.712
-Delhi Capitals,214.588,3.312
-Mumbai Indians,206.539,2.282
-Gujarat Titans,184.089,1.661
-Kolkata Knight Riders,155.828,3.438
-Punjab Kings,151.953,2.139
+team,bat_score,bowl_score,bat_score_norm,bowl_score_norm
+Royal Challengers Bengaluru,331.488,3.531,1.0,0.5491
+Lucknow Super Giants,301.061,4.151,0.8961,0.8701
+Rajasthan Royals,263.438,3.458,0.7676,0.5113
+Chennai Super Kings,263.247,3.243,0.7669,0.4
+Sunrisers Hyderabad,256.553,3.808,0.744,0.6925
+Delhi Capitals,252.657,4.402,0.7307,1.0
+Gujarat Titans,197.053,3.298,0.5408,0.4285
+Mumbai Indians,196.361,3.288,0.5384,0.4233
+Punjab Kings,195.942,3.597,0.537,0.5833
+Kolkata Knight Riders,155.828,4.028,0.4,0.8064
